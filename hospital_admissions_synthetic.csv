@@ -1,0 +1,2001 @@
+Patient_ID,Age,Gender,Department,Admission_Type,Admission_Date,Discharge_Date,Length_of_Stay_Days,Total_Beds,Beds_Occupied,Bed_Occupancy_Rate,Wait_Time_Minutes
+P00001,3,Male,Pediatrics,Emergency,2024-08-22,2024-09-06,15,115,21,18.26,150
+P00002,28,Male,Neurology,Scheduled,2025-05-25,2025-05-26,1,72,26,36.11,469
+P00003,74,Female,Orthopedics,Emergency,2023-11-15,2023-11-30,15,138,96,69.57,268
+P00004,13,Female,Cardiology,Scheduled,2024-09-20,2024-09-25,5,132,62,46.97,827
+P00005,23,Male,Orthopedics,Scheduled,2024-11-15,2024-11-26,11,113,24,21.24,782
+P00006,53,Male,Pediatrics,Emergency,2024-02-29,2024-03-06,6,78,53,67.95,34
+P00007,41,Female,Orthopedics,Scheduled,2025-06-27,2025-07-11,14,125,39,31.2,396
+P00008,49,Female,Neurology,Scheduled,2025-04-27,2025-05-04,7,98,44,44.9,324
+P00009,22,Male,Cardiology,Scheduled,2025-05-18,2025-06-02,15,101,22,21.78,497
+P00010,85,Female,Orthopedics,Emergency,2023-12-29,2024-01-13,15,66,41,62.12,91
+P00011,70,Male,Cardiology,Emergency,2024-04-14,2024-04-29,15,128,123,96.09,157
+P00012,4,Male,Pediatrics,Emergency,2024-01-12,2024-01-27,15,81,73,90.12,44
+P00013,10,Male,Neurology,Emergency,2023-10-31,2023-11-06,6,56,42,75.0,96
+P00014,33,Female,Cardiology,Scheduled,2024-02-19,2024-02-26,7,64,51,79.69,33
+P00015,16,Female,Cardiology,Scheduled,2025-05-31,2025-06-09,9,136,127,93.38,1053
+P00016,41,Female,Cardiology,Scheduled,2025-03-27,2025-04-06,10,86,51,59.3,780
+P00017,46,Female,General Medicine,Emergency,2024-10-27,2024-10-30,3,84,76,90.48,181
+P00018,85,Female,Pediatrics,Emergency,2024-04-11,2024-04-19,8,50,42,84.0,168
+P00019,78,Male,Pediatrics,Emergency,2024-05-29,2024-06-02,4,56,47,83.93,216
+P00020,68,Male,Neurology,Emergency,2024-02-04,2024-02-13,9,57,39,68.42,265
+P00021,77,Female,Orthopedics,Emergency,2024-10-10,2024-10-18,8,70,70,100.0,237
+P00022,7,Male,Pediatrics,Emergency,2025-05-19,2025-05-21,2,110,35,31.82,61
+P00023,44,Female,Orthopedics,Scheduled,2025-07-03,2025-07-09,6,131,27,20.61,537
+P00024,66,Male,Cardiology,Scheduled,2023-10-22,2023-10-27,5,51,47,92.16,1346
+P00025,72,Male,Neurology,Scheduled,2025-08-21,2025-08-25,4,52,44,84.62,309
+P00026,22,Male,Orthopedics,Emergency,2023-11-06,2023-11-08,2,104,42,40.38,11
+P00027,49,Female,General Medicine,Scheduled,2024-06-02,2024-06-07,5,111,77,69.37,319
+P00028,31,Female,Neurology,Emergency,2023-08-25,2023-09-04,10,93,47,50.54,231
+P00029,22,Male,Neurology,Scheduled,2024-06-13,2024-06-23,10,91,75,82.42,848
+P00030,9,Female,Neurology,Emergency,2024-08-19,2024-09-03,15,80,35,43.75,213
+P00031,22,Female,Pediatrics,Emergency,2023-08-28,2023-09-11,14,140,91,65.0,181
+P00032,59,Female,Orthopedics,Scheduled,2024-03-31,2024-04-12,12,91,88,96.7,205
+P00033,62,Male,Pediatrics,Scheduled,2023-10-10,2023-10-24,14,94,94,100.0,532
+P00034,44,Female,Neurology,Scheduled,2025-03-04,2025-03-06,2,66,43,65.15,422
+P00035,28,Male,General Medicine,Emergency,2023-09-25,2023-10-03,8,82,35,42.68,204
+P00036,22,Female,Pediatrics,Emergency,2023-11-11,2023-11-23,12,132,119,90.15,116
+P00037,90,Female,Cardiology,Emergency,2025-03-12,2025-03-19,7,67,66,98.51,68
+P00038,22,Female,Pediatrics,Scheduled,2025-01-28,2025-01-29,1,106,65,61.32,244
+P00039,76,Male,Pediatrics,Scheduled,2024-06-14,2024-06-25,11,75,68,90.67,1349
+P00040,77,Male,Orthopedics,Scheduled,2024-09-14,2024-09-16,2,107,31,28.97,61
+P00041,58,Male,Pediatrics,Scheduled,2024-03-30,2024-04-13,14,121,105,86.78,115
+P00042,79,Male,Orthopedics,Emergency,2024-06-16,2024-06-24,8,91,59,64.84,111
+P00043,30,Male,Cardiology,Emergency,2023-09-29,2023-10-14,15,122,48,39.34,139
+P00044,10,Male,Orthopedics,Emergency,2024-01-10,2024-01-20,10,61,61,100.0,152
+P00045,40,Female,General Medicine,Emergency,2023-10-25,2023-10-27,2,83,41,49.4,167
+P00046,45,Male,Pediatrics,Scheduled,2025-06-07,2025-06-20,13,142,98,69.01,793
+P00047,46,Female,General Medicine,Emergency,2024-10-25,2024-10-31,6,139,123,88.49,53
+P00048,61,Female,Cardiology,Emergency,2024-08-15,2024-08-27,12,65,49,75.38,268
+P00049,63,Female,General Medicine,Scheduled,2025-04-07,2025-04-13,6,137,98,71.53,1312
+P00050,57,Female,Neurology,Scheduled,2024-12-17,2024-12-20,3,84,63,75.0,1078
+P00051,21,Female,Pediatrics,Emergency,2024-08-02,2024-08-11,9,132,62,46.97,147
+P00052,8,Female,Orthopedics,Emergency,2025-03-16,2025-03-17,1,71,37,52.11,163
+P00053,58,Male,Neurology,Scheduled,2024-09-25,2024-10-07,12,102,48,47.06,918
+P00054,79,Male,Cardiology,Scheduled,2024-08-11,2024-08-25,14,128,121,94.53,1165
+P00055,64,Female,Pediatrics,Emergency,2024-12-28,2025-01-11,14,61,34,55.74,287
+P00056,79,Female,General Medicine,Scheduled,2024-06-10,2024-06-22,12,71,61,85.92,1197
+P00057,52,Female,Cardiology,Emergency,2024-12-24,2025-01-01,8,53,34,64.15,93
+P00058,39,Female,Pediatrics,Scheduled,2025-06-05,2025-06-17,12,107,62,57.94,687
+P00059,33,Female,Neurology,Scheduled,2024-08-03,2024-08-13,10,95,22,23.16,192
+P00060,63,Female,Neurology,Emergency,2023-11-25,2023-12-08,13,100,86,86.0,129
+P00061,6,Male,Pediatrics,Scheduled,2024-05-07,2024-05-15,8,78,32,41.03,842
+P00062,29,Male,Orthopedics,Scheduled,2023-11-04,2023-11-09,5,85,77,90.59,1293
+P00063,46,Male,Pediatrics,Scheduled,2025-01-27,2025-02-10,14,131,32,24.43,29
+P00064,15,Female,Cardiology,Scheduled,2025-07-16,2025-07-24,8,62,37,59.68,445
+P00065,50,Male,Neurology,Scheduled,2024-04-21,2024-04-29,8,100,45,45.0,1156
+P00066,62,Female,Cardiology,Scheduled,2023-09-10,2023-09-21,11,106,20,18.87,226
+P00067,37,Male,Pediatrics,Emergency,2024-07-28,2024-08-09,12,93,70,75.27,63
+P00068,3,Male,Pediatrics,Emergency,2023-09-01,2023-09-06,5,74,34,45.95,118
+P00069,33,Male,Neurology,Scheduled,2024-07-27,2024-07-30,3,93,29,31.18,96
+P00070,12,Male,Orthopedics,Scheduled,2025-05-22,2025-05-26,4,130,24,18.46,251
+P00071,63,Male,Neurology,Scheduled,2025-01-23,2025-02-01,9,144,27,18.75,139
+P00072,69,Female,Cardiology,Scheduled,2025-03-05,2025-03-07,2,96,53,55.21,357
+P00073,49,Female,Pediatrics,Emergency,2024-07-25,2024-08-08,14,87,30,34.48,75
+P00074,64,Female,General Medicine,Scheduled,2024-08-14,2024-08-16,2,136,102,75.0,593
+P00075,31,Male,Pediatrics,Scheduled,2025-02-18,2025-02-27,9,90,33,36.67,1112
+P00076,80,Male,Neurology,Emergency,2024-08-10,2024-08-21,11,63,20,31.75,70
+P00077,66,Male,Orthopedics,Scheduled,2024-10-18,2024-10-31,13,82,40,48.78,84
+P00078,81,Male,General Medicine,Scheduled,2025-04-03,2025-04-09,6,75,65,86.67,989
+P00079,50,Female,Neurology,Scheduled,2024-11-17,2024-11-24,7,117,72,61.54,1024
+P00080,55,Male,General Medicine,Scheduled,2023-10-27,2023-10-28,1,68,44,64.71,1026
+P00081,13,Male,Cardiology,Emergency,2025-06-05,2025-06-07,2,60,41,68.33,280
+P00082,15,Male,Neurology,Emergency,2024-01-10,2024-01-17,7,122,114,93.44,19
+P00083,90,Female,General Medicine,Emergency,2025-02-06,2025-02-08,2,65,64,98.46,9
+P00084,21,Male,Cardiology,Emergency,2024-11-19,2024-12-04,15,86,47,54.65,297
+P00085,60,Female,Neurology,Scheduled,2023-12-22,2023-12-25,3,146,60,41.1,1081
+P00086,6,Male,Orthopedics,Scheduled,2024-05-23,2024-05-24,1,75,35,46.67,1071
+P00087,58,Female,Neurology,Scheduled,2024-05-10,2024-05-23,13,135,22,16.3,750
+P00088,35,Female,Neurology,Scheduled,2024-11-22,2024-12-03,11,79,56,70.89,1304
+P00089,6,Female,Orthopedics,Emergency,2024-12-09,2024-12-10,1,132,53,40.15,92
+P00090,48,Female,Neurology,Scheduled,2024-02-03,2024-02-11,8,122,32,26.23,1274
+P00091,79,Female,Pediatrics,Scheduled,2025-04-26,2025-05-09,13,127,118,92.91,88
+P00092,62,Male,Pediatrics,Scheduled,2023-11-03,2023-11-10,7,136,30,22.06,458
+P00093,55,Male,General Medicine,Emergency,2025-06-06,2025-06-18,12,134,23,17.16,254
+P00094,7,Female,Cardiology,Emergency,2024-12-06,2024-12-21,15,71,51,71.83,222
+P00095,57,Female,General Medicine,Emergency,2025-05-01,2025-05-11,10,61,53,86.89,98
+P00096,8,Female,General Medicine,Scheduled,2024-05-02,2024-05-04,2,122,53,43.44,817
+P00097,83,Female,Pediatrics,Scheduled,2023-11-11,2023-11-20,9,114,41,35.96,1143
+P00098,73,Male,Pediatrics,Scheduled,2024-10-11,2024-10-14,3,63,30,47.62,521
+P00099,83,Female,Orthopedics,Emergency,2024-07-13,2024-07-25,12,102,64,62.75,17
+P00100,43,Female,Neurology,Emergency,2025-03-14,2025-03-16,2,125,31,24.8,271
+P00101,27,Male,Orthopedics,Emergency,2024-10-28,2024-10-30,2,79,21,26.58,116
+P00102,18,Female,General Medicine,Emergency,2025-08-23,2025-08-31,8,100,97,97.0,80
+P00103,21,Male,Pediatrics,Scheduled,2025-06-10,2025-06-21,11,80,37,46.25,207
+P00104,70,Male,Cardiology,Emergency,2024-09-05,2024-09-06,1,94,56,59.57,208
+P00105,46,Female,Cardiology,Emergency,2025-01-03,2025-01-04,1,79,54,68.35,185
+P00106,68,Female,Orthopedics,Emergency,2025-02-24,2025-03-06,10,87,60,68.97,175
+P00107,50,Female,Cardiology,Emergency,2024-08-31,2024-09-15,15,81,37,45.68,50
+P00108,73,Female,Pediatrics,Scheduled,2025-05-25,2025-06-06,12,108,49,45.37,709
+P00109,62,Male,Pediatrics,Emergency,2024-07-14,2024-07-20,6,88,75,85.23,162
+P00110,57,Male,Pediatrics,Emergency,2024-02-12,2024-02-26,14,115,107,93.04,53
+P00111,38,Male,Orthopedics,Emergency,2023-11-25,2023-11-28,3,150,102,68.0,182
+P00112,78,Male,Orthopedics,Emergency,2025-05-31,2025-06-07,7,81,44,54.32,289
+P00113,54,Female,General Medicine,Emergency,2025-01-13,2025-01-17,4,63,43,68.25,183
+P00114,54,Female,Cardiology,Scheduled,2025-01-08,2025-01-12,4,104,41,39.42,121
+P00115,7,Female,Neurology,Scheduled,2025-06-10,2025-06-18,8,85,52,61.18,569
+P00116,58,Female,Neurology,Scheduled,2023-09-28,2023-10-12,14,67,35,52.24,1131
+P00117,34,Female,Pediatrics,Scheduled,2024-12-09,2024-12-15,6,111,87,78.38,296
+P00118,22,Female,General Medicine,Emergency,2025-04-08,2025-04-14,6,122,26,21.31,228
+P00119,48,Male,Orthopedics,Emergency,2023-10-18,2023-10-27,9,109,89,81.65,109
+P00120,35,Female,Neurology,Scheduled,2024-12-31,2025-01-02,2,126,104,82.54,837
+P00121,58,Male,Pediatrics,Scheduled,2024-06-19,2024-06-25,6,144,67,46.53,1242
+P00122,7,Female,Orthopedics,Scheduled,2025-05-29,2025-06-05,7,103,80,77.67,152
+P00123,68,Male,Cardiology,Emergency,2024-11-29,2024-12-02,3,128,61,47.66,219
+P00124,60,Female,Cardiology,Emergency,2025-01-30,2025-02-08,9,61,54,88.52,35
+P00125,26,Male,General Medicine,Emergency,2023-12-24,2023-12-27,3,91,56,61.54,115
+P00126,20,Male,General Medicine,Emergency,2024-01-24,2024-01-28,4,92,25,27.17,94
+P00127,19,Female,General Medicine,Emergency,2025-03-01,2025-03-02,1,100,23,23.0,50
+P00128,53,Male,Neurology,Scheduled,2023-12-18,2024-01-01,14,138,62,44.93,570
+P00129,83,Female,Neurology,Emergency,2024-11-14,2024-11-28,14,109,103,94.5,42
+P00130,24,Female,Pediatrics,Scheduled,2025-08-01,2025-08-15,14,146,127,86.99,494
+P00131,90,Female,Orthopedics,Scheduled,2023-11-18,2023-11-27,9,116,24,20.69,893
+P00132,87,Male,Neurology,Emergency,2023-12-31,2024-01-12,12,147,34,23.13,66
+P00133,46,Female,Neurology,Scheduled,2025-01-05,2025-01-18,13,137,24,17.52,681
+P00134,79,Female,Orthopedics,Scheduled,2024-08-12,2024-08-14,2,72,27,37.5,361
+P00135,17,Male,Pediatrics,Emergency,2024-07-06,2024-07-16,10,100,20,20.0,116
+P00136,63,Male,General Medicine,Scheduled,2024-12-03,2024-12-13,10,113,65,57.52,229
+P00137,34,Male,General Medicine,Emergency,2025-02-16,2025-02-24,8,60,41,68.33,132
+P00138,65,Female,General Medicine,Scheduled,2024-07-23,2024-08-04,12,64,39,60.94,143
+P00139,7,Female,Cardiology,Scheduled,2024-02-14,2024-02-17,3,72,66,91.67,1021
+P00140,42,Male,General Medicine,Scheduled,2024-08-10,2024-08-11,1,82,82,100.0,785
+P00141,26,Female,Neurology,Emergency,2025-03-31,2025-04-02,2,66,61,92.42,57
+P00142,23,Female,Orthopedics,Emergency,2025-05-12,2025-05-23,11,85,81,95.29,132
+P00143,59,Male,Orthopedics,Emergency,2024-07-20,2024-07-23,3,75,39,52.0,68
+P00144,18,Female,Pediatrics,Emergency,2024-06-20,2024-07-01,11,134,85,63.43,267
+P00145,75,Male,General Medicine,Emergency,2024-03-21,2024-04-01,11,92,21,22.83,161
+P00146,41,Male,Orthopedics,Emergency,2024-10-27,2024-10-30,3,76,62,81.58,39
+P00147,15,Male,Pediatrics,Scheduled,2024-08-07,2024-08-10,3,59,36,61.02,678
+P00148,83,Male,Neurology,Scheduled,2024-07-11,2024-07-22,11,101,70,69.31,1296
+P00149,4,Female,Orthopedics,Emergency,2024-05-08,2024-05-14,6,67,59,88.06,41
+P00150,72,Male,Orthopedics,Scheduled,2025-01-28,2025-02-03,6,139,63,45.32,1053
+P00151,19,Female,General Medicine,Emergency,2024-06-25,2024-07-05,10,60,54,90.0,240
+P00152,17,Female,Neurology,Emergency,2025-01-06,2025-01-08,2,81,32,39.51,141
+P00153,14,Male,Neurology,Scheduled,2024-05-11,2024-05-23,12,75,51,68.0,878
+P00154,10,Male,General Medicine,Emergency,2024-11-09,2024-11-24,15,60,35,58.33,63
+P00155,45,Female,Cardiology,Scheduled,2024-05-13,2024-05-25,12,133,84,63.16,752
+P00156,56,Male,General Medicine,Emergency,2024-06-16,2024-06-27,11,54,54,100.0,85
+P00157,37,Male,Pediatrics,Emergency,2025-08-10,2025-08-23,13,124,93,75.0,254
+P00158,5,Male,Pediatrics,Scheduled,2025-01-02,2025-01-11,9,74,20,27.03,338
+P00159,20,Female,Orthopedics,Emergency,2024-06-28,2024-07-05,7,114,83,72.81,73
+P00160,20,Female,Pediatrics,Emergency,2024-04-23,2024-04-27,4,93,73,78.49,167
+P00161,17,Male,Cardiology,Scheduled,2023-10-30,2023-11-01,2,66,21,31.82,456
+P00162,34,Male,Cardiology,Emergency,2024-06-14,2024-06-19,5,64,37,57.81,205
+P00163,7,Female,Cardiology,Scheduled,2023-10-20,2023-11-03,14,129,26,20.16,721
+P00164,15,Female,General Medicine,Emergency,2024-06-10,2024-06-11,1,147,29,19.73,42
+P00165,40,Female,Pediatrics,Emergency,2024-11-24,2024-11-30,6,52,20,38.46,93
+P00166,43,Male,Neurology,Emergency,2023-10-24,2023-11-04,11,80,36,45.0,64
+P00167,88,Female,Neurology,Scheduled,2023-10-08,2023-10-20,12,98,62,63.27,1173
+P00168,49,Female,Orthopedics,Emergency,2025-08-11,2025-08-23,12,123,33,26.83,187
+P00169,82,Male,Orthopedics,Scheduled,2024-12-02,2024-12-11,9,81,38,46.91,1274
+P00170,11,Female,Pediatrics,Emergency,2025-06-19,2025-06-22,3,61,53,86.89,267
+P00171,79,Female,Neurology,Scheduled,2024-12-02,2024-12-11,9,111,81,72.97,1284
+P00172,88,Male,General Medicine,Emergency,2025-07-20,2025-07-31,11,56,38,67.86,226
+P00173,70,Male,Orthopedics,Emergency,2024-01-26,2024-02-09,14,141,86,60.99,214
+P00174,40,Male,Neurology,Emergency,2024-03-20,2024-04-02,13,78,51,65.38,157
+P00175,61,Male,General Medicine,Emergency,2024-11-04,2024-11-06,2,50,29,58.0,129
+P00176,20,Male,Neurology,Scheduled,2023-09-04,2023-09-14,10,130,100,76.92,1188
+P00177,3,Female,Neurology,Scheduled,2024-12-31,2025-01-12,12,141,72,51.06,1088
+P00178,4,Female,Orthopedics,Scheduled,2024-01-06,2024-01-16,10,60,43,71.67,887
+P00179,47,Male,Neurology,Scheduled,2025-01-05,2025-01-14,9,94,66,70.21,1420
+P00180,69,Female,Orthopedics,Emergency,2025-08-04,2025-08-15,11,81,41,50.62,198
+P00181,54,Male,Pediatrics,Scheduled,2024-09-20,2024-09-25,5,120,51,42.5,1151
+P00182,61,Male,Cardiology,Scheduled,2024-02-09,2024-02-10,1,123,59,47.97,660
+P00183,28,Female,Orthopedics,Scheduled,2024-05-10,2024-05-25,15,112,86,76.79,1089
+P00184,41,Female,Neurology,Scheduled,2025-02-06,2025-02-19,13,61,59,96.72,1001
+P00185,50,Female,Neurology,Emergency,2024-03-09,2024-03-10,1,105,26,24.76,148
+P00186,43,Female,Cardiology,Emergency,2024-10-02,2024-10-13,11,105,87,82.86,208
+P00187,66,Male,General Medicine,Scheduled,2024-08-03,2024-08-04,1,122,60,49.18,332
+P00188,29,Male,Cardiology,Emergency,2025-05-19,2025-05-30,11,99,64,64.65,168
+P00189,17,Female,Cardiology,Emergency,2024-04-17,2024-04-22,5,62,21,33.87,92
+P00190,83,Male,Pediatrics,Scheduled,2024-12-04,2024-12-17,13,106,35,33.02,479
+P00191,54,Male,Cardiology,Emergency,2025-06-13,2025-06-15,2,99,60,60.61,134
+P00192,25,Female,Orthopedics,Scheduled,2024-12-03,2024-12-15,12,87,68,78.16,529
+P00193,40,Male,Cardiology,Scheduled,2023-09-02,2023-09-12,10,96,87,90.62,801
+P00194,37,Female,General Medicine,Emergency,2024-08-08,2024-08-20,12,55,36,65.45,242
+P00195,22,Female,General Medicine,Emergency,2025-07-08,2025-07-12,4,150,110,73.33,15
+P00196,80,Male,General Medicine,Emergency,2023-11-14,2023-11-23,9,69,40,57.97,291
+P00197,15,Male,Cardiology,Scheduled,2025-05-22,2025-05-31,9,150,64,42.67,1151
+P00198,72,Female,Neurology,Scheduled,2024-08-16,2024-08-29,13,129,83,64.34,1438
+P00199,36,Female,Pediatrics,Emergency,2025-04-23,2025-05-06,13,133,94,70.68,165
+P00200,8,Female,Pediatrics,Emergency,2025-01-04,2025-01-16,12,139,114,82.01,91
+P00201,11,Female,Pediatrics,Scheduled,2024-11-12,2024-11-15,3,55,49,89.09,1126
+P00202,1,Female,Neurology,Scheduled,2024-08-25,2024-09-07,13,92,69,75.0,862
+P00203,56,Male,General Medicine,Emergency,2023-11-15,2023-11-16,1,71,64,90.14,192
+P00204,56,Male,General Medicine,Emergency,2024-08-15,2024-08-25,10,121,31,25.62,11
+P00205,83,Male,Cardiology,Emergency,2025-05-16,2025-05-17,1,69,23,33.33,43
+P00206,54,Male,General Medicine,Scheduled,2025-01-21,2025-01-22,1,68,46,67.65,596
+P00207,70,Female,Cardiology,Emergency,2025-05-23,2025-05-27,4,56,30,53.57,103
+P00208,84,Female,Cardiology,Scheduled,2025-03-22,2025-03-30,8,122,106,86.89,665
+P00209,83,Female,General Medicine,Emergency,2024-12-30,2025-01-03,4,63,28,44.44,33
+P00210,60,Female,Orthopedics,Scheduled,2024-10-31,2024-11-06,6,113,108,95.58,494
+P00211,14,Male,Pediatrics,Scheduled,2025-07-04,2025-07-06,2,118,57,48.31,490
+P00212,34,Male,Orthopedics,Scheduled,2024-06-23,2024-06-28,5,92,25,27.17,980
+P00213,13,Male,General Medicine,Emergency,2024-03-09,2024-03-22,13,115,54,46.96,155
+P00214,78,Female,Cardiology,Scheduled,2024-08-14,2024-08-27,13,140,26,18.57,1076
+P00215,34,Male,Orthopedics,Emergency,2024-12-22,2025-01-01,10,132,48,36.36,159
+P00216,4,Male,Orthopedics,Scheduled,2024-03-23,2024-04-02,10,76,40,52.63,611
+P00217,51,Female,Orthopedics,Emergency,2024-11-17,2024-11-26,9,149,26,17.45,265
+P00218,11,Male,General Medicine,Emergency,2024-04-15,2024-04-21,6,89,81,91.01,85
+P00219,87,Female,Neurology,Emergency,2025-05-26,2025-06-04,9,87,35,40.23,35
+P00220,66,Male,General Medicine,Scheduled,2024-10-28,2024-11-04,7,130,64,49.23,1393
+P00221,86,Female,Cardiology,Scheduled,2025-08-08,2025-08-18,10,125,125,100.0,781
+P00222,49,Female,Neurology,Scheduled,2025-03-15,2025-03-23,8,145,111,76.55,346
+P00223,34,Female,Neurology,Scheduled,2025-01-10,2025-01-25,15,97,92,94.85,804
+P00224,65,Female,Cardiology,Scheduled,2024-07-14,2024-07-29,15,117,63,53.85,1245
+P00225,15,Female,Orthopedics,Emergency,2023-11-19,2023-11-24,5,103,63,61.17,92
+P00226,18,Female,Neurology,Scheduled,2025-04-12,2025-04-13,1,123,123,100.0,152
+P00227,39,Female,General Medicine,Scheduled,2024-07-17,2024-07-22,5,65,29,44.62,384
+P00228,21,Male,Cardiology,Scheduled,2024-11-23,2024-11-26,3,51,42,82.35,610
+P00229,26,Male,Orthopedics,Scheduled,2025-02-20,2025-02-28,8,52,43,82.69,902
+P00230,9,Male,Cardiology,Scheduled,2025-03-23,2025-03-24,1,134,40,29.85,1321
+P00231,23,Male,Orthopedics,Scheduled,2024-04-20,2024-05-05,15,112,94,83.93,166
+P00232,89,Female,Pediatrics,Scheduled,2024-03-02,2024-03-07,5,114,61,53.51,376
+P00233,77,Female,Neurology,Emergency,2024-08-09,2024-08-10,1,146,116,79.45,231
+P00234,68,Male,Neurology,Scheduled,2025-08-04,2025-08-19,15,62,58,93.55,895
+P00235,79,Male,Orthopedics,Emergency,2024-03-27,2024-04-06,10,139,126,90.65,291
+P00236,81,Male,Neurology,Emergency,2025-04-19,2025-04-28,9,73,43,58.9,199
+P00237,64,Male,Cardiology,Scheduled,2024-10-24,2024-10-26,2,96,95,98.96,314
+P00238,57,Male,General Medicine,Scheduled,2024-05-02,2024-05-15,13,127,99,77.95,611
+P00239,54,Male,Orthopedics,Scheduled,2024-06-06,2024-06-20,14,118,109,92.37,167
+P00240,21,Female,Neurology,Scheduled,2024-02-04,2024-02-11,7,145,141,97.24,1003
+P00241,69,Female,Cardiology,Emergency,2023-09-27,2023-09-30,3,52,40,76.92,238
+P00242,2,Male,Cardiology,Emergency,2025-07-01,2025-07-09,8,143,133,93.01,13
+P00243,78,Female,Cardiology,Emergency,2025-01-17,2025-01-21,4,134,95,70.9,63
+P00244,69,Male,Pediatrics,Emergency,2024-08-03,2024-08-10,7,118,28,23.73,229
+P00245,16,Female,Cardiology,Emergency,2024-07-31,2024-08-03,3,111,103,92.79,172
+P00246,67,Female,Pediatrics,Scheduled,2023-09-20,2023-09-29,9,115,54,46.96,29
+P00247,17,Male,Pediatrics,Emergency,2024-02-17,2024-02-29,12,87,48,55.17,42
+P00248,59,Male,Neurology,Scheduled,2025-04-04,2025-04-15,11,90,56,62.22,368
+P00249,18,Male,General Medicine,Scheduled,2025-01-29,2025-02-05,7,135,124,91.85,401
+P00250,26,Female,Pediatrics,Scheduled,2024-02-24,2024-03-02,7,139,121,87.05,1351
+P00251,59,Male,General Medicine,Emergency,2025-08-06,2025-08-21,15,89,83,93.26,149
+P00252,8,Female,Orthopedics,Emergency,2024-07-17,2024-07-24,7,128,102,79.69,124
+P00253,66,Female,Orthopedics,Emergency,2024-09-08,2024-09-09,1,100,20,20.0,209
+P00254,23,Female,Neurology,Scheduled,2024-06-17,2024-07-02,15,114,67,58.77,54
+P00255,39,Male,Neurology,Emergency,2025-07-21,2025-07-27,6,57,42,73.68,47
+P00256,8,Male,Orthopedics,Scheduled,2025-02-10,2025-02-21,11,141,61,43.26,213
+P00257,15,Female,Neurology,Emergency,2024-10-02,2024-10-10,8,66,44,66.67,51
+P00258,64,Female,Neurology,Scheduled,2025-03-09,2025-03-17,8,134,25,18.66,494
+P00259,34,Male,General Medicine,Emergency,2024-08-31,2024-09-04,4,141,108,76.6,122
+P00260,34,Male,Pediatrics,Emergency,2024-05-18,2024-05-30,12,62,36,58.06,197
+P00261,3,Female,Orthopedics,Emergency,2025-04-11,2025-04-20,9,122,87,71.31,165
+P00262,23,Female,Pediatrics,Emergency,2023-10-19,2023-10-28,9,107,39,36.45,43
+P00263,78,Male,Cardiology,Emergency,2024-09-30,2024-10-11,11,97,64,65.98,268
+P00264,51,Female,General Medicine,Scheduled,2024-06-23,2024-06-28,5,112,105,93.75,1050
+P00265,70,Female,Neurology,Emergency,2023-09-06,2023-09-19,13,121,91,75.21,164
+P00266,7,Male,Pediatrics,Scheduled,2024-06-07,2024-06-11,4,107,99,92.52,1313
+P00267,11,Female,Orthopedics,Emergency,2025-03-20,2025-03-25,5,80,26,32.5,292
+P00268,40,Male,Cardiology,Scheduled,2023-11-09,2023-11-12,3,119,68,57.14,770
+P00269,41,Male,General Medicine,Scheduled,2023-10-28,2023-10-29,1,83,77,92.77,569
+P00270,39,Female,Pediatrics,Emergency,2023-10-17,2023-10-30,13,64,58,90.62,147
+P00271,75,Female,Orthopedics,Emergency,2023-09-25,2023-10-07,12,79,50,63.29,221
+P00272,45,Male,General Medicine,Emergency,2024-10-24,2024-10-30,6,127,57,44.88,251
+P00273,90,Female,Cardiology,Scheduled,2024-12-01,2024-12-04,3,75,39,52.0,870
+P00274,50,Female,General Medicine,Scheduled,2023-10-03,2023-10-15,12,105,104,99.05,1180
+P00275,18,Female,Orthopedics,Emergency,2025-06-04,2025-06-08,4,92,58,63.04,66
+P00276,82,Male,Cardiology,Emergency,2024-03-24,2024-03-26,2,132,117,88.64,178
+P00277,49,Male,Cardiology,Scheduled,2024-07-14,2024-07-17,3,130,105,80.77,229
+P00278,25,Female,Pediatrics,Scheduled,2023-10-29,2023-11-01,3,56,39,69.64,198
+P00279,90,Female,Cardiology,Scheduled,2024-05-08,2024-05-19,11,50,39,78.0,1070
+P00280,7,Male,Neurology,Scheduled,2024-12-15,2024-12-23,8,58,36,62.07,256
+P00281,57,Female,Cardiology,Emergency,2025-06-15,2025-06-23,8,88,40,45.45,198
+P00282,35,Female,Pediatrics,Scheduled,2025-04-07,2025-04-10,3,96,41,42.71,1292
+P00283,61,Female,Pediatrics,Emergency,2025-03-18,2025-03-21,3,112,31,27.68,278
+P00284,30,Male,Neurology,Scheduled,2024-02-24,2024-02-26,2,97,71,73.2,1226
+P00285,22,Male,Neurology,Scheduled,2025-07-26,2025-08-07,12,54,20,37.04,892
+P00286,5,Female,General Medicine,Scheduled,2024-05-18,2024-05-29,11,107,21,19.63,1087
+P00287,45,Male,Neurology,Scheduled,2024-02-01,2024-02-15,14,113,24,21.24,104
+P00288,55,Male,Neurology,Scheduled,2025-06-21,2025-06-27,6,60,58,96.67,1011
+P00289,19,Male,Orthopedics,Emergency,2024-03-29,2024-04-05,7,136,123,90.44,12
+P00290,37,Male,Cardiology,Scheduled,2025-05-18,2025-05-30,12,96,39,40.62,271
+P00291,64,Male,Pediatrics,Scheduled,2025-03-10,2025-03-22,12,134,84,62.69,678
+P00292,34,Male,Cardiology,Emergency,2024-05-17,2024-05-25,8,149,69,46.31,181
+P00293,47,Female,Orthopedics,Emergency,2024-11-21,2024-11-30,9,69,53,76.81,91
+P00294,60,Male,Cardiology,Scheduled,2024-01-24,2024-02-08,15,62,21,33.87,209
+P00295,51,Female,Pediatrics,Scheduled,2025-03-03,2025-03-09,6,98,56,57.14,590
+P00296,52,Male,Cardiology,Emergency,2025-05-27,2025-06-06,10,69,39,56.52,240
+P00297,10,Female,Neurology,Emergency,2024-10-17,2024-10-29,12,122,101,82.79,205
+P00298,89,Male,Orthopedics,Scheduled,2024-12-08,2024-12-12,4,144,65,45.14,1010
+P00299,41,Female,Pediatrics,Emergency,2023-12-23,2023-12-25,2,58,20,34.48,239
+P00300,4,Female,Pediatrics,Scheduled,2025-06-08,2025-06-11,3,85,33,38.82,602
+P00301,51,Female,General Medicine,Scheduled,2024-06-02,2024-06-04,2,79,35,44.3,327
+P00302,32,Female,Pediatrics,Emergency,2025-06-26,2025-07-07,11,72,72,100.0,165
+P00303,5,Female,Pediatrics,Scheduled,2025-02-05,2025-02-14,9,68,65,95.59,311
+P00304,59,Female,General Medicine,Scheduled,2025-02-04,2025-02-15,11,98,63,64.29,455
+P00305,8,Female,Pediatrics,Scheduled,2025-08-10,2025-08-22,12,128,61,47.66,580
+P00306,60,Male,General Medicine,Scheduled,2024-10-01,2024-10-08,7,109,49,44.95,1251
+P00307,68,Male,Orthopedics,Scheduled,2024-05-02,2024-05-13,11,93,29,31.18,721
+P00308,21,Female,Neurology,Scheduled,2025-06-28,2025-07-06,8,68,54,79.41,199
+P00309,36,Male,Pediatrics,Emergency,2024-06-14,2024-06-17,3,87,36,41.38,216
+P00310,4,Female,Orthopedics,Scheduled,2025-04-15,2025-04-30,15,146,59,40.41,1312
+P00311,7,Male,Neurology,Scheduled,2023-11-11,2023-11-25,14,60,52,86.67,1272
+P00312,57,Male,Neurology,Scheduled,2024-04-19,2024-04-21,2,120,68,56.67,940
+P00313,37,Male,Cardiology,Scheduled,2024-08-28,2024-09-03,6,69,41,59.42,348
+P00314,14,Male,Pediatrics,Scheduled,2024-05-31,2024-06-13,13,93,83,89.25,487
+P00315,54,Male,Neurology,Emergency,2023-11-30,2023-12-03,3,130,92,70.77,152
+P00316,58,Male,Pediatrics,Scheduled,2025-08-04,2025-08-15,11,55,35,63.64,1396
+P00317,52,Male,Cardiology,Scheduled,2024-09-20,2024-10-03,13,81,37,45.68,473
+P00318,79,Male,Neurology,Scheduled,2023-08-29,2023-09-06,8,88,51,57.95,743
+P00319,5,Male,Pediatrics,Scheduled,2023-10-20,2023-10-29,9,60,53,88.33,752
+P00320,57,Female,Neurology,Scheduled,2023-12-13,2023-12-17,4,94,84,89.36,256
+P00321,80,Female,Neurology,Scheduled,2024-12-03,2024-12-09,6,72,37,51.39,476
+P00322,41,Female,Neurology,Scheduled,2024-12-07,2024-12-16,9,75,33,44.0,645
+P00323,20,Female,General Medicine,Scheduled,2025-05-01,2025-05-09,8,110,110,100.0,233
+P00324,16,Male,Neurology,Emergency,2025-04-24,2025-04-30,6,79,72,91.14,268
+P00325,76,Male,Neurology,Emergency,2025-08-11,2025-08-12,1,77,36,46.75,297
+P00326,9,Female,Neurology,Emergency,2024-09-27,2024-09-30,3,60,40,66.67,70
+P00327,61,Male,Cardiology,Scheduled,2025-07-10,2025-07-13,3,88,76,86.36,194
+P00328,14,Male,Pediatrics,Scheduled,2023-09-07,2023-09-18,11,136,75,55.15,927
+P00329,54,Male,Orthopedics,Emergency,2025-07-28,2025-08-07,10,59,42,71.19,32
+P00330,55,Male,General Medicine,Emergency,2023-08-29,2023-09-05,7,133,59,44.36,107
+P00331,82,Male,Orthopedics,Emergency,2025-06-01,2025-06-08,7,134,125,93.28,153
+P00332,19,Female,Pediatrics,Scheduled,2025-03-02,2025-03-04,2,118,62,52.54,1111
+P00333,32,Male,General Medicine,Scheduled,2024-03-30,2024-04-11,12,115,52,45.22,1431
+P00334,4,Male,Pediatrics,Emergency,2024-03-15,2024-03-21,6,89,74,83.15,143
+P00335,12,Male,General Medicine,Emergency,2024-07-21,2024-08-03,13,134,131,97.76,186
+P00336,82,Male,Pediatrics,Emergency,2025-07-30,2025-08-01,2,126,46,36.51,149
+P00337,24,Female,Cardiology,Emergency,2024-01-14,2024-01-23,9,144,97,67.36,137
+P00338,61,Female,Cardiology,Scheduled,2025-07-29,2025-07-30,1,148,23,15.54,906
+P00339,46,Male,Orthopedics,Scheduled,2025-06-06,2025-06-10,4,140,29,20.71,1063
+P00340,27,Male,Cardiology,Scheduled,2025-01-18,2025-01-28,10,136,72,52.94,560
+P00341,70,Male,Neurology,Emergency,2023-10-16,2023-10-21,5,131,119,90.84,156
+P00342,72,Female,Cardiology,Emergency,2024-12-29,2025-01-11,13,136,73,53.68,44
+P00343,30,Female,Cardiology,Scheduled,2024-12-12,2024-12-17,5,55,22,40.0,677
+P00344,56,Male,Cardiology,Emergency,2024-06-17,2024-06-30,13,113,61,53.98,264
+P00345,4,Female,Neurology,Scheduled,2025-01-12,2025-01-27,15,54,44,81.48,1352
+P00346,17,Female,Cardiology,Scheduled,2023-10-20,2023-10-29,9,102,65,63.73,286
+P00347,49,Male,Orthopedics,Emergency,2024-04-13,2024-04-26,13,77,38,49.35,238
+P00348,25,Male,Pediatrics,Scheduled,2025-08-05,2025-08-19,14,128,109,85.16,320
+P00349,29,Female,Cardiology,Emergency,2025-05-02,2025-05-13,11,60,26,43.33,228
+P00350,33,Male,Orthopedics,Scheduled,2023-10-18,2023-10-30,12,68,63,92.65,418
+P00351,23,Male,Pediatrics,Scheduled,2024-01-10,2024-01-21,11,106,45,42.45,1193
+P00352,48,Male,Orthopedics,Emergency,2024-01-10,2024-01-16,6,105,103,98.1,132
+P00353,29,Male,General Medicine,Emergency,2024-11-25,2024-11-28,3,130,58,44.62,116
+P00354,1,Female,Cardiology,Emergency,2025-01-24,2025-02-07,14,92,56,60.87,34
+P00355,23,Male,General Medicine,Emergency,2023-12-06,2023-12-21,15,79,79,100.0,27
+P00356,28,Male,Cardiology,Scheduled,2024-03-26,2024-04-01,6,71,43,60.56,426
+P00357,65,Male,Pediatrics,Emergency,2025-08-17,2025-09-01,15,86,62,72.09,231
+P00358,1,Female,Pediatrics,Emergency,2024-11-27,2024-12-09,12,128,125,97.66,249
+P00359,89,Male,Pediatrics,Scheduled,2025-01-23,2025-01-24,1,104,72,69.23,107
+P00360,63,Female,Orthopedics,Scheduled,2025-03-18,2025-03-25,7,117,25,21.37,313
+P00361,63,Male,Neurology,Scheduled,2024-01-08,2024-01-13,5,103,102,99.03,762
+P00362,30,Female,Neurology,Scheduled,2024-01-04,2024-01-15,11,75,42,56.0,1397
+P00363,35,Female,Orthopedics,Scheduled,2023-12-30,2024-01-12,13,128,120,93.75,428
+P00364,62,Male,Neurology,Scheduled,2024-11-23,2024-11-30,7,120,82,68.33,758
+P00365,58,Male,Cardiology,Emergency,2025-04-12,2025-04-18,6,78,67,85.9,34
+P00366,83,Female,Neurology,Scheduled,2024-12-22,2024-12-29,7,109,66,60.55,1411
+P00367,49,Female,Cardiology,Emergency,2024-11-02,2024-11-14,12,113,35,30.97,169
+P00368,4,Male,Neurology,Scheduled,2024-08-09,2024-08-20,11,73,26,35.62,1009
+P00369,33,Female,Neurology,Scheduled,2025-05-14,2025-05-18,4,148,119,80.41,318
+P00370,66,Female,General Medicine,Scheduled,2025-05-27,2025-06-07,11,87,44,50.57,543
+P00371,70,Male,Pediatrics,Emergency,2025-01-20,2025-02-02,13,104,97,93.27,176
+P00372,33,Female,General Medicine,Emergency,2023-09-15,2023-09-23,8,55,39,70.91,162
+P00373,53,Female,Orthopedics,Emergency,2023-10-06,2023-10-14,8,95,87,91.58,195
+P00374,36,Male,Cardiology,Scheduled,2024-12-28,2024-12-29,1,109,63,57.8,1147
+P00375,81,Male,General Medicine,Emergency,2023-09-02,2023-09-04,2,117,117,100.0,236
+P00376,35,Male,Cardiology,Scheduled,2024-05-15,2024-05-23,8,88,85,96.59,658
+P00377,21,Female,Neurology,Emergency,2024-11-02,2024-11-10,8,129,40,31.01,265
+P00378,82,Male,Cardiology,Emergency,2024-08-24,2024-09-06,13,100,62,62.0,168
+P00379,18,Male,General Medicine,Scheduled,2025-01-08,2025-01-22,14,93,50,53.76,295
+P00380,85,Female,Neurology,Scheduled,2025-05-10,2025-05-19,9,100,23,23.0,399
+P00381,55,Male,Neurology,Emergency,2025-02-10,2025-02-14,4,90,67,74.44,63
+P00382,57,Male,Orthopedics,Scheduled,2023-09-26,2023-10-02,6,54,39,72.22,545
+P00383,43,Male,Neurology,Emergency,2024-05-31,2024-06-14,14,82,36,43.9,64
+P00384,86,Male,Pediatrics,Emergency,2024-04-03,2024-04-05,2,66,30,45.45,71
+P00385,47,Male,General Medicine,Scheduled,2024-06-02,2024-06-10,8,63,60,95.24,1136
+P00386,42,Female,Neurology,Scheduled,2025-03-30,2025-04-01,2,54,23,42.59,519
+P00387,75,Male,Cardiology,Emergency,2024-06-27,2024-07-02,5,107,52,48.6,72
+P00388,67,Male,Pediatrics,Emergency,2025-07-11,2025-07-18,7,51,37,72.55,6
+P00389,79,Female,Pediatrics,Scheduled,2025-01-31,2025-02-14,14,78,36,46.15,611
+P00390,65,Male,General Medicine,Emergency,2023-12-03,2023-12-10,7,82,53,64.63,243
+P00391,60,Male,Cardiology,Scheduled,2025-01-03,2025-01-12,9,55,53,96.36,108
+P00392,39,Female,Neurology,Scheduled,2024-10-08,2024-10-11,3,125,64,51.2,684
+P00393,66,Male,Orthopedics,Emergency,2025-02-02,2025-02-03,1,52,30,57.69,134
+P00394,83,Male,General Medicine,Emergency,2023-10-17,2023-10-29,12,90,58,64.44,211
+P00395,84,Female,Pediatrics,Emergency,2025-08-08,2025-08-22,14,62,40,64.52,206
+P00396,38,Female,Orthopedics,Scheduled,2025-06-20,2025-06-26,6,76,22,28.95,955
+P00397,70,Male,Pediatrics,Emergency,2024-07-09,2024-07-15,6,136,36,26.47,240
+P00398,54,Male,Cardiology,Emergency,2025-06-28,2025-06-30,2,54,47,87.04,156
+P00399,66,Male,Pediatrics,Scheduled,2024-03-11,2024-03-12,1,122,26,21.31,724
+P00400,21,Female,General Medicine,Scheduled,2023-09-04,2023-09-07,3,149,70,46.98,570
+P00401,55,Female,General Medicine,Emergency,2025-01-23,2025-02-01,9,64,35,54.69,173
+P00402,71,Female,Neurology,Emergency,2024-10-21,2024-11-04,14,109,105,96.33,31
+P00403,88,Female,Orthopedics,Scheduled,2024-04-10,2024-04-17,7,112,72,64.29,1000
+P00404,56,Female,Orthopedics,Scheduled,2025-01-04,2025-01-05,1,129,46,35.66,266
+P00405,46,Male,Neurology,Scheduled,2025-04-06,2025-04-07,1,95,53,55.79,1252
+P00406,72,Male,Pediatrics,Scheduled,2024-11-27,2024-12-10,13,91,51,56.04,659
+P00407,14,Female,General Medicine,Emergency,2024-11-06,2024-11-11,5,100,54,54.0,258
+P00408,47,Female,Neurology,Scheduled,2025-08-15,2025-08-16,1,60,42,70.0,500
+P00409,41,Female,Neurology,Scheduled,2024-11-27,2024-12-04,7,137,83,60.58,797
+P00410,14,Female,Orthopedics,Emergency,2025-07-02,2025-07-05,3,85,70,82.35,56
+P00411,2,Female,General Medicine,Scheduled,2023-11-19,2023-12-04,15,108,21,19.44,701
+P00412,15,Female,Orthopedics,Scheduled,2025-07-06,2025-07-13,7,150,58,38.67,1130
+P00413,46,Female,Cardiology,Emergency,2024-12-19,2024-12-20,1,69,69,100.0,260
+P00414,17,Male,General Medicine,Scheduled,2024-03-02,2024-03-13,11,54,40,74.07,444
+P00415,58,Male,Pediatrics,Emergency,2024-04-24,2024-05-07,13,143,43,30.07,78
+P00416,34,Female,Cardiology,Emergency,2024-01-25,2024-02-06,12,62,57,91.94,181
+P00417,69,Male,Cardiology,Scheduled,2023-09-02,2023-09-11,9,93,38,40.86,428
+P00418,61,Female,Pediatrics,Emergency,2024-12-08,2024-12-13,5,114,58,50.88,231
+P00419,7,Male,Cardiology,Emergency,2024-10-20,2024-10-26,6,120,36,30.0,62
+P00420,22,Female,Pediatrics,Scheduled,2023-09-07,2023-09-18,11,116,102,87.93,1016
+P00421,75,Female,Neurology,Scheduled,2024-06-14,2024-06-18,4,122,37,30.33,499
+P00422,8,Female,Neurology,Scheduled,2024-10-15,2024-10-30,15,143,77,53.85,462
+P00423,49,Female,Pediatrics,Emergency,2024-02-07,2024-02-09,2,115,31,26.96,158
+P00424,33,Male,General Medicine,Emergency,2024-10-10,2024-10-24,14,87,35,40.23,170
+P00425,46,Male,General Medicine,Emergency,2024-07-25,2024-08-07,13,91,22,24.18,164
+P00426,82,Female,Cardiology,Emergency,2025-05-27,2025-06-08,12,70,59,84.29,204
+P00427,54,Female,Cardiology,Scheduled,2024-08-07,2024-08-15,8,132,79,59.85,763
+P00428,21,Female,Cardiology,Scheduled,2024-10-01,2024-10-11,10,133,88,66.17,1128
+P00429,90,Female,Pediatrics,Emergency,2025-06-17,2025-06-26,9,112,103,91.96,226
+P00430,30,Male,Orthopedics,Scheduled,2023-12-10,2023-12-21,11,74,22,29.73,289
+P00431,49,Male,Neurology,Emergency,2024-05-17,2024-05-27,10,119,64,53.78,210
+P00432,36,Female,General Medicine,Emergency,2025-08-11,2025-08-20,9,121,44,36.36,94
+P00433,3,Female,Orthopedics,Scheduled,2024-04-08,2024-04-09,1,115,89,77.39,962
+P00434,53,Male,Pediatrics,Scheduled,2025-08-01,2025-08-10,9,80,67,83.75,602
+P00435,10,Male,Cardiology,Scheduled,2024-05-09,2024-05-15,6,81,41,50.62,15
+P00436,42,Female,Neurology,Scheduled,2024-04-17,2024-04-21,4,65,60,92.31,982
+P00437,1,Male,Pediatrics,Scheduled,2023-10-02,2023-10-11,9,121,96,79.34,492
+P00438,80,Male,Orthopedics,Scheduled,2024-01-29,2024-02-12,14,91,48,52.75,125
+P00439,26,Female,Cardiology,Scheduled,2024-07-17,2024-07-24,7,59,57,96.61,409
+P00440,3,Male,General Medicine,Emergency,2025-03-06,2025-03-21,15,66,35,53.03,275
+P00441,33,Female,Orthopedics,Emergency,2024-09-24,2024-10-09,15,55,26,47.27,131
+P00442,64,Female,Orthopedics,Emergency,2025-05-23,2025-06-02,10,79,47,59.49,231
+P00443,39,Male,Neurology,Emergency,2025-05-03,2025-05-08,5,61,31,50.82,201
+P00444,83,Male,Pediatrics,Scheduled,2024-11-03,2024-11-14,11,148,72,48.65,230
+P00445,28,Female,Neurology,Scheduled,2024-07-26,2024-08-03,8,145,50,34.48,32
+P00446,13,Male,Orthopedics,Emergency,2025-03-29,2025-04-11,13,132,53,40.15,197
+P00447,49,Female,Pediatrics,Scheduled,2024-04-18,2024-05-03,15,134,86,64.18,65
+P00448,3,Female,General Medicine,Scheduled,2025-01-26,2025-01-28,2,106,58,54.72,1403
+P00449,6,Female,Cardiology,Emergency,2024-09-26,2024-10-08,12,98,47,47.96,297
+P00450,41,Male,General Medicine,Scheduled,2025-04-27,2025-05-09,12,117,85,72.65,1282
+P00451,7,Female,Orthopedics,Emergency,2024-12-18,2024-12-29,11,119,40,33.61,140
+P00452,31,Female,General Medicine,Scheduled,2025-05-01,2025-05-07,6,124,112,90.32,1396
+P00453,35,Female,Neurology,Scheduled,2024-02-22,2024-02-24,2,54,28,51.85,814
+P00454,37,Male,General Medicine,Scheduled,2024-04-05,2024-04-18,13,95,80,84.21,1119
+P00455,6,Female,Cardiology,Scheduled,2025-08-03,2025-08-09,6,113,53,46.9,1005
+P00456,52,Female,Cardiology,Emergency,2023-09-30,2023-10-12,12,127,44,34.65,68
+P00457,11,Female,Pediatrics,Scheduled,2024-12-21,2024-12-26,5,62,20,32.26,51
+P00458,36,Female,Neurology,Scheduled,2025-02-26,2025-03-02,4,61,26,42.62,1360
+P00459,20,Male,Neurology,Scheduled,2024-12-20,2025-01-02,13,150,141,94.0,619
+P00460,64,Female,Cardiology,Emergency,2023-10-05,2023-10-12,7,53,26,49.06,123
+P00461,57,Male,General Medicine,Scheduled,2024-11-12,2024-11-16,4,134,126,94.03,344
+P00462,48,Male,Neurology,Emergency,2025-05-28,2025-06-10,13,143,39,27.27,88
+P00463,2,Female,Pediatrics,Emergency,2024-11-11,2024-11-20,9,145,69,47.59,252
+P00464,28,Female,Orthopedics,Emergency,2025-01-22,2025-02-01,10,117,113,96.58,154
+P00465,37,Male,Pediatrics,Emergency,2024-05-30,2024-06-04,5,107,34,31.78,42
+P00466,8,Female,Pediatrics,Emergency,2024-09-07,2024-09-19,12,53,47,88.68,265
+P00467,6,Male,Pediatrics,Emergency,2024-09-23,2024-10-02,9,116,30,25.86,257
+P00468,31,Male,Orthopedics,Emergency,2025-06-17,2025-06-27,10,130,24,18.46,54
+P00469,26,Female,Neurology,Scheduled,2024-10-02,2024-10-16,14,93,90,96.77,387
+P00470,50,Male,Pediatrics,Scheduled,2025-03-07,2025-03-11,4,87,26,29.89,346
+P00471,60,Male,Cardiology,Emergency,2024-07-09,2024-07-23,14,118,68,57.63,202
+P00472,45,Female,Pediatrics,Emergency,2024-10-07,2024-10-09,2,59,49,83.05,185
+P00473,63,Male,General Medicine,Emergency,2024-07-05,2024-07-20,15,50,40,80.0,217
+P00474,58,Male,General Medicine,Scheduled,2025-03-15,2025-03-26,11,72,72,100.0,379
+P00475,16,Female,Neurology,Emergency,2024-07-03,2024-07-15,12,64,46,71.88,183
+P00476,29,Male,Cardiology,Scheduled,2024-09-16,2024-09-20,4,147,35,23.81,1413
+P00477,51,Female,Neurology,Scheduled,2024-11-26,2024-11-28,2,87,61,70.11,1326
+P00478,54,Female,Cardiology,Emergency,2025-07-07,2025-07-10,3,125,85,68.0,51
+P00479,71,Female,Neurology,Scheduled,2023-11-24,2023-12-03,9,67,57,85.07,1080
+P00480,3,Male,Orthopedics,Scheduled,2023-11-16,2023-11-18,2,132,112,84.85,1057
+P00481,31,Female,Pediatrics,Scheduled,2024-09-01,2024-09-13,12,130,98,75.38,419
+P00482,55,Female,Cardiology,Emergency,2024-09-12,2024-09-13,1,116,49,42.24,31
+P00483,8,Male,Cardiology,Scheduled,2024-09-07,2024-09-13,6,98,50,51.02,513
+P00484,57,Female,Cardiology,Scheduled,2023-10-25,2023-11-06,12,97,64,65.98,1122
+P00485,77,Male,Orthopedics,Scheduled,2025-01-29,2025-02-03,5,106,45,42.45,584
+P00486,25,Male,Neurology,Emergency,2024-10-04,2024-10-08,4,87,80,91.95,291
+P00487,60,Female,General Medicine,Emergency,2025-08-07,2025-08-08,1,53,22,41.51,266
+P00488,51,Female,Neurology,Emergency,2024-04-27,2024-05-10,13,61,54,88.52,294
+P00489,58,Male,Pediatrics,Scheduled,2024-05-05,2024-05-18,13,131,94,71.76,25
+P00490,19,Male,Orthopedics,Scheduled,2025-05-10,2025-05-19,9,76,28,36.84,1218
+P00491,19,Female,Neurology,Emergency,2025-05-21,2025-05-28,7,80,55,68.75,156
+P00492,23,Female,Cardiology,Emergency,2024-10-25,2024-11-07,13,148,45,30.41,202
+P00493,20,Female,Pediatrics,Emergency,2024-08-30,2024-09-11,12,144,27,18.75,192
+P00494,4,Female,Pediatrics,Emergency,2024-01-27,2024-01-28,1,66,23,34.85,49
+P00495,46,Male,Pediatrics,Scheduled,2023-10-01,2023-10-14,13,87,59,67.82,1212
+P00496,63,Female,Cardiology,Scheduled,2024-11-06,2024-11-20,14,77,38,49.35,1270
+P00497,35,Male,Neurology,Emergency,2025-04-29,2025-05-01,2,128,42,32.81,146
+P00498,25,Male,Pediatrics,Scheduled,2023-09-23,2023-09-25,2,55,21,38.18,483
+P00499,19,Male,Neurology,Scheduled,2025-03-19,2025-04-02,14,104,29,27.88,974
+P00500,37,Male,Pediatrics,Scheduled,2024-05-28,2024-05-31,3,71,34,47.89,751
+P00501,59,Female,Cardiology,Emergency,2024-07-21,2024-07-22,1,87,21,24.14,108
+P00502,37,Female,Orthopedics,Emergency,2025-03-04,2025-03-14,10,67,29,43.28,183
+P00503,69,Male,General Medicine,Scheduled,2025-01-28,2025-02-01,4,142,110,77.46,1286
+P00504,61,Female,Pediatrics,Emergency,2025-03-15,2025-03-19,4,146,23,15.75,144
+P00505,37,Female,Pediatrics,Scheduled,2025-04-10,2025-04-17,7,86,85,98.84,918
+P00506,79,Male,Pediatrics,Emergency,2023-11-11,2023-11-13,2,65,41,63.08,19
+P00507,73,Female,General Medicine,Emergency,2024-02-14,2024-02-17,3,110,100,90.91,172
+P00508,29,Male,Pediatrics,Emergency,2024-10-16,2024-10-18,2,104,24,23.08,155
+P00509,26,Female,General Medicine,Emergency,2025-08-08,2025-08-12,4,65,51,78.46,149
+P00510,65,Male,Orthopedics,Emergency,2025-05-21,2025-06-05,15,113,50,44.25,214
+P00511,32,Female,Neurology,Emergency,2025-03-21,2025-04-01,11,60,44,73.33,117
+P00512,48,Female,General Medicine,Emergency,2023-09-23,2023-10-04,11,78,67,85.9,49
+P00513,86,Male,Pediatrics,Scheduled,2024-04-23,2024-04-24,1,74,38,51.35,608
+P00514,80,Male,Cardiology,Scheduled,2025-03-21,2025-04-03,13,141,56,39.72,930
+P00515,73,Male,Cardiology,Emergency,2025-06-27,2025-06-30,3,111,68,61.26,190
+P00516,90,Female,Cardiology,Scheduled,2025-07-18,2025-07-29,11,101,40,39.6,148
+P00517,1,Male,Pediatrics,Emergency,2024-02-19,2024-02-26,7,78,48,61.54,165
+P00518,88,Female,General Medicine,Scheduled,2025-06-20,2025-07-01,11,96,73,76.04,678
+P00519,72,Male,Cardiology,Scheduled,2025-04-07,2025-04-18,11,98,73,74.49,911
+P00520,74,Male,Neurology,Scheduled,2025-07-08,2025-07-10,2,150,76,50.67,811
+P00521,22,Male,Cardiology,Scheduled,2024-04-23,2024-05-02,9,87,75,86.21,429
+P00522,46,Male,Pediatrics,Scheduled,2024-09-25,2024-10-07,12,51,22,43.14,117
+P00523,3,Male,Pediatrics,Scheduled,2024-11-30,2024-12-02,2,73,23,31.51,943
+P00524,24,Female,Neurology,Scheduled,2025-06-24,2025-07-01,7,82,62,75.61,496
+P00525,90,Female,Cardiology,Scheduled,2025-02-14,2025-03-01,15,111,99,89.19,611
+P00526,31,Female,General Medicine,Scheduled,2024-07-05,2024-07-08,3,97,20,20.62,1105
+P00527,79,Female,Pediatrics,Emergency,2023-12-01,2023-12-10,9,69,50,72.46,195
+P00528,65,Male,Neurology,Scheduled,2024-09-28,2024-10-12,14,82,55,67.07,1182
+P00529,7,Female,Neurology,Emergency,2025-06-16,2025-06-28,12,109,64,58.72,121
+P00530,53,Female,Cardiology,Scheduled,2025-02-06,2025-02-14,8,137,104,75.91,790
+P00531,48,Male,Neurology,Scheduled,2025-07-09,2025-07-18,9,64,25,39.06,1219
+P00532,44,Male,Neurology,Scheduled,2025-01-29,2025-02-07,9,131,94,71.76,1379
+P00533,42,Female,Neurology,Scheduled,2025-02-17,2025-02-20,3,92,85,92.39,202
+P00534,20,Male,Cardiology,Emergency,2024-03-10,2024-03-23,13,65,42,64.62,182
+P00535,18,Male,Cardiology,Emergency,2025-06-17,2025-07-01,14,115,28,24.35,242
+P00536,59,Female,Neurology,Emergency,2024-02-04,2024-02-05,1,129,115,89.15,245
+P00537,4,Male,General Medicine,Emergency,2025-01-09,2025-01-21,12,50,25,50.0,241
+P00538,15,Male,Orthopedics,Emergency,2024-01-25,2024-02-08,14,81,76,93.83,153
+P00539,38,Female,Pediatrics,Emergency,2024-04-26,2024-05-01,5,83,51,61.45,196
+P00540,3,Male,Pediatrics,Emergency,2025-07-08,2025-07-20,12,150,124,82.67,295
+P00541,82,Female,Orthopedics,Scheduled,2024-05-22,2024-05-29,7,139,24,17.27,634
+P00542,70,Female,Neurology,Scheduled,2023-09-24,2023-10-03,9,82,75,91.46,50
+P00543,34,Female,Neurology,Emergency,2023-08-27,2023-08-30,3,99,78,78.79,100
+P00544,46,Female,Cardiology,Scheduled,2024-05-18,2024-05-31,13,109,105,96.33,462
+P00545,35,Female,Cardiology,Scheduled,2024-07-12,2024-07-26,14,62,36,58.06,1003
+P00546,45,Male,Pediatrics,Emergency,2024-06-30,2024-07-06,6,148,31,20.95,165
+P00547,54,Male,Cardiology,Scheduled,2023-12-08,2023-12-11,3,63,22,34.92,444
+P00548,41,Female,Pediatrics,Emergency,2023-09-07,2023-09-18,11,145,29,20.0,121
+P00549,87,Male,Orthopedics,Scheduled,2024-07-22,2024-07-31,9,97,37,38.14,1319
+P00550,47,Male,Neurology,Emergency,2025-05-26,2025-06-02,7,130,43,33.08,131
+P00551,30,Female,Pediatrics,Scheduled,2023-12-28,2023-12-30,2,100,88,88.0,948
+P00552,13,Male,Pediatrics,Scheduled,2024-02-10,2024-02-14,4,70,21,30.0,1272
+P00553,57,Male,Pediatrics,Scheduled,2024-08-01,2024-08-02,1,131,88,67.18,303
+P00554,80,Male,General Medicine,Scheduled,2023-11-19,2023-11-26,7,143,110,76.92,838
+P00555,56,Male,General Medicine,Scheduled,2024-12-11,2024-12-18,7,67,48,71.64,585
+P00556,34,Female,Neurology,Emergency,2024-12-02,2024-12-05,3,149,122,81.88,36
+P00557,60,Male,Pediatrics,Scheduled,2023-09-10,2023-09-19,9,75,22,29.33,1275
+P00558,46,Male,Neurology,Scheduled,2023-09-23,2023-09-28,5,107,26,24.3,594
+P00559,66,Male,General Medicine,Scheduled,2025-06-26,2025-07-08,12,127,75,59.06,483
+P00560,46,Female,Orthopedics,Scheduled,2024-10-24,2024-11-07,14,131,124,94.66,1017
+P00561,66,Male,Pediatrics,Emergency,2025-06-10,2025-06-11,1,92,28,30.43,30
+P00562,12,Female,Orthopedics,Emergency,2023-09-11,2023-09-23,12,87,32,36.78,98
+P00563,76,Female,Orthopedics,Scheduled,2025-03-23,2025-04-02,10,89,59,66.29,23
+P00564,67,Male,Cardiology,Emergency,2023-12-23,2024-01-07,15,147,122,82.99,231
+P00565,57,Female,General Medicine,Emergency,2025-07-07,2025-07-10,3,62,55,88.71,49
+P00566,42,Female,Pediatrics,Emergency,2023-08-31,2023-09-08,8,52,52,100.0,283
+P00567,27,Female,General Medicine,Scheduled,2024-07-05,2024-07-20,15,55,49,89.09,56
+P00568,19,Male,General Medicine,Scheduled,2024-06-07,2024-06-11,4,69,48,69.57,471
+P00569,45,Male,Pediatrics,Scheduled,2024-06-05,2024-06-16,11,110,49,44.55,555
+P00570,52,Male,Cardiology,Scheduled,2024-05-05,2024-05-10,5,72,46,63.89,1039
+P00571,8,Male,Cardiology,Emergency,2024-08-11,2024-08-20,9,115,33,28.7,111
+P00572,85,Female,Orthopedics,Emergency,2024-08-27,2024-09-11,15,83,72,86.75,281
+P00573,66,Male,Cardiology,Emergency,2023-10-05,2023-10-19,14,63,28,44.44,211
+P00574,46,Female,Orthopedics,Emergency,2024-02-18,2024-03-01,12,133,39,29.32,291
+P00575,90,Male,Cardiology,Scheduled,2023-09-04,2023-09-10,6,99,28,28.28,210
+P00576,33,Female,Neurology,Scheduled,2024-03-01,2024-03-14,13,107,42,39.25,372
+P00577,84,Male,Neurology,Emergency,2025-03-10,2025-03-15,5,77,27,35.06,207
+P00578,6,Male,Pediatrics,Scheduled,2025-02-23,2025-02-25,2,146,121,82.88,1360
+P00579,42,Female,Orthopedics,Emergency,2023-09-04,2023-09-09,5,63,31,49.21,21
+P00580,41,Female,Cardiology,Emergency,2024-05-23,2024-05-24,1,68,26,38.24,33
+P00581,34,Female,Cardiology,Scheduled,2025-08-23,2025-08-31,8,54,31,57.41,1086
+P00582,29,Male,Cardiology,Scheduled,2025-01-29,2025-01-31,2,146,80,54.79,1262
+P00583,7,Female,Orthopedics,Emergency,2023-08-29,2023-09-07,9,93,60,64.52,294
+P00584,38,Male,General Medicine,Scheduled,2024-01-31,2024-02-03,3,74,20,27.03,681
+P00585,6,Female,General Medicine,Emergency,2024-03-12,2024-03-18,6,83,43,51.81,208
+P00586,7,Male,Cardiology,Emergency,2024-12-24,2024-12-28,4,140,76,54.29,50
+P00587,70,Male,Orthopedics,Scheduled,2024-12-08,2024-12-13,5,79,59,74.68,1437
+P00588,65,Male,Neurology,Emergency,2024-10-30,2024-11-07,8,54,46,85.19,102
+P00589,57,Male,General Medicine,Emergency,2025-03-11,2025-03-20,9,52,22,42.31,265
+P00590,89,Female,Cardiology,Scheduled,2024-01-03,2024-01-05,2,146,77,52.74,58
+P00591,25,Male,Neurology,Emergency,2023-10-21,2023-10-23,2,140,114,81.43,83
+P00592,87,Male,Pediatrics,Emergency,2023-10-08,2023-10-19,11,86,61,70.93,199
+P00593,65,Female,Neurology,Emergency,2025-02-13,2025-02-17,4,77,55,71.43,206
+P00594,55,Female,Orthopedics,Emergency,2025-07-24,2025-08-04,11,78,34,43.59,40
+P00595,66,Female,Cardiology,Scheduled,2024-06-25,2024-06-27,2,56,25,44.64,665
+P00596,42,Female,Cardiology,Scheduled,2024-09-29,2024-10-05,6,113,46,40.71,1120
+P00597,45,Male,Cardiology,Scheduled,2025-08-12,2025-08-17,5,57,53,92.98,500
+P00598,84,Female,Pediatrics,Emergency,2024-07-25,2024-07-29,4,122,86,70.49,33
+P00599,83,Male,Pediatrics,Emergency,2024-12-26,2025-01-03,8,67,37,55.22,201
+P00600,87,Male,Neurology,Emergency,2024-03-18,2024-03-24,6,92,71,77.17,225
+P00601,47,Male,Neurology,Emergency,2024-11-05,2024-11-20,15,88,34,38.64,208
+P00602,83,Male,Pediatrics,Emergency,2024-07-04,2024-07-19,15,50,36,72.0,196
+P00603,60,Male,Orthopedics,Emergency,2024-10-23,2024-11-07,15,69,35,50.72,80
+P00604,68,Male,General Medicine,Emergency,2024-09-22,2024-09-23,1,124,86,69.35,294
+P00605,31,Male,Neurology,Scheduled,2024-12-22,2025-01-01,10,116,55,47.41,460
+P00606,62,Female,General Medicine,Scheduled,2023-10-01,2023-10-03,2,77,36,46.75,634
+P00607,64,Female,Cardiology,Scheduled,2025-06-14,2025-06-16,2,80,28,35.0,1148
+P00608,76,Male,Pediatrics,Emergency,2024-11-30,2024-12-13,13,114,95,83.33,63
+P00609,90,Male,Cardiology,Scheduled,2024-12-29,2024-12-31,2,53,50,94.34,342
+P00610,37,Male,Cardiology,Scheduled,2024-11-23,2024-12-03,10,59,39,66.1,875
+P00611,37,Male,Neurology,Emergency,2024-02-17,2024-02-29,12,115,105,91.3,160
+P00612,43,Male,Neurology,Emergency,2023-12-10,2023-12-18,8,94,82,87.23,268
+P00613,82,Male,Neurology,Scheduled,2024-02-25,2024-03-05,9,137,127,92.7,1145
+P00614,15,Male,General Medicine,Scheduled,2024-07-20,2024-07-28,8,79,74,93.67,198
+P00615,85,Male,Pediatrics,Emergency,2024-02-06,2024-02-07,1,76,33,43.42,174
+P00616,21,Female,Orthopedics,Scheduled,2023-12-11,2023-12-26,15,63,44,69.84,1061
+P00617,57,Female,Pediatrics,Scheduled,2024-11-23,2024-12-07,14,137,134,97.81,1135
+P00618,46,Female,Neurology,Emergency,2024-07-17,2024-07-25,8,122,32,26.23,272
+P00619,28,Male,Orthopedics,Emergency,2024-07-23,2024-07-28,5,146,85,58.22,272
+P00620,32,Female,Neurology,Emergency,2025-01-05,2025-01-08,3,90,89,98.89,44
+P00621,58,Female,Orthopedics,Emergency,2025-01-23,2025-01-26,3,129,94,72.87,256
+P00622,10,Female,General Medicine,Emergency,2025-05-09,2025-05-10,1,58,20,34.48,283
+P00623,7,Male,Pediatrics,Emergency,2025-06-16,2025-06-24,8,52,36,69.23,194
+P00624,54,Female,Cardiology,Scheduled,2025-03-02,2025-03-15,13,82,65,79.27,1064
+P00625,36,Female,Orthopedics,Emergency,2024-06-26,2024-07-03,7,133,92,69.17,42
+P00626,54,Male,Pediatrics,Scheduled,2025-04-15,2025-04-28,13,124,121,97.58,911
+P00627,70,Female,Orthopedics,Scheduled,2024-11-16,2024-11-25,9,99,94,94.95,559
+P00628,49,Female,General Medicine,Scheduled,2024-05-24,2024-05-30,6,117,90,76.92,537
+P00629,48,Male,Pediatrics,Emergency,2023-10-16,2023-10-28,12,115,50,43.48,278
+P00630,39,Male,Cardiology,Scheduled,2024-06-17,2024-06-20,3,86,85,98.84,1207
+P00631,3,Male,Cardiology,Scheduled,2025-03-27,2025-04-03,7,121,54,44.63,105
+P00632,85,Female,Orthopedics,Emergency,2024-03-22,2024-04-04,13,89,88,98.88,166
+P00633,64,Male,Cardiology,Emergency,2025-03-20,2025-04-01,12,101,39,38.61,138
+P00634,43,Female,General Medicine,Emergency,2024-12-21,2025-01-01,11,50,42,84.0,223
+P00635,36,Male,Orthopedics,Emergency,2025-06-09,2025-06-21,12,144,26,18.06,220
+P00636,23,Male,General Medicine,Emergency,2025-01-11,2025-01-26,15,85,54,63.53,136
+P00637,42,Male,Orthopedics,Emergency,2024-09-30,2024-10-08,8,118,21,17.8,173
+P00638,12,Male,Orthopedics,Scheduled,2025-06-15,2025-06-19,4,150,23,15.33,1266
+P00639,26,Female,General Medicine,Emergency,2024-05-14,2024-05-16,2,149,59,39.6,225
+P00640,1,Male,General Medicine,Emergency,2024-07-29,2024-08-04,6,74,61,82.43,190
+P00641,1,Female,Orthopedics,Scheduled,2024-05-10,2024-05-11,1,82,24,29.27,1283
+P00642,44,Male,Neurology,Emergency,2025-01-23,2025-01-27,4,128,102,79.69,263
+P00643,90,Female,Pediatrics,Scheduled,2024-09-18,2024-09-28,10,77,61,79.22,1281
+P00644,82,Male,Cardiology,Emergency,2025-01-13,2025-01-19,6,92,49,53.26,212
+P00645,81,Female,Orthopedics,Emergency,2025-05-20,2025-05-22,2,134,124,92.54,242
+P00646,45,Male,Cardiology,Emergency,2025-07-15,2025-07-18,3,63,38,60.32,16
+P00647,78,Male,Neurology,Scheduled,2023-12-21,2024-01-05,15,119,116,97.48,781
+P00648,20,Female,Orthopedics,Emergency,2023-11-03,2023-11-15,12,52,47,90.38,75
+P00649,59,Male,Cardiology,Emergency,2025-08-08,2025-08-19,11,104,66,63.46,197
+P00650,56,Male,Orthopedics,Emergency,2025-06-25,2025-07-01,6,58,54,93.1,158
+P00651,42,Female,Neurology,Emergency,2025-04-10,2025-04-23,13,55,42,76.36,41
+P00652,86,Female,Neurology,Scheduled,2025-07-04,2025-07-14,10,117,54,46.15,541
+P00653,82,Female,Neurology,Emergency,2024-09-11,2024-09-20,9,56,44,78.57,40
+P00654,76,Male,Pediatrics,Emergency,2025-06-24,2025-07-09,15,67,51,76.12,243
+P00655,66,Male,Cardiology,Emergency,2024-10-01,2024-10-09,8,52,32,61.54,158
+P00656,89,Female,Cardiology,Emergency,2024-01-31,2024-02-02,2,102,32,31.37,270
+P00657,53,Female,Orthopedics,Scheduled,2024-02-27,2024-03-01,3,89,26,29.21,1403
+P00658,13,Female,General Medicine,Emergency,2024-05-18,2024-05-27,9,124,55,44.35,191
+P00659,51,Female,Cardiology,Scheduled,2024-03-15,2024-03-26,11,146,22,15.07,1107
+P00660,55,Female,General Medicine,Scheduled,2025-02-18,2025-03-02,12,99,42,42.42,39
+P00661,23,Male,Cardiology,Scheduled,2023-09-23,2023-09-28,5,108,76,70.37,52
+P00662,63,Female,General Medicine,Scheduled,2025-05-12,2025-05-20,8,76,29,38.16,236
+P00663,2,Male,Neurology,Scheduled,2024-06-21,2024-06-27,6,69,52,75.36,1083
+P00664,32,Female,Cardiology,Scheduled,2025-02-15,2025-02-25,10,148,77,52.03,256
+P00665,52,Female,General Medicine,Scheduled,2023-10-01,2023-10-11,10,103,65,63.11,537
+P00666,75,Female,Neurology,Emergency,2023-10-25,2023-11-01,7,73,61,83.56,83
+P00667,44,Male,Cardiology,Scheduled,2024-07-04,2024-07-12,8,146,132,90.41,966
+P00668,13,Male,Orthopedics,Emergency,2025-02-11,2025-02-13,2,97,46,47.42,125
+P00669,77,Female,General Medicine,Emergency,2024-10-17,2024-10-29,12,145,62,42.76,194
+P00670,23,Male,Orthopedics,Emergency,2023-10-17,2023-10-27,10,132,48,36.36,236
+P00671,32,Female,Neurology,Scheduled,2024-03-10,2024-03-24,14,69,46,66.67,918
+P00672,35,Male,General Medicine,Scheduled,2024-11-13,2024-11-28,15,135,25,18.52,903
+P00673,59,Male,Neurology,Scheduled,2024-03-09,2024-03-18,9,57,57,100.0,529
+P00674,71,Male,Pediatrics,Scheduled,2025-07-13,2025-07-25,12,94,29,30.85,868
+P00675,87,Male,Pediatrics,Emergency,2023-10-05,2023-10-06,1,141,92,65.25,76
+P00676,42,Male,Orthopedics,Scheduled,2025-08-01,2025-08-08,7,63,46,73.02,414
+P00677,44,Female,Orthopedics,Emergency,2024-01-22,2024-02-06,15,150,87,58.0,78
+P00678,40,Female,Neurology,Scheduled,2023-09-15,2023-09-18,3,89,65,73.03,138
+P00679,76,Male,Orthopedics,Scheduled,2024-03-25,2024-04-04,10,64,25,39.06,751
+P00680,26,Female,Pediatrics,Emergency,2023-09-03,2023-09-04,1,74,61,82.43,153
+P00681,16,Female,Cardiology,Emergency,2025-02-21,2025-02-22,1,128,112,87.5,191
+P00682,16,Male,General Medicine,Emergency,2024-06-06,2024-06-12,6,68,46,67.65,277
+P00683,48,Male,Pediatrics,Scheduled,2024-06-05,2024-06-15,10,99,25,25.25,954
+P00684,90,Female,Cardiology,Scheduled,2023-11-08,2023-11-23,15,61,37,60.66,641
+P00685,13,Female,Cardiology,Emergency,2025-01-21,2025-01-26,5,59,55,93.22,133
+P00686,17,Male,Cardiology,Emergency,2024-05-19,2024-05-24,5,60,25,41.67,44
+P00687,88,Female,Pediatrics,Emergency,2024-03-21,2024-03-23,2,50,50,100.0,165
+P00688,79,Female,Cardiology,Scheduled,2023-10-23,2023-10-28,5,90,42,46.67,242
+P00689,48,Female,General Medicine,Scheduled,2024-08-23,2024-08-31,8,55,51,92.73,1256
+P00690,63,Female,Orthopedics,Scheduled,2024-10-23,2024-11-02,10,83,47,56.63,687
+P00691,53,Male,Orthopedics,Scheduled,2025-01-05,2025-01-13,8,55,38,69.09,376
+P00692,59,Male,General Medicine,Emergency,2025-01-27,2025-02-07,11,50,32,64.0,99
+P00693,32,Male,Pediatrics,Emergency,2025-07-05,2025-07-07,2,118,53,44.92,211
+P00694,78,Male,Orthopedics,Scheduled,2024-02-12,2024-02-22,10,123,114,92.68,1318
+P00695,75,Male,Orthopedics,Scheduled,2025-08-19,2025-08-24,5,55,25,45.45,1201
+P00696,16,Female,Pediatrics,Scheduled,2025-05-16,2025-05-19,3,79,55,69.62,793
+P00697,50,Male,Cardiology,Emergency,2025-06-28,2025-07-11,13,116,60,51.72,250
+P00698,44,Female,Pediatrics,Emergency,2024-01-09,2024-01-14,5,115,76,66.09,299
+P00699,28,Male,Cardiology,Emergency,2025-02-19,2025-03-06,15,88,62,70.45,282
+P00700,67,Male,Orthopedics,Scheduled,2024-05-04,2024-05-12,8,76,42,55.26,46
+P00701,67,Male,Neurology,Scheduled,2024-03-26,2024-04-07,12,103,83,80.58,1083
+P00702,30,Male,Cardiology,Emergency,2024-06-28,2024-07-09,11,97,67,69.07,236
+P00703,27,Male,Neurology,Emergency,2023-11-14,2023-11-19,5,98,67,68.37,152
+P00704,5,Female,General Medicine,Scheduled,2024-12-21,2024-12-23,2,113,74,65.49,579
+P00705,3,Male,General Medicine,Scheduled,2024-04-29,2024-05-13,14,53,53,100.0,1123
+P00706,64,Male,General Medicine,Scheduled,2025-08-21,2025-08-22,1,62,27,43.55,1354
+P00707,80,Male,Orthopedics,Scheduled,2024-08-21,2024-09-03,13,124,82,66.13,249
+P00708,19,Female,Pediatrics,Scheduled,2024-05-03,2024-05-16,13,102,39,38.24,1055
+P00709,26,Female,Pediatrics,Scheduled,2023-12-26,2024-01-09,14,61,30,49.18,116
+P00710,67,Male,Orthopedics,Scheduled,2023-09-07,2023-09-11,4,130,64,49.23,15
+P00711,62,Female,Cardiology,Emergency,2023-12-19,2023-12-20,1,81,39,48.15,153
+P00712,77,Male,Neurology,Scheduled,2025-01-24,2025-02-08,15,72,42,58.33,979
+P00713,8,Female,Cardiology,Emergency,2024-10-25,2024-11-02,8,95,64,67.37,71
+P00714,23,Female,Cardiology,Emergency,2023-10-05,2023-10-06,1,139,114,82.01,112
+P00715,72,Male,Orthopedics,Emergency,2025-08-21,2025-08-27,6,135,63,46.67,230
+P00716,72,Male,Pediatrics,Emergency,2025-01-17,2025-01-20,3,72,32,44.44,218
+P00717,58,Female,Pediatrics,Emergency,2025-06-15,2025-06-17,2,109,26,23.85,122
+P00718,17,Female,Pediatrics,Scheduled,2025-03-16,2025-03-20,4,82,75,91.46,987
+P00719,32,Male,Neurology,Emergency,2025-02-24,2025-03-07,11,135,68,50.37,28
+P00720,2,Female,Pediatrics,Scheduled,2024-04-11,2024-04-14,3,67,63,94.03,1347
+P00721,31,Male,Orthopedics,Emergency,2024-01-13,2024-01-16,3,60,57,95.0,285
+P00722,37,Male,Orthopedics,Scheduled,2024-08-29,2024-09-01,3,74,72,97.3,98
+P00723,53,Female,Orthopedics,Emergency,2024-09-13,2024-09-18,5,72,23,31.94,214
+P00724,74,Male,Orthopedics,Scheduled,2024-11-13,2024-11-15,2,110,59,53.64,427
+P00725,37,Male,General Medicine,Scheduled,2024-07-23,2024-08-01,9,53,33,62.26,1313
+P00726,33,Male,Pediatrics,Emergency,2023-09-13,2023-09-28,15,118,44,37.29,137
+P00727,62,Male,Pediatrics,Scheduled,2023-09-21,2023-09-22,1,123,91,73.98,619
+P00728,76,Female,Cardiology,Emergency,2023-09-02,2023-09-15,13,135,61,45.19,103
+P00729,42,Male,Orthopedics,Emergency,2025-03-28,2025-04-12,15,74,60,81.08,183
+P00730,33,Male,Pediatrics,Scheduled,2024-09-03,2024-09-11,8,98,52,53.06,940
+P00731,2,Female,Cardiology,Scheduled,2024-04-28,2024-05-04,6,139,35,25.18,1378
+P00732,14,Male,General Medicine,Emergency,2025-01-22,2025-02-03,12,73,40,54.79,84
+P00733,33,Female,Cardiology,Emergency,2024-04-02,2024-04-07,5,63,56,88.89,256
+P00734,40,Male,Orthopedics,Scheduled,2024-01-06,2024-01-07,1,61,44,72.13,323
+P00735,81,Male,General Medicine,Scheduled,2024-10-23,2024-11-06,14,98,94,95.92,365
+P00736,55,Female,Cardiology,Scheduled,2024-05-17,2024-05-29,12,148,40,27.03,1397
+P00737,44,Male,General Medicine,Emergency,2023-12-10,2023-12-21,11,105,105,100.0,242
+P00738,77,Female,Cardiology,Scheduled,2024-04-06,2024-04-16,10,134,119,88.81,97
+P00739,61,Male,Cardiology,Scheduled,2025-06-19,2025-06-20,1,78,38,48.72,808
+P00740,61,Male,Cardiology,Scheduled,2025-05-21,2025-05-29,8,73,43,58.9,1012
+P00741,69,Male,Cardiology,Emergency,2024-11-09,2024-11-17,8,112,58,51.79,252
+P00742,82,Male,Pediatrics,Scheduled,2023-12-10,2023-12-14,4,52,47,90.38,1307
+P00743,64,Female,Cardiology,Emergency,2024-09-20,2024-10-04,14,73,22,30.14,246
+P00744,78,Male,Pediatrics,Emergency,2024-07-01,2024-07-06,5,111,24,21.62,172
+P00745,33,Female,Orthopedics,Emergency,2025-07-20,2025-07-24,4,77,30,38.96,271
+P00746,1,Male,General Medicine,Scheduled,2023-09-11,2023-09-22,11,72,54,75.0,862
+P00747,11,Female,Cardiology,Emergency,2023-08-25,2023-09-07,13,73,42,57.53,25
+P00748,86,Male,Cardiology,Emergency,2025-02-19,2025-03-05,14,105,63,60.0,244
+P00749,8,Male,Orthopedics,Emergency,2025-07-16,2025-07-22,6,117,54,46.15,24
+P00750,39,Male,General Medicine,Emergency,2025-04-01,2025-04-12,11,70,27,38.57,111
+P00751,66,Female,Neurology,Emergency,2024-05-22,2024-05-31,9,86,41,47.67,116
+P00752,23,Female,Orthopedics,Scheduled,2025-06-12,2025-06-27,15,77,47,61.04,299
+P00753,54,Male,Neurology,Emergency,2023-11-01,2023-11-05,4,141,88,62.41,56
+P00754,7,Female,Orthopedics,Scheduled,2024-11-19,2024-12-02,13,117,94,80.34,1260
+P00755,26,Male,Orthopedics,Scheduled,2024-04-05,2024-04-12,7,99,28,28.28,802
+P00756,13,Female,Neurology,Emergency,2024-10-10,2024-10-13,3,73,28,38.36,19
+P00757,16,Male,Cardiology,Scheduled,2023-09-29,2023-10-03,4,102,74,72.55,296
+P00758,36,Male,Cardiology,Emergency,2024-07-18,2024-07-28,10,62,24,38.71,203
+P00759,12,Female,General Medicine,Emergency,2025-04-14,2025-04-20,6,87,32,36.78,179
+P00760,88,Female,General Medicine,Scheduled,2024-12-29,2024-12-31,2,98,48,48.98,509
+P00761,75,Female,Neurology,Scheduled,2024-02-10,2024-02-23,13,87,57,65.52,1008
+P00762,56,Male,Pediatrics,Emergency,2025-04-15,2025-04-23,8,125,36,28.8,25
+P00763,33,Female,Neurology,Scheduled,2023-12-30,2024-01-11,12,124,62,50.0,842
+P00764,31,Female,Cardiology,Emergency,2024-06-01,2024-06-05,4,68,35,51.47,291
+P00765,79,Female,Neurology,Scheduled,2024-11-09,2024-11-24,15,53,49,92.45,708
+P00766,35,Female,Neurology,Scheduled,2025-08-09,2025-08-16,7,62,59,95.16,1195
+P00767,36,Female,Neurology,Scheduled,2024-04-11,2024-04-12,1,111,34,30.63,598
+P00768,75,Male,General Medicine,Scheduled,2025-01-21,2025-01-29,8,112,93,83.04,555
+P00769,15,Male,Cardiology,Emergency,2024-12-22,2024-12-26,4,53,48,90.57,46
+P00770,32,Male,General Medicine,Scheduled,2023-10-11,2023-10-21,10,77,28,36.36,231
+P00771,45,Male,Neurology,Emergency,2023-10-16,2023-10-29,13,60,52,86.67,282
+P00772,76,Female,Orthopedics,Emergency,2025-06-18,2025-06-22,4,90,62,68.89,132
+P00773,27,Female,Orthopedics,Scheduled,2024-08-20,2024-08-27,7,79,56,70.89,1412
+P00774,25,Female,Pediatrics,Emergency,2024-11-03,2024-11-09,6,147,113,76.87,133
+P00775,62,Male,Orthopedics,Emergency,2025-08-20,2025-08-24,4,65,36,55.38,51
+P00776,14,Female,Orthopedics,Scheduled,2024-08-22,2024-09-03,12,98,43,43.88,139
+P00777,66,Male,General Medicine,Emergency,2023-09-28,2023-09-29,1,120,71,59.17,142
+P00778,25,Male,General Medicine,Scheduled,2023-09-05,2023-09-07,2,91,29,31.87,180
+P00779,73,Male,Cardiology,Scheduled,2023-11-17,2023-11-22,5,56,54,96.43,1377
+P00780,2,Male,Cardiology,Emergency,2024-07-24,2024-08-04,11,74,56,75.68,239
+P00781,47,Male,Pediatrics,Scheduled,2025-06-15,2025-06-19,4,125,43,34.4,490
+P00782,67,Female,General Medicine,Emergency,2024-12-12,2024-12-26,14,131,96,73.28,163
+P00783,41,Female,Neurology,Scheduled,2025-02-24,2025-03-05,9,123,42,34.15,1081
+P00784,18,Male,Pediatrics,Emergency,2025-04-22,2025-04-24,2,132,20,15.15,101
+P00785,8,Male,Cardiology,Emergency,2024-07-12,2024-07-25,13,116,110,94.83,121
+P00786,67,Male,Pediatrics,Scheduled,2024-06-17,2024-06-29,12,106,39,36.79,361
+P00787,45,Female,Orthopedics,Scheduled,2023-11-13,2023-11-27,14,132,48,36.36,1186
+P00788,69,Male,Cardiology,Emergency,2024-01-26,2024-01-29,3,65,55,84.62,11
+P00789,83,Female,Orthopedics,Scheduled,2025-04-18,2025-04-20,2,125,75,60.0,1173
+P00790,3,Female,General Medicine,Emergency,2024-06-04,2024-06-10,6,111,47,42.34,235
+P00791,87,Male,Neurology,Emergency,2024-05-19,2024-05-27,8,140,113,80.71,265
+P00792,2,Male,General Medicine,Scheduled,2024-03-23,2024-03-27,4,141,79,56.03,1130
+P00793,18,Male,Cardiology,Emergency,2024-03-04,2024-03-11,7,76,66,86.84,188
+P00794,2,Female,Pediatrics,Scheduled,2023-10-18,2023-11-01,14,116,59,50.86,1191
+P00795,28,Male,Cardiology,Scheduled,2025-07-03,2025-07-10,7,75,41,54.67,1216
+P00796,44,Male,Orthopedics,Emergency,2025-07-31,2025-08-12,12,80,43,53.75,290
+P00797,40,Female,Pediatrics,Emergency,2024-09-18,2024-09-20,2,98,39,39.8,70
+P00798,80,Male,Orthopedics,Emergency,2023-10-15,2023-10-24,9,67,32,47.76,130
+P00799,54,Female,Orthopedics,Emergency,2023-12-22,2024-01-02,11,56,45,80.36,121
+P00800,34,Male,Pediatrics,Emergency,2024-01-21,2024-01-28,7,147,79,53.74,218
+P00801,14,Male,Neurology,Emergency,2025-01-06,2025-01-21,15,74,64,86.49,198
+P00802,10,Male,General Medicine,Emergency,2024-07-28,2024-08-05,8,96,37,38.54,16
+P00803,1,Male,Cardiology,Scheduled,2024-04-13,2024-04-14,1,136,38,27.94,1283
+P00804,82,Male,General Medicine,Emergency,2023-12-31,2024-01-08,8,140,140,100.0,273
+P00805,17,Male,Pediatrics,Scheduled,2024-07-17,2024-07-27,10,60,26,43.33,895
+P00806,17,Female,Cardiology,Emergency,2024-11-23,2024-12-06,13,76,48,63.16,264
+P00807,85,Male,Orthopedics,Emergency,2024-06-15,2024-06-17,2,77,61,79.22,247
+P00808,6,Female,General Medicine,Scheduled,2025-06-10,2025-06-25,15,109,75,68.81,246
+P00809,46,Female,Pediatrics,Emergency,2024-12-04,2024-12-05,1,101,82,81.19,150
+P00810,59,Male,Orthopedics,Emergency,2025-02-27,2025-03-09,10,50,37,74.0,300
+P00811,11,Male,General Medicine,Scheduled,2024-12-24,2024-12-25,1,113,47,41.59,332
+P00812,18,Male,Cardiology,Scheduled,2024-07-24,2024-07-25,1,141,39,27.66,350
+P00813,7,Male,Neurology,Emergency,2024-02-19,2024-03-01,11,108,44,40.74,15
+P00814,78,Male,Pediatrics,Scheduled,2025-04-10,2025-04-25,15,127,91,71.65,1224
+P00815,65,Female,Cardiology,Scheduled,2025-06-27,2025-07-03,6,69,55,79.71,557
+P00816,12,Male,Pediatrics,Scheduled,2024-10-24,2024-11-02,9,96,76,79.17,476
+P00817,81,Male,Neurology,Emergency,2023-12-15,2023-12-22,7,123,115,93.5,262
+P00818,64,Male,Cardiology,Scheduled,2023-10-18,2023-10-23,5,91,31,34.07,670
+P00819,15,Female,Orthopedics,Emergency,2024-09-21,2024-10-01,10,59,36,61.02,34
+P00820,23,Male,Pediatrics,Scheduled,2025-05-01,2025-05-02,1,68,59,86.76,962
+P00821,15,Male,General Medicine,Emergency,2024-03-12,2024-03-19,7,135,135,100.0,268
+P00822,72,Male,Cardiology,Emergency,2023-11-24,2023-12-09,15,128,101,78.91,94
+P00823,78,Male,Pediatrics,Emergency,2025-05-18,2025-05-28,10,59,41,69.49,240
+P00824,10,Female,General Medicine,Scheduled,2025-07-04,2025-07-08,4,77,62,80.52,930
+P00825,15,Female,Pediatrics,Emergency,2024-04-30,2024-05-02,2,84,38,45.24,142
+P00826,42,Female,Orthopedics,Emergency,2024-04-19,2024-04-25,6,148,114,77.03,109
+P00827,14,Male,Pediatrics,Emergency,2025-01-05,2025-01-18,13,105,72,68.57,43
+P00828,26,Female,Cardiology,Scheduled,2024-11-20,2024-12-02,12,65,34,52.31,56
+P00829,19,Male,Orthopedics,Emergency,2024-07-28,2024-08-04,7,107,50,46.73,225
+P00830,82,Female,Neurology,Scheduled,2025-05-14,2025-05-19,5,142,122,85.92,238
+P00831,49,Male,Orthopedics,Emergency,2023-09-16,2023-09-26,10,100,21,21.0,110
+P00832,82,Male,Orthopedics,Emergency,2025-04-14,2025-04-16,2,98,96,97.96,25
+P00833,64,Male,Neurology,Scheduled,2024-03-31,2024-04-06,6,130,31,23.85,235
+P00834,36,Female,Cardiology,Emergency,2024-11-05,2024-11-06,1,96,33,34.38,231
+P00835,73,Female,Orthopedics,Emergency,2024-05-07,2024-05-22,15,52,47,90.38,154
+P00836,9,Male,Cardiology,Scheduled,2025-07-11,2025-07-17,6,145,47,32.41,1247
+P00837,54,Female,Cardiology,Emergency,2025-08-16,2025-08-25,9,94,38,40.43,121
+P00838,88,Male,Cardiology,Scheduled,2023-11-07,2023-11-18,11,124,75,60.48,563
+P00839,74,Male,Orthopedics,Emergency,2024-09-15,2024-09-20,5,98,91,92.86,142
+P00840,1,Female,Orthopedics,Scheduled,2024-01-20,2024-01-28,8,145,83,57.24,1210
+P00841,87,Male,Cardiology,Scheduled,2025-05-02,2025-05-15,13,102,75,73.53,816
+P00842,7,Female,Orthopedics,Emergency,2024-12-03,2024-12-05,2,112,90,80.36,197
+P00843,6,Male,Orthopedics,Scheduled,2025-01-04,2025-01-06,2,86,79,91.86,287
+P00844,8,Female,Neurology,Scheduled,2025-05-14,2025-05-23,9,134,42,31.34,605
+P00845,55,Male,Cardiology,Scheduled,2025-01-14,2025-01-18,4,57,35,61.4,708
+P00846,28,Male,Neurology,Emergency,2023-10-18,2023-10-21,3,138,76,55.07,5
+P00847,83,Male,Neurology,Scheduled,2025-03-12,2025-03-26,14,106,44,41.51,1104
+P00848,14,Female,Pediatrics,Scheduled,2024-06-13,2024-06-21,8,130,27,20.77,217
+P00849,41,Female,Neurology,Emergency,2024-12-15,2024-12-24,9,128,128,100.0,290
+P00850,33,Male,Neurology,Scheduled,2024-04-05,2024-04-14,9,55,37,67.27,578
+P00851,33,Female,General Medicine,Scheduled,2023-11-18,2023-11-22,4,76,65,85.53,650
+P00852,90,Male,Neurology,Emergency,2024-03-03,2024-03-18,15,105,27,25.71,201
+P00853,87,Male,Cardiology,Scheduled,2024-01-15,2024-01-20,5,123,94,76.42,1332
+P00854,87,Male,Cardiology,Emergency,2023-09-25,2023-10-10,15,50,24,48.0,287
+P00855,25,Female,Cardiology,Scheduled,2024-03-28,2024-04-01,4,106,34,32.08,943
+P00856,39,Male,General Medicine,Scheduled,2025-04-11,2025-04-21,10,87,77,88.51,1146
+P00857,56,Female,General Medicine,Scheduled,2025-01-23,2025-01-30,7,113,24,21.24,926
+P00858,5,Male,Pediatrics,Emergency,2024-03-17,2024-03-24,7,51,39,76.47,166
+P00859,56,Male,Cardiology,Scheduled,2024-08-31,2024-09-11,11,63,32,50.79,1012
+P00860,38,Male,Orthopedics,Scheduled,2024-03-25,2024-03-30,5,66,31,46.97,1117
+P00861,22,Male,Neurology,Emergency,2025-07-17,2025-07-20,3,91,52,57.14,138
+P00862,48,Male,Cardiology,Scheduled,2024-11-23,2024-12-04,11,114,100,87.72,1344
+P00863,62,Male,General Medicine,Scheduled,2025-07-03,2025-07-06,3,66,54,81.82,567
+P00864,41,Female,Pediatrics,Emergency,2024-10-13,2024-10-27,14,121,60,49.59,163
+P00865,64,Female,General Medicine,Scheduled,2024-08-28,2024-08-30,2,50,22,44.0,924
+P00866,30,Male,General Medicine,Emergency,2025-01-06,2025-01-11,5,66,34,51.52,7
+P00867,20,Male,Neurology,Scheduled,2023-10-25,2023-11-09,15,78,65,83.33,1021
+P00868,60,Female,Neurology,Emergency,2025-05-24,2025-06-06,13,50,35,70.0,195
+P00869,75,Male,General Medicine,Scheduled,2024-08-26,2024-09-07,12,117,42,35.9,163
+P00870,14,Male,Pediatrics,Scheduled,2024-07-06,2024-07-20,14,107,35,32.71,630
+P00871,25,Female,Neurology,Scheduled,2024-09-19,2024-09-27,8,139,112,80.58,376
+P00872,62,Male,Pediatrics,Scheduled,2023-12-16,2023-12-23,7,53,35,66.04,154
+P00873,61,Female,General Medicine,Emergency,2025-01-17,2025-01-23,6,58,32,55.17,106
+P00874,63,Female,Neurology,Scheduled,2025-02-12,2025-02-24,12,59,52,88.14,94
+P00875,43,Male,Orthopedics,Scheduled,2024-07-21,2024-07-28,7,143,82,57.34,729
+P00876,49,Female,Neurology,Emergency,2024-01-20,2024-01-25,5,52,25,48.08,162
+P00877,21,Female,Pediatrics,Scheduled,2024-08-10,2024-08-19,9,110,87,79.09,794
+P00878,1,Male,Neurology,Scheduled,2024-07-29,2024-08-08,10,56,56,100.0,1283
+P00879,4,Female,Pediatrics,Scheduled,2023-12-29,2024-01-04,6,80,75,93.75,1371
+P00880,62,Female,Orthopedics,Scheduled,2025-06-09,2025-06-10,1,58,55,94.83,783
+P00881,85,Male,Cardiology,Scheduled,2024-05-21,2024-06-02,12,60,34,56.67,1258
+P00882,8,Male,Orthopedics,Emergency,2024-04-06,2024-04-18,12,89,74,83.15,143
+P00883,48,Male,Orthopedics,Scheduled,2023-12-18,2023-12-27,9,91,81,89.01,411
+P00884,73,Male,Pediatrics,Scheduled,2024-10-07,2024-10-10,3,56,36,64.29,454
+P00885,22,Male,Neurology,Scheduled,2024-12-28,2025-01-04,7,83,51,61.45,473
+P00886,25,Female,Neurology,Emergency,2024-05-31,2024-06-12,12,141,118,83.69,137
+P00887,9,Female,Orthopedics,Emergency,2025-08-20,2025-08-26,6,63,31,49.21,178
+P00888,74,Female,Orthopedics,Emergency,2024-09-14,2024-09-16,2,145,126,86.9,60
+P00889,59,Male,Pediatrics,Emergency,2024-07-14,2024-07-24,10,87,43,49.43,256
+P00890,76,Female,Pediatrics,Scheduled,2025-07-21,2025-07-25,4,142,54,38.03,1402
+P00891,44,Male,General Medicine,Scheduled,2025-01-02,2025-01-10,8,120,26,21.67,610
+P00892,80,Female,Orthopedics,Emergency,2024-03-27,2024-04-06,10,61,37,60.66,175
+P00893,35,Male,General Medicine,Emergency,2024-12-25,2025-01-04,10,65,50,76.92,73
+P00894,47,Female,General Medicine,Scheduled,2023-10-21,2023-10-30,9,54,54,100.0,1027
+P00895,53,Female,General Medicine,Scheduled,2023-09-20,2023-09-26,6,88,27,30.68,941
+P00896,41,Male,Pediatrics,Scheduled,2025-05-18,2025-05-21,3,133,20,15.04,1236
+P00897,16,Male,Cardiology,Scheduled,2023-12-27,2024-01-10,14,71,29,40.85,130
+P00898,83,Female,Orthopedics,Emergency,2024-01-27,2024-02-04,8,126,39,30.95,256
+P00899,59,Female,Pediatrics,Emergency,2024-01-17,2024-01-23,6,111,102,91.89,291
+P00900,2,Male,Pediatrics,Emergency,2024-03-09,2024-03-17,8,78,49,62.82,295
+P00901,85,Female,General Medicine,Emergency,2024-06-04,2024-06-09,5,69,48,69.57,295
+P00902,41,Female,General Medicine,Emergency,2024-02-11,2024-02-18,7,119,118,99.16,144
+P00903,84,Female,Orthopedics,Scheduled,2024-07-04,2024-07-10,6,58,28,48.28,1356
+P00904,50,Female,Neurology,Scheduled,2024-05-06,2024-05-08,2,68,39,57.35,185
+P00905,33,Female,Orthopedics,Emergency,2023-11-05,2023-11-10,5,123,112,91.06,26
+P00906,86,Male,General Medicine,Scheduled,2024-10-04,2024-10-19,15,85,79,92.94,86
+P00907,36,Female,Orthopedics,Scheduled,2025-04-11,2025-04-22,11,66,53,80.3,1313
+P00908,1,Female,Pediatrics,Emergency,2024-01-20,2024-01-23,3,79,36,45.57,122
+P00909,74,Female,Orthopedics,Emergency,2024-02-24,2024-03-01,6,60,59,98.33,150
+P00910,30,Male,Orthopedics,Emergency,2024-11-05,2024-11-19,14,82,68,82.93,243
+P00911,77,Female,General Medicine,Emergency,2024-06-07,2024-06-09,2,105,66,62.86,271
+P00912,20,Male,Cardiology,Emergency,2025-06-12,2025-06-13,1,113,108,95.58,113
+P00913,25,Male,General Medicine,Scheduled,2025-05-12,2025-05-22,10,136,118,86.76,474
+P00914,89,Male,Cardiology,Scheduled,2023-09-09,2023-09-11,2,79,28,35.44,263
+P00915,50,Female,Orthopedics,Emergency,2025-04-05,2025-04-07,2,123,53,43.09,241
+P00916,43,Male,Pediatrics,Emergency,2024-08-26,2024-09-05,10,76,46,60.53,283
+P00917,18,Male,Cardiology,Scheduled,2023-09-18,2023-09-22,4,69,28,40.58,1297
+P00918,37,Male,Pediatrics,Scheduled,2024-09-18,2024-09-19,1,92,22,23.91,46
+P00919,18,Female,General Medicine,Scheduled,2025-08-11,2025-08-18,7,53,45,84.91,336
+P00920,71,Male,General Medicine,Emergency,2025-04-28,2025-05-08,10,121,108,89.26,17
+P00921,87,Female,Neurology,Scheduled,2024-03-19,2024-03-30,11,67,23,34.33,944
+P00922,27,Male,Orthopedics,Scheduled,2025-04-06,2025-04-12,6,90,32,35.56,1335
+P00923,22,Male,Cardiology,Emergency,2025-07-11,2025-07-24,13,140,26,18.57,29
+P00924,70,Male,Orthopedics,Emergency,2024-01-15,2024-01-25,10,140,29,20.71,95
+P00925,82,Female,Neurology,Emergency,2023-10-03,2023-10-08,5,56,45,80.36,97
+P00926,60,Female,Pediatrics,Emergency,2024-11-26,2024-11-30,4,81,39,48.15,77
+P00927,1,Female,Pediatrics,Emergency,2024-12-16,2024-12-20,4,104,43,41.35,116
+P00928,74,Female,Pediatrics,Emergency,2024-06-07,2024-06-21,14,56,55,98.21,56
+P00929,53,Female,Orthopedics,Scheduled,2024-09-09,2024-09-22,13,89,84,94.38,178
+P00930,9,Female,General Medicine,Emergency,2025-06-06,2025-06-14,8,72,22,30.56,33
+P00931,86,Female,General Medicine,Emergency,2023-12-05,2023-12-17,12,147,89,60.54,23
+P00932,9,Male,Orthopedics,Scheduled,2025-03-10,2025-03-17,7,53,51,96.23,1114
+P00933,3,Male,Cardiology,Scheduled,2024-11-29,2024-12-14,15,138,20,14.49,522
+P00934,68,Male,Neurology,Emergency,2024-02-14,2024-02-25,11,95,20,21.05,292
+P00935,14,Male,General Medicine,Scheduled,2024-06-01,2024-06-03,2,82,27,32.93,764
+P00936,71,Male,Cardiology,Scheduled,2024-04-05,2024-04-12,7,93,80,86.02,1276
+P00937,42,Male,General Medicine,Emergency,2024-12-25,2024-12-30,5,140,73,52.14,33
+P00938,34,Male,Orthopedics,Scheduled,2023-12-14,2023-12-19,5,116,23,19.83,1240
+P00939,68,Male,Pediatrics,Scheduled,2024-11-03,2024-11-05,2,139,31,22.3,95
+P00940,80,Female,Neurology,Scheduled,2025-01-22,2025-02-01,10,119,54,45.38,220
+P00941,80,Female,Cardiology,Emergency,2024-07-18,2024-07-23,5,126,53,42.06,145
+P00942,23,Female,Neurology,Scheduled,2023-09-28,2023-10-02,4,141,63,44.68,1066
+P00943,3,Female,Cardiology,Scheduled,2024-06-12,2024-06-25,13,95,31,32.63,1117
+P00944,25,Male,Orthopedics,Scheduled,2025-07-18,2025-07-30,12,105,96,91.43,281
+P00945,53,Female,Pediatrics,Emergency,2025-05-04,2025-05-07,3,73,62,84.93,5
+P00946,6,Male,Neurology,Scheduled,2025-06-14,2025-06-15,1,79,68,86.08,67
+P00947,76,Male,Orthopedics,Emergency,2024-10-03,2024-10-06,3,147,40,27.21,136
+P00948,47,Male,Pediatrics,Scheduled,2024-01-17,2024-01-29,12,64,31,48.44,937
+P00949,12,Male,Orthopedics,Scheduled,2023-11-09,2023-11-16,7,130,64,49.23,218
+P00950,14,Female,General Medicine,Emergency,2024-12-07,2024-12-08,1,92,57,61.96,99
+P00951,28,Male,Pediatrics,Scheduled,2025-02-22,2025-02-25,3,93,76,81.72,1384
+P00952,2,Female,Neurology,Scheduled,2023-10-23,2023-11-03,11,69,29,42.03,526
+P00953,46,Female,Neurology,Emergency,2024-01-29,2024-02-13,15,89,46,51.69,98
+P00954,22,Female,Cardiology,Scheduled,2025-04-13,2025-04-24,11,92,48,52.17,1384
+P00955,50,Male,General Medicine,Emergency,2025-06-12,2025-06-18,6,116,54,46.55,87
+P00956,32,Male,Neurology,Emergency,2023-09-07,2023-09-18,11,55,21,38.18,19
+P00957,3,Female,Cardiology,Scheduled,2025-03-29,2025-04-06,8,112,42,37.5,1294
+P00958,71,Male,Cardiology,Emergency,2025-02-21,2025-03-01,8,97,42,43.3,73
+P00959,11,Female,General Medicine,Emergency,2024-09-18,2024-10-03,15,93,26,27.96,107
+P00960,36,Female,Pediatrics,Scheduled,2025-03-01,2025-03-12,11,67,49,73.13,421
+P00961,60,Female,Cardiology,Scheduled,2025-04-07,2025-04-16,9,145,28,19.31,625
+P00962,74,Male,Pediatrics,Emergency,2024-05-22,2024-06-05,14,90,54,60.0,192
+P00963,88,Female,Orthopedics,Emergency,2025-03-09,2025-03-14,5,77,68,88.31,235
+P00964,34,Female,Pediatrics,Emergency,2024-09-30,2024-10-05,5,123,110,89.43,244
+P00965,22,Female,Orthopedics,Scheduled,2024-10-26,2024-10-30,4,80,48,60.0,1260
+P00966,84,Female,General Medicine,Emergency,2025-03-14,2025-03-25,11,72,66,91.67,98
+P00967,66,Female,Cardiology,Scheduled,2025-07-09,2025-07-15,6,102,46,45.1,895
+P00968,6,Female,General Medicine,Scheduled,2024-01-21,2024-02-01,11,54,52,96.3,88
+P00969,64,Male,Pediatrics,Emergency,2025-07-14,2025-07-23,9,84,49,58.33,206
+P00970,80,Female,Neurology,Emergency,2024-07-08,2024-07-21,13,127,79,62.2,141
+P00971,65,Female,Pediatrics,Emergency,2025-07-04,2025-07-19,15,65,58,89.23,265
+P00972,25,Male,Neurology,Scheduled,2025-03-30,2025-04-07,8,107,27,25.23,1162
+P00973,13,Female,Neurology,Emergency,2025-08-13,2025-08-14,1,99,76,76.77,92
+P00974,20,Female,Neurology,Scheduled,2024-05-19,2024-05-22,3,143,124,86.71,629
+P00975,32,Male,Pediatrics,Scheduled,2024-09-26,2024-10-04,8,118,87,73.73,657
+P00976,87,Female,Orthopedics,Scheduled,2024-03-05,2024-03-15,10,91,60,65.93,154
+P00977,32,Male,Neurology,Scheduled,2023-09-20,2023-09-27,7,148,90,60.81,26
+P00978,54,Male,Neurology,Scheduled,2024-04-12,2024-04-20,8,50,34,68.0,1073
+P00979,22,Male,Pediatrics,Emergency,2024-07-07,2024-07-08,1,94,93,98.94,76
+P00980,17,Female,Orthopedics,Scheduled,2024-12-30,2025-01-06,7,100,26,26.0,1428
+P00981,83,Male,Cardiology,Emergency,2025-08-08,2025-08-22,14,68,62,91.18,213
+P00982,36,Female,General Medicine,Emergency,2024-10-09,2024-10-11,2,145,129,88.97,82
+P00983,28,Male,Cardiology,Emergency,2024-11-04,2024-11-16,12,61,45,73.77,167
+P00984,30,Male,Neurology,Scheduled,2024-02-06,2024-02-20,14,69,30,43.48,1132
+P00985,51,Male,General Medicine,Emergency,2025-07-15,2025-07-24,9,56,23,41.07,290
+P00986,38,Female,Neurology,Emergency,2023-10-02,2023-10-06,4,109,62,56.88,238
+P00987,46,Female,General Medicine,Scheduled,2024-02-22,2024-03-04,11,111,52,46.85,197
+P00988,16,Male,Pediatrics,Emergency,2025-04-28,2025-05-01,3,52,44,84.62,152
+P00989,71,Female,Pediatrics,Emergency,2024-05-10,2024-05-13,3,82,38,46.34,145
+P00990,76,Male,Pediatrics,Emergency,2025-02-06,2025-02-14,8,66,23,34.85,127
+P00991,36,Male,Pediatrics,Emergency,2023-12-17,2023-12-28,11,98,93,94.9,153
+P00992,21,Female,General Medicine,Scheduled,2025-02-26,2025-03-13,15,127,70,55.12,758
+P00993,8,Female,Cardiology,Scheduled,2024-11-24,2024-11-29,5,135,79,58.52,627
+P00994,87,Male,Pediatrics,Scheduled,2024-03-28,2024-04-10,13,91,66,72.53,1071
+P00995,53,Female,Neurology,Emergency,2024-10-31,2024-11-12,12,138,79,57.25,270
+P00996,62,Male,Neurology,Scheduled,2025-05-30,2025-06-08,9,126,50,39.68,90
+P00997,4,Female,Pediatrics,Scheduled,2024-08-20,2024-08-22,2,55,23,41.82,439
+P00998,57,Female,Cardiology,Emergency,2025-02-06,2025-02-09,3,63,43,68.25,59
+P00999,31,Female,Pediatrics,Emergency,2025-04-15,2025-04-25,10,123,73,59.35,275
+P01000,49,Female,Cardiology,Emergency,2024-12-13,2024-12-23,10,116,55,47.41,67
+P01001,17,Female,Orthopedics,Scheduled,2024-04-14,2024-04-26,12,86,58,67.44,687
+P01002,43,Female,Pediatrics,Scheduled,2025-03-25,2025-03-29,4,137,35,25.55,31
+P01003,41,Female,Neurology,Scheduled,2025-02-21,2025-02-27,6,109,103,94.5,338
+P01004,23,Female,Cardiology,Scheduled,2025-04-17,2025-04-20,3,125,39,31.2,491
+P01005,86,Male,Pediatrics,Emergency,2023-12-02,2023-12-09,7,124,87,70.16,54
+P01006,28,Female,General Medicine,Emergency,2023-09-21,2023-10-03,12,137,44,32.12,154
+P01007,85,Male,Cardiology,Scheduled,2024-08-04,2024-08-18,14,76,24,31.58,1440
+P01008,28,Female,Cardiology,Emergency,2024-02-28,2024-03-04,5,68,56,82.35,87
+P01009,1,Female,Orthopedics,Scheduled,2025-04-16,2025-04-23,7,62,52,83.87,1122
+P01010,64,Female,Orthopedics,Scheduled,2025-06-08,2025-06-11,3,53,29,54.72,249
+P01011,55,Male,Orthopedics,Emergency,2023-12-16,2023-12-17,1,90,64,71.11,105
+P01012,89,Female,Orthopedics,Emergency,2025-02-03,2025-02-09,6,93,75,80.65,113
+P01013,55,Male,General Medicine,Scheduled,2024-05-01,2024-05-09,8,58,25,43.1,121
+P01014,2,Female,Pediatrics,Emergency,2025-04-17,2025-05-02,15,103,83,80.58,237
+P01015,21,Male,Orthopedics,Emergency,2023-10-26,2023-11-04,9,120,108,90.0,115
+P01016,32,Female,Cardiology,Scheduled,2024-04-05,2024-04-20,15,82,38,46.34,259
+P01017,15,Male,Pediatrics,Emergency,2024-12-22,2024-12-29,7,143,84,58.74,44
+P01018,55,Female,Neurology,Emergency,2024-05-18,2024-05-20,2,90,41,45.56,146
+P01019,52,Female,Pediatrics,Scheduled,2023-10-13,2023-10-18,5,105,74,70.48,1216
+P01020,35,Male,Orthopedics,Scheduled,2024-01-12,2024-01-14,2,62,41,66.13,1053
+P01021,11,Male,General Medicine,Emergency,2024-03-25,2024-04-03,9,92,45,48.91,266
+P01022,89,Male,Cardiology,Emergency,2024-10-27,2024-10-29,2,69,66,95.65,80
+P01023,48,Male,Neurology,Emergency,2024-09-08,2024-09-22,14,83,34,40.96,262
+P01024,22,Female,Orthopedics,Scheduled,2024-10-19,2024-10-20,1,127,111,87.4,424
+P01025,7,Female,Orthopedics,Scheduled,2023-12-24,2024-01-01,8,109,55,50.46,528
+P01026,9,Male,Cardiology,Emergency,2024-10-28,2024-11-05,8,120,82,68.33,197
+P01027,70,Female,Orthopedics,Emergency,2024-04-27,2024-05-05,8,110,66,60.0,13
+P01028,2,Female,General Medicine,Scheduled,2024-11-29,2024-12-13,14,150,23,15.33,457
+P01029,4,Female,General Medicine,Scheduled,2025-01-11,2025-01-20,9,53,30,56.6,805
+P01030,77,Male,Pediatrics,Emergency,2024-05-05,2024-05-14,9,84,20,23.81,300
+P01031,23,Male,Pediatrics,Scheduled,2025-04-18,2025-04-21,3,70,67,95.71,510
+P01032,35,Male,Orthopedics,Scheduled,2023-11-24,2023-12-07,13,72,24,33.33,972
+P01033,21,Female,Cardiology,Emergency,2023-08-28,2023-08-30,2,68,22,32.35,92
+P01034,30,Female,General Medicine,Scheduled,2024-03-17,2024-03-20,3,142,110,77.46,1283
+P01035,79,Male,Cardiology,Scheduled,2024-04-13,2024-04-20,7,139,139,100.0,1014
+P01036,33,Female,Orthopedics,Emergency,2025-06-30,2025-07-14,14,124,101,81.45,224
+P01037,72,Female,Pediatrics,Scheduled,2024-11-29,2024-11-30,1,143,107,74.83,1240
+P01038,39,Male,Pediatrics,Scheduled,2025-04-29,2025-05-05,6,110,79,71.82,721
+P01039,31,Female,General Medicine,Scheduled,2024-09-16,2024-09-23,7,86,70,81.4,314
+P01040,16,Female,Neurology,Scheduled,2023-08-31,2023-09-14,14,150,90,60.0,581
+P01041,89,Female,General Medicine,Scheduled,2024-03-07,2024-03-09,2,126,31,24.6,267
+P01042,43,Female,Neurology,Scheduled,2023-10-12,2023-10-24,12,132,37,28.03,443
+P01043,16,Female,Orthopedics,Emergency,2024-06-25,2024-07-01,6,81,55,67.9,123
+P01044,45,Female,Orthopedics,Emergency,2024-10-16,2024-10-18,2,91,74,81.32,39
+P01045,82,Male,Pediatrics,Scheduled,2024-01-10,2024-01-25,15,138,94,68.12,855
+P01046,51,Female,Cardiology,Emergency,2025-05-14,2025-05-26,12,128,54,42.19,146
+P01047,31,Female,General Medicine,Scheduled,2025-03-08,2025-03-14,6,87,48,55.17,1177
+P01048,42,Female,Orthopedics,Emergency,2025-06-18,2025-06-28,10,60,32,53.33,97
+P01049,50,Female,Neurology,Emergency,2024-12-07,2024-12-11,4,114,91,79.82,47
+P01050,75,Male,Orthopedics,Scheduled,2024-02-15,2024-02-25,10,139,25,17.99,1075
+P01051,20,Female,Neurology,Scheduled,2025-03-12,2025-03-17,5,124,52,41.94,729
+P01052,89,Female,Orthopedics,Scheduled,2025-07-26,2025-08-10,15,52,42,80.77,796
+P01053,6,Female,Orthopedics,Scheduled,2024-05-26,2024-06-06,11,125,50,40.0,984
+P01054,78,Female,General Medicine,Emergency,2024-09-22,2024-10-01,9,67,38,56.72,186
+P01055,31,Female,General Medicine,Emergency,2024-03-13,2024-03-24,11,137,30,21.9,121
+P01056,64,Male,Orthopedics,Emergency,2025-08-24,2025-08-30,6,62,32,51.61,296
+P01057,58,Male,Orthopedics,Scheduled,2023-11-25,2023-11-28,3,123,46,37.4,762
+P01058,30,Female,Neurology,Scheduled,2025-08-07,2025-08-17,10,71,61,85.92,1061
+P01059,82,Female,Orthopedics,Scheduled,2024-12-14,2024-12-16,2,69,25,36.23,1398
+P01060,84,Male,Pediatrics,Emergency,2024-08-04,2024-08-09,5,67,64,95.52,53
+P01061,58,Male,Pediatrics,Emergency,2024-10-09,2024-10-16,7,83,50,60.24,234
+P01062,72,Female,Orthopedics,Emergency,2023-11-21,2023-12-06,15,148,88,59.46,10
+P01063,7,Male,General Medicine,Emergency,2024-08-27,2024-09-10,14,81,67,82.72,187
+P01064,72,Male,Neurology,Emergency,2024-06-27,2024-07-04,7,140,109,77.86,162
+P01065,76,Male,Neurology,Scheduled,2024-04-08,2024-04-18,10,126,44,34.92,762
+P01066,34,Male,General Medicine,Scheduled,2024-05-16,2024-05-27,11,60,57,95.0,626
+P01067,76,Male,General Medicine,Emergency,2025-06-10,2025-06-24,14,112,72,64.29,260
+P01068,9,Male,Cardiology,Emergency,2024-02-28,2024-03-07,8,147,65,44.22,228
+P01069,28,Female,Orthopedics,Scheduled,2025-07-13,2025-07-20,7,61,40,65.57,1432
+P01070,83,Female,Orthopedics,Scheduled,2024-05-14,2024-05-18,4,118,29,24.58,389
+P01071,82,Female,General Medicine,Emergency,2023-08-27,2023-09-06,10,51,40,78.43,84
+P01072,65,Male,Neurology,Scheduled,2025-05-13,2025-05-14,1,117,29,24.79,1426
+P01073,33,Female,Cardiology,Scheduled,2023-11-21,2023-11-24,3,50,37,74.0,153
+P01074,7,Female,Neurology,Scheduled,2024-12-01,2024-12-02,1,113,21,18.58,1062
+P01075,56,Male,Neurology,Scheduled,2025-08-16,2025-08-29,13,87,51,58.62,211
+P01076,2,Female,Cardiology,Scheduled,2025-06-01,2025-06-14,13,71,48,67.61,1391
+P01077,15,Male,Orthopedics,Scheduled,2025-04-28,2025-05-04,6,112,45,40.18,343
+P01078,11,Female,General Medicine,Emergency,2025-03-05,2025-03-11,6,121,88,72.73,244
+P01079,46,Male,Orthopedics,Emergency,2024-02-23,2024-02-26,3,93,78,83.87,200
+P01080,83,Female,Orthopedics,Scheduled,2024-05-28,2024-06-11,14,123,72,58.54,1323
+P01081,5,Female,Orthopedics,Emergency,2024-11-06,2024-11-09,3,117,106,90.6,49
+P01082,86,Male,Pediatrics,Emergency,2025-07-18,2025-07-27,9,104,51,49.04,49
+P01083,56,Female,Pediatrics,Scheduled,2025-04-04,2025-04-16,12,92,51,55.43,991
+P01084,18,Male,Orthopedics,Scheduled,2024-08-31,2024-09-04,4,69,55,79.71,577
+P01085,16,Male,Cardiology,Scheduled,2024-11-08,2024-11-19,11,116,49,42.24,821
+P01086,51,Male,Neurology,Emergency,2024-06-06,2024-06-09,3,101,59,58.42,209
+P01087,30,Male,Orthopedics,Scheduled,2025-01-19,2025-01-29,10,100,65,65.0,1275
+P01088,74,Male,General Medicine,Emergency,2025-03-16,2025-03-21,5,95,58,61.05,27
+P01089,19,Female,Cardiology,Emergency,2024-01-28,2024-02-11,14,102,66,64.71,284
+P01090,12,Female,Orthopedics,Emergency,2025-05-01,2025-05-08,7,80,46,57.5,221
+P01091,75,Female,General Medicine,Scheduled,2025-01-07,2025-01-14,7,107,62,57.94,116
+P01092,28,Male,Orthopedics,Scheduled,2025-01-29,2025-01-31,2,56,41,73.21,1113
+P01093,90,Male,Neurology,Emergency,2025-05-30,2025-06-11,12,100,68,68.0,60
+P01094,44,Female,Neurology,Emergency,2025-08-24,2025-08-30,6,109,69,63.3,89
+P01095,19,Male,Neurology,Scheduled,2024-01-31,2024-02-13,13,64,50,78.12,736
+P01096,61,Female,Pediatrics,Scheduled,2023-10-16,2023-10-27,11,140,31,22.14,1226
+P01097,47,Female,Neurology,Scheduled,2024-08-18,2024-09-01,14,66,55,83.33,384
+P01098,38,Male,Cardiology,Emergency,2024-11-09,2024-11-21,12,77,51,66.23,57
+P01099,21,Male,Cardiology,Emergency,2024-08-22,2024-08-29,7,122,29,23.77,293
+P01100,58,Female,Orthopedics,Emergency,2025-02-05,2025-02-14,9,105,81,77.14,85
+P01101,61,Female,Cardiology,Scheduled,2023-10-16,2023-10-31,15,125,55,44.0,1084
+P01102,3,Male,Pediatrics,Emergency,2024-04-08,2024-04-21,13,83,41,49.4,22
+P01103,36,Male,Neurology,Emergency,2025-08-03,2025-08-13,10,125,105,84.0,252
+P01104,24,Male,Orthopedics,Scheduled,2023-10-06,2023-10-16,10,138,133,96.38,1370
+P01105,25,Male,General Medicine,Scheduled,2025-06-20,2025-06-28,8,63,28,44.44,919
+P01106,62,Male,Cardiology,Scheduled,2025-04-02,2025-04-13,11,135,77,57.04,1019
+P01107,13,Male,Neurology,Emergency,2025-07-25,2025-07-28,3,135,80,59.26,64
+P01108,12,Male,Pediatrics,Emergency,2023-12-07,2023-12-16,9,84,27,32.14,190
+P01109,45,Male,Orthopedics,Emergency,2024-07-16,2024-07-28,12,86,72,83.72,95
+P01110,89,Female,Pediatrics,Scheduled,2025-06-17,2025-06-24,7,54,28,51.85,714
+P01111,51,Female,Pediatrics,Emergency,2024-07-13,2024-07-22,9,100,22,22.0,167
+P01112,9,Female,Pediatrics,Emergency,2024-06-06,2024-06-21,15,57,57,100.0,293
+P01113,1,Female,Pediatrics,Emergency,2025-04-13,2025-04-15,2,135,32,23.7,77
+P01114,69,Male,General Medicine,Scheduled,2024-11-16,2024-11-25,9,104,99,95.19,52
+P01115,12,Male,General Medicine,Emergency,2024-11-25,2024-12-02,7,74,29,39.19,11
+P01116,87,Male,General Medicine,Emergency,2025-08-10,2025-08-25,15,56,33,58.93,57
+P01117,62,Male,Orthopedics,Emergency,2024-07-25,2024-07-28,3,142,106,74.65,11
+P01118,66,Male,Neurology,Scheduled,2023-08-26,2023-08-31,5,142,93,65.49,1401
+P01119,8,Female,General Medicine,Emergency,2024-09-09,2024-09-19,10,126,29,23.02,61
+P01120,84,Female,Cardiology,Scheduled,2025-06-07,2025-06-08,1,81,47,58.02,1004
+P01121,29,Male,Pediatrics,Emergency,2024-04-09,2024-04-12,3,138,122,88.41,229
+P01122,52,Female,Neurology,Scheduled,2024-04-19,2024-05-01,12,65,47,72.31,522
+P01123,48,Female,Neurology,Emergency,2024-11-11,2024-11-22,11,121,81,66.94,67
+P01124,79,Male,Neurology,Emergency,2025-06-29,2025-07-02,3,116,49,42.24,291
+P01125,3,Male,Neurology,Scheduled,2024-09-07,2024-09-14,7,142,70,49.3,373
+P01126,61,Male,Pediatrics,Emergency,2024-03-14,2024-03-29,15,74,70,94.59,162
+P01127,65,Female,Cardiology,Emergency,2023-12-13,2023-12-18,5,101,21,20.79,294
+P01128,88,Female,Orthopedics,Emergency,2023-10-02,2023-10-09,7,65,47,72.31,221
+P01129,66,Female,Pediatrics,Scheduled,2025-03-28,2025-04-03,6,98,40,40.82,66
+P01130,11,Female,Cardiology,Emergency,2024-10-31,2024-11-11,11,72,62,86.11,209
+P01131,26,Female,Pediatrics,Emergency,2025-07-17,2025-07-20,3,107,92,85.98,90
+P01132,36,Female,Neurology,Emergency,2024-06-06,2024-06-19,13,80,71,88.75,248
+P01133,18,Female,Orthopedics,Scheduled,2024-06-15,2024-06-26,11,107,71,66.36,269
+P01134,10,Female,Neurology,Scheduled,2024-10-06,2024-10-17,11,62,32,51.61,790
+P01135,44,Male,General Medicine,Emergency,2024-05-02,2024-05-07,5,121,56,46.28,261
+P01136,73,Male,Neurology,Emergency,2024-08-14,2024-08-15,1,105,59,56.19,15
+P01137,76,Female,General Medicine,Scheduled,2025-02-13,2025-02-21,8,51,31,60.78,405
+P01138,36,Female,Pediatrics,Scheduled,2025-08-23,2025-09-06,14,53,53,100.0,925
+P01139,8,Female,Pediatrics,Emergency,2025-08-20,2025-08-22,2,74,53,71.62,204
+P01140,3,Female,General Medicine,Scheduled,2024-05-21,2024-05-30,9,125,99,79.2,834
+P01141,26,Female,Cardiology,Scheduled,2024-03-08,2024-03-20,12,82,78,95.12,318
+P01142,79,Male,Neurology,Emergency,2023-09-01,2023-09-02,1,79,29,36.71,225
+P01143,67,Female,Cardiology,Emergency,2024-12-06,2024-12-15,9,109,48,44.04,214
+P01144,50,Male,Neurology,Scheduled,2025-08-23,2025-09-01,9,75,36,48.0,124
+P01145,76,Female,Cardiology,Emergency,2024-12-26,2025-01-10,15,86,49,56.98,291
+P01146,55,Female,Cardiology,Emergency,2024-06-28,2024-07-07,9,51,21,41.18,48
+P01147,45,Female,Orthopedics,Emergency,2024-04-23,2024-05-06,13,125,40,32.0,273
+P01148,5,Female,Pediatrics,Scheduled,2024-03-29,2024-04-10,12,143,48,33.57,819
+P01149,65,Female,General Medicine,Emergency,2024-12-20,2025-01-03,14,64,63,98.44,298
+P01150,85,Male,Orthopedics,Emergency,2024-05-22,2024-06-03,12,56,32,57.14,65
+P01151,58,Male,General Medicine,Scheduled,2023-11-07,2023-11-10,3,77,66,85.71,1069
+P01152,28,Male,Pediatrics,Emergency,2025-05-17,2025-05-20,3,134,24,17.91,270
+P01153,38,Female,Pediatrics,Scheduled,2025-05-01,2025-05-11,10,74,65,87.84,1216
+P01154,10,Male,Orthopedics,Scheduled,2023-12-09,2023-12-12,3,76,31,40.79,1111
+P01155,78,Male,Cardiology,Scheduled,2024-04-19,2024-04-21,2,128,25,19.53,1305
+P01156,80,Male,Neurology,Emergency,2024-06-03,2024-06-05,2,104,52,50.0,95
+P01157,26,Female,General Medicine,Scheduled,2025-07-23,2025-08-05,13,115,65,56.52,1011
+P01158,36,Female,General Medicine,Scheduled,2025-01-09,2025-01-22,13,149,63,42.28,1244
+P01159,70,Male,Neurology,Emergency,2025-02-10,2025-02-21,11,58,58,100.0,42
+P01160,81,Female,Cardiology,Emergency,2024-05-21,2024-06-02,12,120,101,84.17,88
+P01161,41,Male,Cardiology,Scheduled,2024-07-03,2024-07-09,6,88,78,88.64,901
+P01162,28,Female,Cardiology,Emergency,2024-04-15,2024-04-23,8,98,70,71.43,203
+P01163,85,Male,Cardiology,Scheduled,2024-05-28,2024-06-05,8,148,88,59.46,65
+P01164,71,Male,Neurology,Scheduled,2024-11-10,2024-11-19,9,78,26,33.33,1285
+P01165,78,Male,Pediatrics,Emergency,2025-07-05,2025-07-18,13,135,105,77.78,57
+P01166,38,Male,Orthopedics,Emergency,2023-09-10,2023-09-15,5,129,38,29.46,16
+P01167,47,Male,Neurology,Emergency,2024-05-23,2024-06-04,12,128,113,88.28,14
+P01168,64,Female,General Medicine,Scheduled,2024-08-12,2024-08-27,15,138,94,68.12,457
+P01169,79,Male,General Medicine,Emergency,2024-06-05,2024-06-08,3,116,30,25.86,132
+P01170,61,Male,Cardiology,Emergency,2023-12-29,2024-01-07,9,117,80,68.38,73
+P01171,83,Male,Cardiology,Emergency,2024-12-29,2025-01-02,4,101,59,58.42,173
+P01172,30,Male,Orthopedics,Scheduled,2024-09-17,2024-09-30,13,149,120,80.54,490
+P01173,20,Male,Cardiology,Emergency,2023-11-07,2023-11-11,4,88,36,40.91,57
+P01174,78,Female,Pediatrics,Scheduled,2024-11-15,2024-11-29,14,83,65,78.31,685
+P01175,62,Female,General Medicine,Emergency,2025-04-12,2025-04-27,15,76,28,36.84,106
+P01176,40,Female,Orthopedics,Scheduled,2023-12-22,2024-01-06,15,91,44,48.35,339
+P01177,70,Male,Cardiology,Emergency,2024-05-12,2024-05-17,5,88,21,23.86,32
+P01178,69,Male,Cardiology,Scheduled,2024-09-01,2024-09-03,2,117,113,96.58,1079
+P01179,43,Male,Orthopedics,Scheduled,2024-09-14,2024-09-15,1,87,57,65.52,695
+P01180,88,Female,Neurology,Emergency,2024-05-06,2024-05-13,7,88,47,53.41,284
+P01181,76,Male,Orthopedics,Scheduled,2024-01-18,2024-01-21,3,150,92,61.33,257
+P01182,58,Male,Neurology,Emergency,2025-06-14,2025-06-26,12,115,25,21.74,125
+P01183,47,Male,Pediatrics,Emergency,2024-04-15,2024-04-20,5,135,43,31.85,31
+P01184,14,Female,Pediatrics,Scheduled,2025-07-02,2025-07-12,10,113,41,36.28,1192
+P01185,76,Female,Pediatrics,Scheduled,2023-11-02,2023-11-14,12,146,58,39.73,805
+P01186,76,Female,Cardiology,Emergency,2025-04-04,2025-04-10,6,92,30,32.61,99
+P01187,19,Female,Cardiology,Scheduled,2024-01-12,2024-01-15,3,78,30,38.46,422
+P01188,64,Male,General Medicine,Scheduled,2024-07-29,2024-08-10,12,66,57,86.36,965
+P01189,2,Female,Cardiology,Scheduled,2024-08-18,2024-08-25,7,134,40,29.85,748
+P01190,28,Female,Orthopedics,Scheduled,2024-09-01,2024-09-03,2,148,28,18.92,972
+P01191,69,Male,Neurology,Emergency,2023-09-26,2023-09-29,3,100,90,90.0,148
+P01192,75,Male,Pediatrics,Emergency,2025-03-20,2025-03-25,5,128,74,57.81,266
+P01193,33,Male,Orthopedics,Scheduled,2023-11-21,2023-12-05,14,118,56,47.46,286
+P01194,4,Female,Cardiology,Scheduled,2025-08-05,2025-08-11,6,85,79,92.94,263
+P01195,77,Female,Neurology,Emergency,2023-11-03,2023-11-05,2,110,71,64.55,76
+P01196,63,Male,Neurology,Emergency,2023-12-21,2023-12-28,7,102,82,80.39,27
+P01197,53,Female,Cardiology,Emergency,2025-04-08,2025-04-10,2,94,32,34.04,96
+P01198,33,Male,Cardiology,Emergency,2024-11-30,2024-12-01,1,148,142,95.95,238
+P01199,10,Female,Cardiology,Emergency,2023-11-30,2023-12-10,10,147,112,76.19,113
+P01200,24,Male,Neurology,Scheduled,2023-10-23,2023-11-04,12,78,72,92.31,584
+P01201,61,Male,Orthopedics,Scheduled,2025-01-22,2025-01-30,8,128,27,21.09,1098
+P01202,84,Male,General Medicine,Emergency,2024-06-22,2024-07-02,10,84,54,64.29,244
+P01203,87,Male,Neurology,Emergency,2025-02-24,2025-03-06,10,123,106,86.18,213
+P01204,75,Male,Pediatrics,Scheduled,2024-12-09,2024-12-10,1,67,20,29.85,1339
+P01205,15,Male,Neurology,Scheduled,2024-12-09,2024-12-21,12,56,28,50.0,1208
+P01206,43,Female,Neurology,Scheduled,2025-07-01,2025-07-10,9,140,67,47.86,599
+P01207,26,Female,Cardiology,Emergency,2025-06-14,2025-06-17,3,101,79,78.22,250
+P01208,1,Male,Neurology,Scheduled,2024-05-29,2024-05-31,2,128,93,72.66,1399
+P01209,65,Male,Orthopedics,Scheduled,2025-03-21,2025-03-23,2,136,109,80.15,605
+P01210,89,Female,Neurology,Scheduled,2024-02-01,2024-02-10,9,77,35,45.45,870
+P01211,53,Male,General Medicine,Emergency,2024-03-03,2024-03-13,10,135,100,74.07,50
+P01212,47,Male,Orthopedics,Scheduled,2024-07-15,2024-07-18,3,87,51,58.62,466
+P01213,36,Male,Pediatrics,Scheduled,2024-01-14,2024-01-16,2,79,50,63.29,802
+P01214,88,Male,General Medicine,Scheduled,2024-08-30,2024-09-13,14,99,28,28.28,742
+P01215,39,Female,Cardiology,Scheduled,2024-09-18,2024-09-19,1,102,33,32.35,806
+P01216,70,Male,Orthopedics,Emergency,2024-02-24,2024-03-09,14,89,61,68.54,255
+P01217,76,Male,Orthopedics,Emergency,2025-05-16,2025-05-17,1,66,22,33.33,229
+P01218,72,Male,Orthopedics,Emergency,2025-07-13,2025-07-16,3,94,23,24.47,186
+P01219,5,Female,Neurology,Emergency,2023-10-24,2023-11-08,15,61,26,42.62,194
+P01220,10,Male,Pediatrics,Emergency,2025-01-29,2025-02-05,7,96,70,72.92,152
+P01221,20,Female,Pediatrics,Scheduled,2024-10-04,2024-10-15,11,74,55,74.32,812
+P01222,47,Female,Pediatrics,Scheduled,2025-03-01,2025-03-04,3,60,24,40.0,1387
+P01223,25,Male,Orthopedics,Scheduled,2024-01-05,2024-01-08,3,141,36,25.53,104
+P01224,88,Male,Orthopedics,Emergency,2023-10-12,2023-10-18,6,87,25,28.74,96
+P01225,84,Female,Pediatrics,Emergency,2024-05-23,2024-05-30,7,149,115,77.18,247
+P01226,20,Female,Neurology,Scheduled,2025-04-26,2025-05-03,7,132,119,90.15,34
+P01227,43,Female,Orthopedics,Emergency,2024-10-20,2024-10-26,6,99,25,25.25,103
+P01228,1,Female,Neurology,Emergency,2023-12-13,2023-12-15,2,126,55,43.65,27
+P01229,9,Male,General Medicine,Emergency,2025-06-11,2025-06-23,12,107,77,71.96,68
+P01230,57,Female,Orthopedics,Scheduled,2023-09-29,2023-10-14,15,109,107,98.17,775
+P01231,43,Male,Orthopedics,Scheduled,2025-01-31,2025-02-08,8,66,25,37.88,863
+P01232,26,Female,Pediatrics,Scheduled,2024-06-22,2024-07-07,15,110,55,50.0,1048
+P01233,30,Male,Cardiology,Scheduled,2024-02-25,2024-03-11,15,131,77,58.78,842
+P01234,68,Female,Pediatrics,Emergency,2025-02-10,2025-02-24,14,122,21,17.21,225
+P01235,84,Female,General Medicine,Scheduled,2025-08-21,2025-08-23,2,80,71,88.75,805
+P01236,89,Male,Neurology,Emergency,2025-03-10,2025-03-14,4,61,20,32.79,87
+P01237,36,Female,Cardiology,Emergency,2023-09-24,2023-10-06,12,72,46,63.89,266
+P01238,16,Female,Neurology,Scheduled,2025-07-29,2025-08-03,5,113,108,95.58,525
+P01239,86,Male,Neurology,Scheduled,2024-06-27,2024-07-10,13,84,70,83.33,1357
+P01240,34,Female,Neurology,Scheduled,2025-01-19,2025-01-24,5,80,28,35.0,1234
+P01241,46,Male,Neurology,Scheduled,2024-09-11,2024-09-25,14,145,94,64.83,24
+P01242,49,Female,Neurology,Scheduled,2024-01-22,2024-02-05,14,148,124,83.78,908
+P01243,62,Female,Pediatrics,Emergency,2024-09-08,2024-09-22,14,138,134,97.1,234
+P01244,65,Female,Pediatrics,Emergency,2024-12-09,2024-12-18,9,146,86,58.9,278
+P01245,43,Male,Neurology,Emergency,2024-12-02,2024-12-06,4,73,23,31.51,167
+P01246,82,Female,General Medicine,Emergency,2025-05-17,2025-05-29,12,142,41,28.87,243
+P01247,11,Female,Orthopedics,Scheduled,2023-10-01,2023-10-04,3,59,49,83.05,172
+P01248,41,Male,Neurology,Scheduled,2024-03-07,2024-03-16,9,144,107,74.31,451
+P01249,84,Male,Neurology,Scheduled,2024-03-12,2024-03-13,1,124,87,70.16,864
+P01250,10,Female,Cardiology,Scheduled,2023-12-09,2023-12-11,2,122,80,65.57,1069
+P01251,10,Male,Neurology,Scheduled,2024-07-12,2024-07-19,7,116,32,27.59,860
+P01252,56,Female,Neurology,Scheduled,2024-12-06,2024-12-18,12,81,43,53.09,66
+P01253,41,Female,General Medicine,Emergency,2023-11-09,2023-11-11,2,60,45,75.0,63
+P01254,21,Male,Neurology,Scheduled,2025-03-11,2025-03-17,6,54,28,51.85,692
+P01255,66,Male,Orthopedics,Scheduled,2024-12-24,2024-12-31,7,64,53,82.81,259
+P01256,51,Female,Orthopedics,Emergency,2024-04-15,2024-04-29,14,78,77,98.72,157
+P01257,82,Male,Pediatrics,Emergency,2024-04-05,2024-04-14,9,92,37,40.22,247
+P01258,18,Male,Pediatrics,Emergency,2025-01-28,2025-01-29,1,117,81,69.23,219
+P01259,5,Male,General Medicine,Emergency,2024-03-29,2024-03-31,2,52,28,53.85,277
+P01260,5,Female,Neurology,Emergency,2024-02-28,2024-03-09,10,58,35,60.34,119
+P01261,87,Male,Neurology,Scheduled,2024-01-01,2024-01-09,8,85,79,92.94,1396
+P01262,60,Female,Orthopedics,Emergency,2025-04-04,2025-04-08,4,138,20,14.49,59
+P01263,80,Female,Orthopedics,Scheduled,2024-12-30,2025-01-10,11,55,21,38.18,1200
+P01264,48,Male,Orthopedics,Emergency,2025-05-07,2025-05-22,15,122,76,62.3,290
+P01265,9,Female,Orthopedics,Emergency,2025-01-15,2025-01-23,8,56,21,37.5,189
+P01266,74,Female,Pediatrics,Emergency,2024-04-19,2024-04-23,4,54,36,66.67,24
+P01267,66,Male,General Medicine,Scheduled,2023-11-23,2023-12-08,15,82,33,40.24,855
+P01268,3,Female,Cardiology,Scheduled,2025-05-13,2025-05-23,10,131,93,70.99,186
+P01269,30,Female,Orthopedics,Emergency,2025-01-11,2025-01-20,9,96,54,56.25,252
+P01270,34,Female,Cardiology,Emergency,2024-11-13,2024-11-22,9,121,119,98.35,53
+P01271,44,Male,Neurology,Emergency,2024-11-17,2024-11-20,3,147,23,15.65,243
+P01272,26,Female,Pediatrics,Emergency,2024-09-10,2024-09-20,10,79,75,94.94,54
+P01273,44,Male,Neurology,Scheduled,2025-06-23,2025-06-28,5,58,24,41.38,1372
+P01274,44,Female,Neurology,Emergency,2025-07-20,2025-07-23,3,111,94,84.68,6
+P01275,8,Male,Pediatrics,Scheduled,2024-11-01,2024-11-02,1,125,94,75.2,790
+P01276,83,Male,General Medicine,Scheduled,2025-07-14,2025-07-16,2,77,58,75.32,333
+P01277,55,Male,General Medicine,Scheduled,2025-06-18,2025-07-01,13,56,50,89.29,1237
+P01278,88,Female,Orthopedics,Scheduled,2024-07-31,2024-08-04,4,74,32,43.24,575
+P01279,53,Male,Pediatrics,Scheduled,2025-05-24,2025-05-28,4,141,28,19.86,104
+P01280,84,Male,General Medicine,Scheduled,2023-10-19,2023-11-02,14,112,65,58.04,742
+P01281,30,Male,Orthopedics,Scheduled,2025-05-29,2025-06-13,15,141,55,39.01,1147
+P01282,41,Male,General Medicine,Scheduled,2025-03-28,2025-04-02,5,58,21,36.21,491
+P01283,60,Female,General Medicine,Scheduled,2025-04-09,2025-04-22,13,91,90,98.9,834
+P01284,43,Female,Pediatrics,Scheduled,2024-06-21,2024-06-23,2,134,53,39.55,495
+P01285,4,Female,Orthopedics,Emergency,2024-08-03,2024-08-04,1,133,64,48.12,251
+P01286,71,Female,Neurology,Scheduled,2023-08-25,2023-09-02,8,140,96,68.57,550
+P01287,56,Male,Orthopedics,Scheduled,2024-09-02,2024-09-08,6,55,21,38.18,661
+P01288,10,Male,Neurology,Scheduled,2025-04-25,2025-04-26,1,61,52,85.25,761
+P01289,42,Male,Pediatrics,Emergency,2025-02-21,2025-02-27,6,114,46,40.35,9
+P01290,71,Male,General Medicine,Emergency,2024-10-13,2024-10-18,5,97,29,29.9,32
+P01291,56,Female,Neurology,Emergency,2024-05-12,2024-05-16,4,127,65,51.18,258
+P01292,88,Male,Pediatrics,Emergency,2024-08-11,2024-08-15,4,108,58,53.7,39
+P01293,41,Male,Pediatrics,Scheduled,2023-11-13,2023-11-26,13,87,48,55.17,133
+P01294,49,Male,Cardiology,Scheduled,2024-04-19,2024-05-03,14,64,33,51.56,1318
+P01295,37,Female,Cardiology,Scheduled,2025-06-01,2025-06-06,5,145,111,76.55,1117
+P01296,87,Female,Neurology,Scheduled,2025-06-02,2025-06-10,8,109,33,30.28,1324
+P01297,86,Female,Pediatrics,Scheduled,2024-02-01,2024-02-07,6,101,84,83.17,1118
+P01298,73,Female,Orthopedics,Emergency,2025-04-25,2025-05-10,15,142,125,88.03,291
+P01299,26,Male,Cardiology,Scheduled,2024-10-15,2024-10-21,6,58,31,53.45,957
+P01300,62,Female,Orthopedics,Emergency,2025-08-05,2025-08-19,14,135,59,43.7,255
+P01301,29,Male,General Medicine,Scheduled,2025-07-27,2025-08-07,11,115,92,80.0,1287
+P01302,13,Female,Orthopedics,Emergency,2024-08-11,2024-08-16,5,139,90,64.75,148
+P01303,22,Female,Cardiology,Scheduled,2023-12-24,2023-12-29,5,77,42,54.55,787
+P01304,19,Male,Cardiology,Emergency,2024-07-31,2024-08-07,7,113,42,37.17,229
+P01305,18,Male,Pediatrics,Emergency,2024-09-11,2024-09-13,2,104,50,48.08,137
+P01306,90,Male,General Medicine,Scheduled,2024-02-03,2024-02-11,8,82,59,71.95,1009
+P01307,2,Female,General Medicine,Emergency,2024-02-10,2024-02-17,7,51,26,50.98,274
+P01308,3,Female,Neurology,Scheduled,2023-09-26,2023-10-04,8,139,94,67.63,149
+P01309,88,Male,General Medicine,Emergency,2024-02-15,2024-02-26,11,96,91,94.79,152
+P01310,17,Male,General Medicine,Scheduled,2025-05-15,2025-05-27,12,84,24,28.57,834
+P01311,52,Female,General Medicine,Emergency,2024-07-06,2024-07-20,14,65,45,69.23,265
+P01312,79,Female,Neurology,Scheduled,2024-12-11,2024-12-22,11,135,38,28.15,455
+P01313,41,Female,Neurology,Scheduled,2025-02-17,2025-02-18,1,74,28,37.84,245
+P01314,12,Female,Orthopedics,Emergency,2024-10-29,2024-11-03,5,56,49,87.5,260
+P01315,63,Male,Neurology,Scheduled,2023-09-20,2023-09-24,4,74,47,63.51,1103
+P01316,27,Female,Pediatrics,Emergency,2025-06-30,2025-07-13,13,140,92,65.71,75
+P01317,42,Male,Cardiology,Scheduled,2025-07-26,2025-08-02,7,78,64,82.05,116
+P01318,12,Male,General Medicine,Scheduled,2024-11-30,2024-12-09,9,56,51,91.07,1134
+P01319,78,Female,Orthopedics,Emergency,2025-05-14,2025-05-17,3,101,51,50.5,85
+P01320,38,Female,Cardiology,Scheduled,2023-09-19,2023-09-30,11,137,127,92.7,1235
+P01321,33,Male,Neurology,Scheduled,2025-06-16,2025-06-26,10,143,59,41.26,80
+P01322,34,Female,Neurology,Scheduled,2023-08-27,2023-08-30,3,111,81,72.97,1003
+P01323,41,Male,Neurology,Emergency,2023-09-20,2023-09-29,9,120,73,60.83,194
+P01324,23,Male,Cardiology,Scheduled,2025-01-18,2025-01-29,11,95,90,94.74,930
+P01325,54,Male,Pediatrics,Scheduled,2023-09-07,2023-09-17,10,119,64,53.78,1215
+P01326,66,Female,Pediatrics,Scheduled,2025-07-13,2025-07-15,2,66,33,50.0,1379
+P01327,25,Male,Orthopedics,Emergency,2024-05-15,2024-05-26,11,51,47,92.16,69
+P01328,41,Male,Cardiology,Emergency,2025-01-22,2025-01-27,5,108,28,25.93,240
+P01329,22,Female,Cardiology,Scheduled,2025-02-09,2025-02-23,14,55,51,92.73,73
+P01330,20,Female,Orthopedics,Emergency,2025-07-22,2025-07-29,7,128,103,80.47,241
+P01331,59,Male,Pediatrics,Scheduled,2025-02-01,2025-02-03,2,109,43,39.45,87
+P01332,7,Female,Neurology,Scheduled,2024-04-10,2024-04-13,3,71,38,53.52,800
+P01333,22,Male,Cardiology,Emergency,2024-06-01,2024-06-06,5,94,26,27.66,141
+P01334,12,Female,Pediatrics,Emergency,2024-03-16,2024-03-28,12,120,52,43.33,140
+P01335,46,Male,General Medicine,Scheduled,2024-10-27,2024-10-31,4,126,41,32.54,495
+P01336,45,Male,Neurology,Emergency,2024-01-16,2024-01-22,6,126,93,73.81,135
+P01337,65,Female,General Medicine,Scheduled,2025-01-30,2025-02-07,8,113,53,46.9,1151
+P01338,57,Female,Neurology,Emergency,2024-05-04,2024-05-07,3,86,77,89.53,236
+P01339,73,Male,Orthopedics,Scheduled,2024-06-21,2024-06-25,4,60,47,78.33,708
+P01340,86,Male,Cardiology,Scheduled,2025-02-16,2025-02-23,7,122,29,23.77,712
+P01341,15,Male,Orthopedics,Emergency,2025-03-15,2025-03-30,15,98,72,73.47,239
+P01342,76,Male,Cardiology,Scheduled,2024-09-12,2024-09-19,7,58,52,89.66,524
+P01343,59,Female,Neurology,Scheduled,2024-02-06,2024-02-16,10,81,37,45.68,555
+P01344,54,Female,Cardiology,Emergency,2025-01-02,2025-01-10,8,66,63,95.45,122
+P01345,86,Male,General Medicine,Scheduled,2025-06-01,2025-06-11,10,141,101,71.63,63
+P01346,19,Male,Cardiology,Scheduled,2023-10-17,2023-11-01,15,103,53,51.46,1101
+P01347,72,Male,Orthopedics,Scheduled,2024-02-18,2024-03-01,12,112,71,63.39,1153
+P01348,49,Female,Pediatrics,Emergency,2023-09-13,2023-09-25,12,134,28,20.9,222
+P01349,35,Female,Cardiology,Emergency,2025-01-07,2025-01-11,4,61,49,80.33,116
+P01350,12,Male,Pediatrics,Scheduled,2024-10-20,2024-11-04,15,95,84,88.42,1390
+P01351,79,Male,Orthopedics,Scheduled,2024-10-31,2024-11-09,9,109,54,49.54,631
+P01352,84,Female,Orthopedics,Emergency,2024-12-30,2025-01-08,9,106,27,25.47,112
+P01353,23,Male,Orthopedics,Scheduled,2025-04-06,2025-04-10,4,50,30,60.0,709
+P01354,77,Female,General Medicine,Scheduled,2025-01-25,2025-02-03,9,52,35,67.31,887
+P01355,9,Female,Pediatrics,Emergency,2024-01-17,2024-01-28,11,95,91,95.79,218
+P01356,76,Male,Cardiology,Emergency,2025-08-23,2025-08-27,4,100,45,45.0,63
+P01357,51,Male,Cardiology,Scheduled,2025-04-28,2025-05-03,5,59,58,98.31,1207
+P01358,27,Female,Pediatrics,Emergency,2024-03-06,2024-03-07,1,63,55,87.3,291
+P01359,12,Male,General Medicine,Emergency,2023-09-11,2023-09-26,15,142,43,30.28,197
+P01360,29,Female,General Medicine,Emergency,2023-09-05,2023-09-10,5,52,27,51.92,292
+P01361,57,Female,Orthopedics,Scheduled,2023-11-25,2023-11-27,2,54,53,98.15,1429
+P01362,30,Female,Pediatrics,Emergency,2024-04-15,2024-04-30,15,117,89,76.07,271
+P01363,35,Female,Neurology,Emergency,2025-02-10,2025-02-14,4,132,52,39.39,87
+P01364,60,Female,Pediatrics,Scheduled,2025-06-09,2025-06-22,13,115,98,85.22,388
+P01365,15,Female,Cardiology,Emergency,2024-10-26,2024-11-06,11,139,44,31.65,7
+P01366,67,Female,Orthopedics,Emergency,2025-05-30,2025-06-13,14,61,53,86.89,273
+P01367,58,Female,Pediatrics,Emergency,2024-07-07,2024-07-19,12,110,33,30.0,199
+P01368,27,Female,General Medicine,Scheduled,2025-08-18,2025-08-22,4,148,98,66.22,619
+P01369,76,Male,Orthopedics,Emergency,2024-06-29,2024-07-13,14,89,80,89.89,220
+P01370,87,Male,Cardiology,Emergency,2023-10-09,2023-10-14,5,149,108,72.48,263
+P01371,19,Female,General Medicine,Scheduled,2025-04-14,2025-04-19,5,140,28,20.0,751
+P01372,82,Male,Neurology,Emergency,2025-05-01,2025-05-12,11,94,52,55.32,281
+P01373,76,Female,Neurology,Emergency,2024-02-27,2024-03-04,6,88,74,84.09,84
+P01374,4,Female,Neurology,Scheduled,2025-01-30,2025-02-04,5,113,57,50.44,790
+P01375,44,Female,Pediatrics,Scheduled,2024-02-09,2024-02-14,5,129,60,46.51,912
+P01376,76,Female,General Medicine,Emergency,2024-05-07,2024-05-16,9,120,105,87.5,110
+P01377,39,Female,Cardiology,Scheduled,2025-05-31,2025-06-10,10,135,75,55.56,1008
+P01378,61,Male,Orthopedics,Emergency,2025-01-27,2025-02-02,6,148,141,95.27,282
+P01379,68,Male,Pediatrics,Emergency,2024-09-25,2024-09-29,4,129,111,86.05,215
+P01380,69,Male,Pediatrics,Scheduled,2023-09-25,2023-10-01,6,86,83,96.51,545
+P01381,86,Male,Neurology,Emergency,2025-01-24,2025-01-26,2,81,79,97.53,159
+P01382,9,Female,General Medicine,Emergency,2023-09-20,2023-09-21,1,79,44,55.7,145
+P01383,56,Female,Neurology,Scheduled,2023-11-21,2023-12-04,13,125,93,74.4,357
+P01384,28,Male,Neurology,Emergency,2024-12-05,2024-12-10,5,128,80,62.5,133
+P01385,11,Male,Cardiology,Scheduled,2024-08-06,2024-08-10,4,133,86,64.66,1183
+P01386,73,Female,Neurology,Scheduled,2023-12-09,2023-12-24,15,141,23,16.31,134
+P01387,17,Female,Orthopedics,Scheduled,2024-02-09,2024-02-17,8,67,36,53.73,686
+P01388,11,Male,Neurology,Scheduled,2025-03-13,2025-03-19,6,81,63,77.78,1386
+P01389,77,Female,Orthopedics,Scheduled,2023-10-01,2023-10-13,12,113,103,91.15,648
+P01390,59,Female,Neurology,Scheduled,2024-09-26,2024-10-10,14,75,48,64.0,430
+P01391,24,Male,Orthopedics,Scheduled,2024-04-07,2024-04-13,6,50,50,100.0,142
+P01392,88,Male,General Medicine,Emergency,2024-01-01,2024-01-11,10,62,26,41.94,20
+P01393,78,Male,General Medicine,Scheduled,2025-06-04,2025-06-09,5,97,75,77.32,131
+P01394,16,Male,Pediatrics,Emergency,2025-06-30,2025-07-14,14,131,34,25.95,109
+P01395,38,Male,Pediatrics,Scheduled,2025-05-28,2025-06-04,7,142,122,85.92,562
+P01396,70,Male,Neurology,Scheduled,2024-03-26,2024-03-31,5,150,65,43.33,1195
+P01397,29,Female,General Medicine,Emergency,2025-08-14,2025-08-20,6,146,116,79.45,118
+P01398,85,Male,Orthopedics,Scheduled,2024-03-07,2024-03-13,6,130,24,18.46,644
+P01399,49,Female,General Medicine,Scheduled,2024-08-12,2024-08-23,11,112,63,56.25,1232
+P01400,38,Male,Orthopedics,Emergency,2023-12-03,2023-12-10,7,66,35,53.03,249
+P01401,81,Male,Orthopedics,Scheduled,2024-04-30,2024-05-06,6,134,94,70.15,588
+P01402,82,Male,Pediatrics,Scheduled,2024-10-07,2024-10-21,14,61,59,96.72,108
+P01403,38,Male,General Medicine,Emergency,2024-10-15,2024-10-23,8,140,59,42.14,151
+P01404,70,Male,Cardiology,Emergency,2024-02-04,2024-02-09,5,110,54,49.09,57
+P01405,39,Female,Neurology,Scheduled,2025-07-16,2025-07-25,9,89,86,96.63,678
+P01406,78,Female,Pediatrics,Emergency,2023-11-25,2023-11-27,2,139,109,78.42,154
+P01407,29,Female,Cardiology,Scheduled,2025-07-31,2025-08-09,9,91,90,98.9,711
+P01408,64,Female,Cardiology,Emergency,2024-01-31,2024-02-07,7,81,54,66.67,263
+P01409,46,Male,General Medicine,Emergency,2025-08-12,2025-08-17,5,63,57,90.48,145
+P01410,56,Male,Cardiology,Emergency,2023-09-01,2023-09-16,15,136,121,88.97,298
+P01411,39,Male,Neurology,Scheduled,2024-08-29,2024-09-10,12,115,30,26.09,582
+P01412,63,Male,Pediatrics,Scheduled,2024-02-17,2024-02-23,6,116,34,29.31,352
+P01413,81,Male,Orthopedics,Emergency,2024-01-22,2024-02-03,12,80,55,68.75,261
+P01414,27,Male,Orthopedics,Emergency,2025-08-11,2025-08-15,4,78,60,76.92,280
+P01415,65,Male,General Medicine,Emergency,2024-11-19,2024-12-04,15,104,55,52.88,284
+P01416,10,Male,General Medicine,Emergency,2024-06-04,2024-06-17,13,63,41,65.08,44
+P01417,61,Male,Pediatrics,Emergency,2024-03-31,2024-04-05,5,80,33,41.25,63
+P01418,86,Male,Neurology,Scheduled,2024-08-05,2024-08-14,9,88,47,53.41,1401
+P01419,82,Male,General Medicine,Scheduled,2024-02-03,2024-02-06,3,106,74,69.81,90
+P01420,24,Female,Pediatrics,Scheduled,2025-08-09,2025-08-18,9,92,31,33.7,726
+P01421,58,Female,Orthopedics,Emergency,2025-01-22,2025-01-25,3,107,69,64.49,108
+P01422,28,Female,Orthopedics,Emergency,2025-03-01,2025-03-09,8,68,38,55.88,115
+P01423,43,Male,Cardiology,Emergency,2023-11-12,2023-11-25,13,82,61,74.39,240
+P01424,5,Female,Orthopedics,Emergency,2024-11-26,2024-11-29,3,139,131,94.24,258
+P01425,34,Female,Orthopedics,Scheduled,2023-12-09,2023-12-14,5,95,28,29.47,781
+P01426,54,Female,Cardiology,Scheduled,2023-12-16,2023-12-17,1,134,102,76.12,239
+P01427,70,Male,General Medicine,Emergency,2025-05-16,2025-05-18,2,71,60,84.51,153
+P01428,31,Male,General Medicine,Scheduled,2024-02-10,2024-02-17,7,79,40,50.63,1012
+P01429,22,Female,Orthopedics,Scheduled,2025-04-09,2025-04-10,1,85,52,61.18,1231
+P01430,51,Female,Cardiology,Scheduled,2023-12-01,2023-12-09,8,78,61,78.21,1252
+P01431,72,Male,Orthopedics,Emergency,2025-01-11,2025-01-12,1,130,122,93.85,290
+P01432,16,Male,Orthopedics,Scheduled,2023-09-26,2023-09-30,4,115,93,80.87,1020
+P01433,75,Male,Orthopedics,Emergency,2024-12-06,2024-12-11,5,86,56,65.12,83
+P01434,63,Female,Neurology,Emergency,2025-02-25,2025-03-05,8,149,107,71.81,254
+P01435,56,Male,Orthopedics,Scheduled,2023-09-09,2023-09-24,15,91,91,100.0,599
+P01436,10,Female,Cardiology,Scheduled,2025-08-15,2025-08-17,2,130,102,78.46,700
+P01437,59,Male,Pediatrics,Scheduled,2025-04-09,2025-04-13,4,128,75,58.59,850
+P01438,51,Female,Orthopedics,Emergency,2024-05-15,2024-05-28,13,132,72,54.55,17
+P01439,83,Female,General Medicine,Scheduled,2024-05-09,2024-05-21,12,84,32,38.1,15
+P01440,39,Male,Cardiology,Emergency,2025-06-12,2025-06-18,6,144,111,77.08,109
+P01441,59,Female,Pediatrics,Scheduled,2025-01-11,2025-01-19,8,140,127,90.71,1162
+P01442,72,Female,Pediatrics,Scheduled,2024-05-06,2024-05-17,11,108,20,18.52,1169
+P01443,9,Male,General Medicine,Scheduled,2024-12-09,2024-12-12,3,106,88,83.02,1173
+P01444,52,Female,Cardiology,Scheduled,2024-12-12,2024-12-19,7,56,22,39.29,851
+P01445,39,Female,General Medicine,Scheduled,2025-04-27,2025-05-04,7,62,27,43.55,120
+P01446,60,Male,Neurology,Scheduled,2024-03-27,2024-03-31,4,141,121,85.82,971
+P01447,30,Female,Neurology,Scheduled,2025-01-11,2025-01-24,13,77,59,76.62,835
+P01448,48,Male,Pediatrics,Emergency,2024-11-02,2024-11-10,8,69,40,57.97,286
+P01449,83,Male,General Medicine,Scheduled,2024-07-04,2024-07-09,5,132,99,75.0,349
+P01450,5,Male,Orthopedics,Scheduled,2025-03-21,2025-03-25,4,73,48,65.75,1362
+P01451,13,Female,General Medicine,Emergency,2024-06-13,2024-06-14,1,112,75,66.96,247
+P01452,52,Male,Neurology,Scheduled,2023-10-11,2023-10-13,2,85,37,43.53,651
+P01453,55,Female,Pediatrics,Scheduled,2024-10-14,2024-10-26,12,140,61,43.57,1415
+P01454,86,Male,General Medicine,Scheduled,2024-09-24,2024-10-03,9,53,36,67.92,57
+P01455,16,Female,Orthopedics,Scheduled,2025-04-30,2025-05-15,15,103,46,44.66,1102
+P01456,6,Male,Cardiology,Scheduled,2024-06-11,2024-06-15,4,141,122,86.52,331
+P01457,63,Female,General Medicine,Scheduled,2024-07-30,2024-07-31,1,94,74,78.72,767
+P01458,46,Male,Pediatrics,Emergency,2024-05-01,2024-05-03,2,109,107,98.17,150
+P01459,84,Female,Cardiology,Scheduled,2024-02-20,2024-02-27,7,79,56,70.89,831
+P01460,11,Female,General Medicine,Scheduled,2024-07-02,2024-07-08,6,107,85,79.44,307
+P01461,12,Female,Orthopedics,Scheduled,2023-08-30,2023-09-10,11,127,61,48.03,1241
+P01462,39,Male,Orthopedics,Emergency,2024-11-02,2024-11-08,6,66,34,51.52,142
+P01463,18,Male,General Medicine,Emergency,2023-12-06,2023-12-14,8,94,39,41.49,175
+P01464,18,Male,Cardiology,Scheduled,2023-12-04,2023-12-09,5,99,51,51.52,1039
+P01465,17,Female,Orthopedics,Emergency,2025-05-26,2025-05-27,1,132,94,71.21,172
+P01466,37,Female,Cardiology,Emergency,2024-10-27,2024-11-07,11,85,31,36.47,300
+P01467,38,Female,Orthopedics,Emergency,2024-12-09,2024-12-12,3,104,90,86.54,226
+P01468,73,Male,General Medicine,Scheduled,2024-07-22,2024-07-23,1,92,28,30.43,1150
+P01469,9,Male,Neurology,Emergency,2024-09-10,2024-09-13,3,116,55,47.41,46
+P01470,13,Female,Pediatrics,Scheduled,2025-01-31,2025-02-12,12,140,43,30.71,701
+P01471,15,Male,Pediatrics,Scheduled,2025-08-06,2025-08-16,10,79,41,51.9,1255
+P01472,73,Female,Cardiology,Emergency,2024-03-02,2024-03-13,11,67,22,32.84,164
+P01473,33,Male,Cardiology,Emergency,2024-02-14,2024-02-23,9,93,73,78.49,199
+P01474,75,Female,Cardiology,Scheduled,2024-02-01,2024-02-06,5,112,77,68.75,1099
+P01475,81,Female,Pediatrics,Scheduled,2023-09-26,2023-10-07,11,88,43,48.86,1079
+P01476,70,Male,Neurology,Scheduled,2024-04-26,2024-04-29,3,113,22,19.47,16
+P01477,41,Female,General Medicine,Scheduled,2024-05-11,2024-05-17,6,129,96,74.42,1340
+P01478,78,Female,Orthopedics,Emergency,2024-01-12,2024-01-25,13,147,75,51.02,238
+P01479,87,Female,Neurology,Emergency,2024-12-01,2024-12-02,1,102,40,39.22,203
+P01480,62,Female,Orthopedics,Emergency,2025-04-04,2025-04-09,5,94,76,80.85,268
+P01481,30,Female,Neurology,Emergency,2025-01-11,2025-01-12,1,139,49,35.25,126
+P01482,65,Male,Neurology,Emergency,2024-03-28,2024-04-05,8,69,38,55.07,227
+P01483,30,Female,Neurology,Emergency,2024-10-07,2024-10-12,5,97,26,26.8,216
+P01484,59,Male,Cardiology,Scheduled,2024-12-07,2024-12-19,12,119,101,84.87,1151
+P01485,81,Male,Neurology,Scheduled,2025-07-25,2025-07-26,1,80,57,71.25,552
+P01486,42,Female,Cardiology,Emergency,2025-07-01,2025-07-15,14,85,63,74.12,132
+P01487,56,Male,Pediatrics,Emergency,2024-05-16,2024-05-22,6,119,22,18.49,65
+P01488,19,Male,Cardiology,Scheduled,2025-02-10,2025-02-20,10,149,44,29.53,979
+P01489,34,Female,Pediatrics,Emergency,2024-04-22,2024-05-06,14,119,38,31.93,138
+P01490,8,Female,Pediatrics,Emergency,2023-09-25,2023-10-08,13,111,68,61.26,169
+P01491,90,Male,General Medicine,Emergency,2024-01-21,2024-01-23,2,114,103,90.35,234
+P01492,44,Male,Orthopedics,Emergency,2023-11-29,2023-12-11,12,75,70,93.33,268
+P01493,33,Male,Pediatrics,Emergency,2025-01-18,2025-01-26,8,110,29,26.36,61
+P01494,13,Female,General Medicine,Scheduled,2024-06-19,2024-06-20,1,91,88,96.7,839
+P01495,13,Male,Orthopedics,Emergency,2024-06-18,2024-06-28,10,96,27,28.12,161
+P01496,20,Female,Orthopedics,Emergency,2025-07-12,2025-07-27,15,106,41,38.68,152
+P01497,6,Female,Neurology,Scheduled,2024-08-14,2024-08-18,4,89,73,82.02,376
+P01498,48,Female,Neurology,Scheduled,2024-10-26,2024-11-08,13,100,36,36.0,462
+P01499,25,Female,General Medicine,Scheduled,2024-06-26,2024-07-07,11,96,23,23.96,576
+P01500,73,Female,Neurology,Emergency,2024-01-29,2024-02-13,15,140,79,56.43,276
+P01501,46,Male,Neurology,Emergency,2023-10-24,2023-10-27,3,57,36,63.16,292
+P01502,20,Female,Orthopedics,Scheduled,2024-07-29,2024-07-30,1,97,49,50.52,55
+P01503,20,Female,Neurology,Emergency,2023-09-11,2023-09-21,10,59,54,91.53,6
+P01504,24,Male,General Medicine,Emergency,2024-09-05,2024-09-17,12,117,76,64.96,180
+P01505,37,Male,Cardiology,Scheduled,2025-03-11,2025-03-16,5,102,36,35.29,59
+P01506,41,Female,General Medicine,Scheduled,2024-10-07,2024-10-19,12,57,24,42.11,288
+P01507,31,Male,Pediatrics,Emergency,2025-05-02,2025-05-10,8,95,46,48.42,119
+P01508,55,Male,Orthopedics,Emergency,2024-12-11,2024-12-26,15,91,80,87.91,143
+P01509,88,Female,Orthopedics,Emergency,2024-03-14,2024-03-28,14,97,84,86.6,147
+P01510,61,Male,Orthopedics,Scheduled,2024-04-06,2024-04-14,8,101,67,66.34,71
+P01511,39,Male,General Medicine,Scheduled,2024-02-01,2024-02-08,7,80,62,77.5,1366
+P01512,20,Male,Pediatrics,Emergency,2025-01-28,2025-01-31,3,148,82,55.41,118
+P01513,44,Female,General Medicine,Emergency,2024-01-23,2024-01-27,4,80,65,81.25,78
+P01514,84,Female,Cardiology,Emergency,2024-09-28,2024-09-30,2,60,55,91.67,27
+P01515,35,Male,Neurology,Scheduled,2023-10-15,2023-10-16,1,64,54,84.38,223
+P01516,9,Male,Neurology,Scheduled,2023-10-11,2023-10-17,6,105,80,76.19,1014
+P01517,50,Male,Orthopedics,Emergency,2025-06-25,2025-07-09,14,111,59,53.15,281
+P01518,51,Male,Orthopedics,Emergency,2024-12-07,2024-12-15,8,87,62,71.26,247
+P01519,79,Female,General Medicine,Scheduled,2024-01-14,2024-01-29,15,74,46,62.16,830
+P01520,35,Female,Cardiology,Emergency,2025-07-15,2025-07-20,5,55,52,94.55,283
+P01521,36,Male,Orthopedics,Scheduled,2024-07-18,2024-07-23,5,110,91,82.73,564
+P01522,23,Female,Neurology,Scheduled,2024-07-01,2024-07-07,6,148,49,33.11,968
+P01523,9,Male,General Medicine,Emergency,2024-03-05,2024-03-14,9,127,65,51.18,263
+P01524,14,Female,Pediatrics,Emergency,2024-06-09,2024-06-13,4,74,43,58.11,40
+P01525,47,Male,General Medicine,Emergency,2023-09-26,2023-09-30,4,70,21,30.0,274
+P01526,3,Female,Pediatrics,Emergency,2024-10-18,2024-10-27,9,128,40,31.25,186
+P01527,3,Female,General Medicine,Emergency,2024-09-09,2024-09-22,13,74,27,36.49,129
+P01528,56,Female,Orthopedics,Emergency,2023-11-24,2023-11-26,2,76,69,90.79,78
+P01529,35,Female,Pediatrics,Scheduled,2024-06-13,2024-06-14,1,141,124,87.94,1172
+P01530,57,Female,Cardiology,Emergency,2024-11-06,2024-11-07,1,136,78,57.35,111
+P01531,16,Male,Cardiology,Emergency,2024-08-15,2024-08-29,14,92,53,57.61,184
+P01532,55,Female,Pediatrics,Emergency,2024-04-21,2024-05-06,15,107,47,43.93,124
+P01533,2,Female,Neurology,Scheduled,2023-11-07,2023-11-16,9,96,33,34.38,441
+P01534,31,Female,General Medicine,Emergency,2023-10-08,2023-10-14,6,93,73,78.49,93
+P01535,46,Female,Cardiology,Emergency,2023-09-17,2023-09-22,5,62,30,48.39,108
+P01536,48,Male,Cardiology,Emergency,2025-08-24,2025-09-01,8,87,63,72.41,113
+P01537,5,Female,Neurology,Scheduled,2024-11-24,2024-11-30,6,146,113,77.4,541
+P01538,27,Male,Neurology,Emergency,2025-06-01,2025-06-06,5,94,88,93.62,263
+P01539,78,Female,Orthopedics,Scheduled,2024-10-26,2024-11-10,15,130,31,23.85,1126
+P01540,34,Female,Pediatrics,Emergency,2025-06-06,2025-06-17,11,93,48,51.61,109
+P01541,36,Male,General Medicine,Emergency,2024-07-29,2024-07-30,1,100,76,76.0,253
+P01542,70,Male,General Medicine,Emergency,2024-09-03,2024-09-17,14,92,60,65.22,17
+P01543,8,Male,Cardiology,Emergency,2024-01-20,2024-01-24,4,96,49,51.04,184
+P01544,52,Female,Cardiology,Emergency,2024-04-26,2024-04-30,4,87,83,95.4,290
+P01545,11,Male,General Medicine,Emergency,2024-01-03,2024-01-16,13,126,49,38.89,116
+P01546,75,Male,Cardiology,Scheduled,2025-08-12,2025-08-26,14,102,93,91.18,36
+P01547,71,Male,Cardiology,Emergency,2024-03-16,2024-03-20,4,114,78,68.42,203
+P01548,69,Male,Orthopedics,Scheduled,2024-01-20,2024-01-27,7,97,55,56.7,74
+P01549,20,Male,Cardiology,Scheduled,2023-12-18,2023-12-19,1,72,33,45.83,1210
+P01550,85,Male,General Medicine,Emergency,2024-09-21,2024-10-02,11,110,52,47.27,223
+P01551,58,Male,Pediatrics,Emergency,2025-07-13,2025-07-16,3,133,66,49.62,45
+P01552,16,Female,Pediatrics,Emergency,2024-03-07,2024-03-09,2,56,34,60.71,119
+P01553,36,Female,Cardiology,Scheduled,2024-06-08,2024-06-21,13,51,35,68.63,418
+P01554,58,Male,Pediatrics,Scheduled,2025-03-18,2025-03-20,2,82,45,54.88,1202
+P01555,90,Female,Neurology,Emergency,2025-01-29,2025-01-30,1,65,32,49.23,88
+P01556,80,Female,Neurology,Emergency,2024-05-17,2024-05-28,11,120,89,74.17,26
+P01557,53,Male,Orthopedics,Scheduled,2025-05-30,2025-06-05,6,142,125,88.03,1225
+P01558,45,Male,General Medicine,Scheduled,2025-06-27,2025-06-28,1,84,56,66.67,490
+P01559,78,Male,Orthopedics,Emergency,2025-01-04,2025-01-14,10,69,35,50.72,62
+P01560,14,Male,Cardiology,Scheduled,2024-07-22,2024-08-04,13,127,70,55.12,597
+P01561,41,Female,Pediatrics,Emergency,2024-11-08,2024-11-09,1,75,49,65.33,235
+P01562,55,Male,Pediatrics,Scheduled,2025-05-04,2025-05-09,5,85,73,85.88,899
+P01563,41,Male,General Medicine,Scheduled,2024-05-15,2024-05-18,3,132,102,77.27,364
+P01564,69,Female,Orthopedics,Scheduled,2024-03-20,2024-03-25,5,59,37,62.71,195
+P01565,47,Male,Orthopedics,Emergency,2024-01-10,2024-01-23,13,138,56,40.58,157
+P01566,21,Male,Cardiology,Emergency,2024-03-20,2024-03-28,8,78,52,66.67,251
+P01567,46,Male,Orthopedics,Emergency,2025-03-12,2025-03-14,2,86,77,89.53,229
+P01568,26,Female,General Medicine,Emergency,2025-02-06,2025-02-11,5,98,87,88.78,254
+P01569,40,Male,Neurology,Emergency,2024-12-18,2024-12-21,3,135,127,94.07,47
+P01570,47,Male,General Medicine,Scheduled,2025-06-22,2025-06-28,6,52,50,96.15,956
+P01571,26,Male,Pediatrics,Emergency,2024-12-22,2024-12-24,2,127,57,44.88,47
+P01572,46,Male,General Medicine,Scheduled,2024-05-12,2024-05-14,2,139,46,33.09,767
+P01573,77,Female,Orthopedics,Scheduled,2024-10-19,2024-10-22,3,63,31,49.21,675
+P01574,34,Female,General Medicine,Emergency,2024-07-12,2024-07-20,8,61,37,60.66,248
+P01575,30,Male,Pediatrics,Emergency,2024-06-16,2024-06-17,1,61,39,63.93,196
+P01576,86,Male,Orthopedics,Scheduled,2023-12-09,2023-12-10,1,107,87,81.31,372
+P01577,35,Female,Orthopedics,Emergency,2024-01-02,2024-01-17,15,138,88,63.77,259
+P01578,59,Male,Cardiology,Emergency,2023-10-27,2023-10-28,1,82,82,100.0,69
+P01579,69,Female,Orthopedics,Scheduled,2025-04-12,2025-04-26,14,128,97,75.78,921
+P01580,77,Female,Pediatrics,Emergency,2024-02-25,2024-02-29,4,73,73,100.0,164
+P01581,40,Male,Pediatrics,Emergency,2024-10-09,2024-10-11,2,99,24,24.24,283
+P01582,62,Male,General Medicine,Emergency,2023-10-30,2023-11-05,6,139,50,35.97,216
+P01583,36,Male,General Medicine,Scheduled,2024-01-21,2024-02-01,11,104,49,47.12,1142
+P01584,61,Female,Cardiology,Emergency,2024-09-17,2024-10-01,14,120,93,77.5,172
+P01585,48,Female,General Medicine,Scheduled,2025-07-04,2025-07-14,10,58,38,65.52,276
+P01586,24,Female,Orthopedics,Scheduled,2025-05-12,2025-05-24,12,66,47,71.21,108
+P01587,77,Male,Orthopedics,Scheduled,2023-12-22,2024-01-03,12,54,28,51.85,334
+P01588,73,Female,Cardiology,Scheduled,2024-07-22,2024-08-06,15,79,66,83.54,596
+P01589,77,Female,Neurology,Emergency,2025-07-05,2025-07-16,11,126,101,80.16,256
+P01590,18,Female,Orthopedics,Emergency,2024-02-19,2024-02-21,2,103,55,53.4,242
+P01591,48,Male,Orthopedics,Emergency,2025-05-17,2025-05-26,9,76,47,61.84,200
+P01592,79,Female,Pediatrics,Emergency,2025-03-17,2025-04-01,15,108,60,55.56,284
+P01593,66,Male,General Medicine,Emergency,2024-11-28,2024-11-29,1,133,41,30.83,235
+P01594,43,Male,Pediatrics,Emergency,2023-09-05,2023-09-20,15,73,73,100.0,118
+P01595,25,Female,Neurology,Emergency,2024-04-27,2024-04-29,2,57,53,92.98,206
+P01596,41,Male,Neurology,Emergency,2025-05-30,2025-06-13,14,149,92,61.74,232
+P01597,32,Female,Pediatrics,Scheduled,2024-12-22,2024-12-29,7,78,33,42.31,1155
+P01598,82,Female,Cardiology,Emergency,2024-08-25,2024-08-30,5,129,95,73.64,111
+P01599,42,Male,Neurology,Scheduled,2024-02-17,2024-02-28,11,112,80,71.43,806
+P01600,90,Female,Neurology,Emergency,2023-10-05,2023-10-18,13,116,57,49.14,20
+P01601,41,Female,Cardiology,Emergency,2024-11-26,2024-11-27,1,119,62,52.1,102
+P01602,90,Male,General Medicine,Scheduled,2023-11-15,2023-11-20,5,115,21,18.26,1366
+P01603,49,Male,Orthopedics,Emergency,2024-09-11,2024-09-14,3,98,80,81.63,8
+P01604,3,Male,Neurology,Scheduled,2025-08-08,2025-08-22,14,125,39,31.2,1379
+P01605,6,Female,Neurology,Emergency,2024-07-16,2024-07-23,7,147,72,48.98,60
+P01606,44,Male,Neurology,Scheduled,2025-01-05,2025-01-19,14,138,132,95.65,994
+P01607,29,Male,Orthopedics,Emergency,2024-03-11,2024-03-15,4,104,74,71.15,78
+P01608,49,Male,General Medicine,Scheduled,2025-08-03,2025-08-18,15,88,39,44.32,725
+P01609,19,Male,Neurology,Emergency,2023-12-18,2024-01-02,15,98,90,91.84,12
+P01610,70,Male,Neurology,Scheduled,2025-01-12,2025-01-15,3,56,35,62.5,1174
+P01611,72,Male,General Medicine,Scheduled,2024-08-16,2024-08-24,8,88,66,75.0,618
+P01612,25,Male,Cardiology,Emergency,2023-11-20,2023-11-29,9,113,113,100.0,230
+P01613,43,Female,General Medicine,Emergency,2024-02-05,2024-02-20,15,98,41,41.84,69
+P01614,66,Female,Neurology,Emergency,2024-11-16,2024-11-23,7,70,60,85.71,193
+P01615,64,Male,Cardiology,Emergency,2025-04-07,2025-04-20,13,50,44,88.0,67
+P01616,35,Female,Orthopedics,Emergency,2023-09-02,2023-09-12,10,131,106,80.92,163
+P01617,16,Female,Cardiology,Scheduled,2025-07-31,2025-08-11,11,110,102,92.73,267
+P01618,48,Female,Pediatrics,Scheduled,2023-11-23,2023-11-27,4,105,85,80.95,1414
+P01619,53,Female,General Medicine,Scheduled,2023-09-07,2023-09-12,5,124,116,93.55,191
+P01620,20,Female,Cardiology,Scheduled,2025-02-01,2025-02-15,14,97,76,78.35,1073
+P01621,25,Male,Orthopedics,Emergency,2024-04-16,2024-04-19,3,130,103,79.23,294
+P01622,61,Male,Orthopedics,Emergency,2025-07-09,2025-07-14,5,144,139,96.53,101
+P01623,49,Male,Cardiology,Emergency,2025-04-03,2025-04-07,4,116,42,36.21,278
+P01624,33,Female,Neurology,Scheduled,2025-02-19,2025-02-27,8,128,83,64.84,153
+P01625,58,Female,Cardiology,Scheduled,2025-02-16,2025-03-01,13,148,87,58.78,1102
+P01626,57,Male,General Medicine,Scheduled,2023-10-03,2023-10-14,11,68,63,92.65,1248
+P01627,7,Female,Pediatrics,Emergency,2025-02-04,2025-02-15,11,50,29,58.0,226
+P01628,67,Male,General Medicine,Emergency,2024-09-05,2024-09-11,6,83,31,37.35,103
+P01629,50,Female,Neurology,Emergency,2024-03-12,2024-03-13,1,135,22,16.3,277
+P01630,76,Male,Neurology,Scheduled,2024-04-19,2024-05-01,12,64,23,35.94,942
+P01631,10,Female,Pediatrics,Emergency,2025-08-23,2025-08-28,5,121,34,28.1,5
+P01632,68,Female,Cardiology,Emergency,2025-06-23,2025-06-26,3,87,45,51.72,160
+P01633,54,Female,Cardiology,Emergency,2025-08-18,2025-08-31,13,106,62,58.49,137
+P01634,75,Male,Cardiology,Scheduled,2023-10-29,2023-11-09,11,90,26,28.89,806
+P01635,19,Male,Orthopedics,Emergency,2025-07-17,2025-07-25,8,138,74,53.62,236
+P01636,8,Male,Orthopedics,Emergency,2025-02-10,2025-02-18,8,71,32,45.07,260
+P01637,24,Female,Pediatrics,Emergency,2024-07-15,2024-07-25,10,143,84,58.74,199
+P01638,34,Female,Orthopedics,Emergency,2024-09-08,2024-09-13,5,109,21,19.27,202
+P01639,90,Male,Cardiology,Emergency,2024-03-11,2024-03-20,9,91,63,69.23,294
+P01640,61,Male,Orthopedics,Scheduled,2023-09-13,2023-09-21,8,65,54,83.08,511
+P01641,10,Male,General Medicine,Scheduled,2024-06-13,2024-06-19,6,61,38,62.3,217
+P01642,53,Female,Neurology,Scheduled,2025-04-09,2025-04-13,4,140,36,25.71,1188
+P01643,19,Male,General Medicine,Emergency,2023-10-30,2023-11-03,4,70,54,77.14,172
+P01644,90,Female,Pediatrics,Scheduled,2024-06-27,2024-07-05,8,87,23,26.44,1012
+P01645,12,Female,Neurology,Scheduled,2024-01-21,2024-01-31,10,93,81,87.1,1342
+P01646,58,Female,Cardiology,Scheduled,2025-05-13,2025-05-28,15,97,64,65.98,758
+P01647,25,Female,Orthopedics,Emergency,2024-11-14,2024-11-23,9,51,30,58.82,93
+P01648,16,Male,General Medicine,Emergency,2024-07-01,2024-07-12,11,63,44,69.84,78
+P01649,19,Female,Pediatrics,Scheduled,2025-04-04,2025-04-15,11,105,68,64.76,921
+P01650,88,Female,Neurology,Scheduled,2024-01-31,2024-02-02,2,145,138,95.17,581
+P01651,57,Female,General Medicine,Scheduled,2025-01-24,2025-01-29,5,61,36,59.02,1234
+P01652,53,Male,Neurology,Scheduled,2025-04-24,2025-05-06,12,62,58,93.55,76
+P01653,44,Female,Orthopedics,Emergency,2025-04-21,2025-04-25,4,88,56,63.64,10
+P01654,77,Male,Orthopedics,Scheduled,2024-10-04,2024-10-08,4,105,81,77.14,140
+P01655,4,Male,Neurology,Emergency,2025-05-09,2025-05-17,8,147,146,99.32,224
+P01656,90,Female,Cardiology,Emergency,2024-01-16,2024-01-28,12,105,48,45.71,195
+P01657,45,Female,Orthopedics,Emergency,2024-11-15,2024-11-21,6,112,58,51.79,181
+P01658,1,Female,General Medicine,Emergency,2024-07-27,2024-08-04,8,63,20,31.75,116
+P01659,71,Male,General Medicine,Emergency,2025-05-26,2025-06-03,8,131,88,67.18,137
+P01660,37,Female,General Medicine,Emergency,2025-03-26,2025-03-29,3,141,78,55.32,166
+P01661,54,Male,General Medicine,Scheduled,2024-03-11,2024-03-16,5,72,40,55.56,338
+P01662,49,Male,Orthopedics,Scheduled,2024-12-05,2024-12-10,5,140,54,38.57,661
+P01663,67,Female,Pediatrics,Emergency,2024-03-19,2024-03-23,4,109,20,18.35,41
+P01664,36,Male,Neurology,Emergency,2025-08-17,2025-08-31,14,52,46,88.46,227
+P01665,44,Female,Cardiology,Scheduled,2023-09-19,2023-09-27,8,109,20,18.35,509
+P01666,16,Male,Cardiology,Scheduled,2025-07-31,2025-08-03,3,118,49,41.53,198
+P01667,4,Female,Pediatrics,Scheduled,2025-06-21,2025-06-23,2,148,44,29.73,742
+P01668,45,Male,General Medicine,Emergency,2025-05-08,2025-05-10,2,70,29,41.43,238
+P01669,33,Female,Cardiology,Scheduled,2023-11-29,2023-12-01,2,77,57,74.03,1269
+P01670,66,Female,General Medicine,Scheduled,2024-04-28,2024-04-29,1,106,21,19.81,343
+P01671,57,Female,Neurology,Scheduled,2025-06-14,2025-06-29,15,99,47,47.47,1264
+P01672,63,Female,Cardiology,Emergency,2025-07-14,2025-07-28,14,105,93,88.57,114
+P01673,62,Female,Orthopedics,Scheduled,2024-10-10,2024-10-13,3,81,78,96.3,1033
+P01674,68,Male,Pediatrics,Emergency,2024-03-14,2024-03-24,10,118,37,31.36,259
+P01675,72,Male,Cardiology,Emergency,2024-01-31,2024-02-10,10,77,62,80.52,92
+P01676,42,Male,General Medicine,Scheduled,2025-02-13,2025-02-19,6,57,37,64.91,1060
+P01677,89,Male,Cardiology,Scheduled,2024-09-25,2024-10-07,12,86,77,89.53,485
+P01678,19,Female,Orthopedics,Scheduled,2024-05-25,2024-06-05,11,51,41,80.39,410
+P01679,1,Female,Orthopedics,Emergency,2024-10-08,2024-10-15,7,131,68,51.91,49
+P01680,84,Female,Pediatrics,Emergency,2025-06-10,2025-06-16,6,83,30,36.14,139
+P01681,48,Female,Orthopedics,Emergency,2023-12-07,2023-12-21,14,105,64,60.95,81
+P01682,25,Male,Pediatrics,Scheduled,2024-03-09,2024-03-23,14,76,66,86.84,65
+P01683,19,Male,Pediatrics,Emergency,2025-04-29,2025-05-13,14,150,50,33.33,146
+P01684,65,Female,General Medicine,Scheduled,2023-10-31,2023-11-06,6,98,47,47.96,1383
+P01685,71,Male,Pediatrics,Emergency,2024-03-05,2024-03-11,6,111,51,45.95,246
+P01686,74,Female,General Medicine,Scheduled,2024-05-05,2024-05-15,10,130,74,56.92,78
+P01687,58,Male,Orthopedics,Scheduled,2025-06-24,2025-07-07,13,57,28,49.12,1188
+P01688,76,Male,General Medicine,Scheduled,2023-09-20,2023-10-01,11,100,90,90.0,902
+P01689,51,Female,Orthopedics,Scheduled,2024-06-17,2024-06-24,7,145,133,91.72,1335
+P01690,17,Female,Neurology,Emergency,2025-05-21,2025-05-30,9,143,22,15.38,82
+P01691,4,Male,Neurology,Emergency,2024-04-20,2024-04-27,7,88,21,23.86,199
+P01692,68,Female,Pediatrics,Emergency,2025-02-18,2025-03-05,15,82,30,36.59,266
+P01693,32,Female,Orthopedics,Emergency,2025-07-06,2025-07-14,8,127,113,88.98,101
+P01694,65,Female,General Medicine,Scheduled,2023-11-14,2023-11-17,3,77,40,51.95,99
+P01695,53,Female,Orthopedics,Scheduled,2024-03-21,2024-03-23,2,73,24,32.88,1052
+P01696,19,Male,Orthopedics,Emergency,2023-12-21,2023-12-30,9,117,48,41.03,179
+P01697,45,Female,General Medicine,Emergency,2023-12-23,2024-01-07,15,100,33,33.0,97
+P01698,17,Male,Pediatrics,Emergency,2024-06-13,2024-06-15,2,69,57,82.61,62
+P01699,45,Female,Pediatrics,Scheduled,2024-09-21,2024-10-03,12,96,94,97.92,601
+P01700,46,Female,Neurology,Emergency,2024-03-24,2024-03-25,1,106,68,64.15,280
+P01701,4,Male,Pediatrics,Emergency,2024-09-15,2024-09-18,3,118,24,20.34,248
+P01702,29,Female,General Medicine,Scheduled,2024-05-09,2024-05-15,6,87,67,77.01,1002
+P01703,11,Female,Pediatrics,Scheduled,2025-05-24,2025-05-27,3,50,43,86.0,896
+P01704,80,Female,Pediatrics,Scheduled,2023-12-14,2023-12-22,8,72,58,80.56,111
+P01705,88,Male,Orthopedics,Emergency,2023-10-14,2023-10-18,4,111,81,72.97,169
+P01706,55,Male,Pediatrics,Emergency,2023-12-18,2023-12-23,5,99,97,97.98,171
+P01707,76,Male,General Medicine,Scheduled,2025-03-03,2025-03-13,10,95,61,64.21,980
+P01708,9,Female,Cardiology,Emergency,2025-04-01,2025-04-13,12,126,111,88.1,250
+P01709,74,Female,Pediatrics,Emergency,2024-11-01,2024-11-05,4,52,41,78.85,114
+P01710,59,Male,Neurology,Scheduled,2024-08-13,2024-08-22,9,112,36,32.14,399
+P01711,89,Male,General Medicine,Scheduled,2023-12-26,2024-01-09,14,77,72,93.51,1354
+P01712,17,Male,Neurology,Emergency,2023-12-30,2024-01-02,3,79,42,53.16,267
+P01713,70,Female,Cardiology,Emergency,2025-01-10,2025-01-17,7,119,96,80.67,203
+P01714,41,Female,Pediatrics,Emergency,2025-06-22,2025-07-02,10,98,43,43.88,116
+P01715,10,Male,Pediatrics,Emergency,2025-05-25,2025-06-08,14,105,81,77.14,215
+P01716,3,Female,Pediatrics,Scheduled,2024-11-22,2024-12-01,9,117,114,97.44,671
+P01717,50,Male,General Medicine,Scheduled,2025-01-22,2025-02-04,13,118,89,75.42,1369
+P01718,14,Male,Cardiology,Scheduled,2023-09-03,2023-09-11,8,144,28,19.44,1296
+P01719,6,Male,Orthopedics,Emergency,2023-09-21,2023-09-29,8,135,75,55.56,195
+P01720,18,Male,Orthopedics,Emergency,2024-10-16,2024-10-31,15,114,81,71.05,215
+P01721,38,Male,Orthopedics,Emergency,2024-03-27,2024-03-30,3,71,40,56.34,201
+P01722,59,Male,General Medicine,Scheduled,2024-06-03,2024-06-17,14,122,25,20.49,124
+P01723,65,Female,Neurology,Scheduled,2025-01-05,2025-01-10,5,72,53,73.61,982
+P01724,83,Female,General Medicine,Scheduled,2024-07-24,2024-07-28,4,92,53,57.61,1040
+P01725,42,Male,Pediatrics,Scheduled,2025-01-18,2025-01-25,7,64,61,95.31,1054
+P01726,19,Male,Pediatrics,Scheduled,2024-10-21,2024-11-03,13,78,55,70.51,222
+P01727,35,Female,Neurology,Emergency,2023-11-12,2023-11-20,8,84,30,35.71,107
+P01728,10,Male,Neurology,Scheduled,2023-12-28,2024-01-07,10,118,72,61.02,76
+P01729,69,Male,Cardiology,Scheduled,2025-03-22,2025-03-29,7,108,84,77.78,587
+P01730,43,Female,General Medicine,Emergency,2024-05-23,2024-06-02,10,109,76,69.72,112
+P01731,34,Male,General Medicine,Scheduled,2024-10-29,2024-11-01,3,74,63,85.14,599
+P01732,16,Female,Neurology,Emergency,2024-12-27,2025-01-02,6,115,108,93.91,173
+P01733,22,Male,Pediatrics,Scheduled,2025-03-14,2025-03-26,12,117,106,90.6,1250
+P01734,66,Female,Pediatrics,Scheduled,2024-12-10,2024-12-14,4,125,21,16.8,1397
+P01735,49,Female,Pediatrics,Emergency,2025-03-21,2025-03-31,10,58,39,67.24,128
+P01736,23,Female,Cardiology,Emergency,2025-08-17,2025-08-22,5,65,29,44.62,159
+P01737,54,Male,Neurology,Scheduled,2024-09-14,2024-09-18,4,69,51,73.91,1399
+P01738,62,Male,Orthopedics,Scheduled,2024-11-16,2024-11-22,6,54,49,90.74,951
+P01739,89,Male,General Medicine,Emergency,2024-08-15,2024-08-24,9,132,63,47.73,151
+P01740,61,Female,Orthopedics,Emergency,2025-03-22,2025-03-23,1,145,97,66.9,228
+P01741,17,Male,Cardiology,Scheduled,2023-10-17,2023-10-21,4,106,78,73.58,1046
+P01742,59,Female,Orthopedics,Emergency,2024-04-11,2024-04-25,14,78,69,88.46,136
+P01743,23,Female,Neurology,Emergency,2023-11-11,2023-11-21,10,81,79,97.53,153
+P01744,59,Female,Neurology,Scheduled,2024-09-01,2024-09-16,15,110,105,95.45,1133
+P01745,3,Male,General Medicine,Emergency,2025-02-03,2025-02-11,8,127,104,81.89,229
+P01746,88,Female,Pediatrics,Scheduled,2024-10-23,2024-11-03,11,94,31,32.98,836
+P01747,41,Female,Cardiology,Scheduled,2024-12-26,2025-01-03,8,51,20,39.22,241
+P01748,45,Female,Neurology,Emergency,2025-03-20,2025-03-21,1,144,59,40.97,180
+P01749,24,Female,Orthopedics,Scheduled,2023-09-22,2023-09-28,6,53,33,62.26,1430
+P01750,24,Male,Cardiology,Emergency,2023-10-02,2023-10-12,10,96,47,48.96,265
+P01751,48,Female,Pediatrics,Emergency,2023-12-02,2023-12-06,4,126,112,88.89,210
+P01752,75,Female,Neurology,Emergency,2025-02-18,2025-02-25,7,137,46,33.58,66
+P01753,27,Female,Orthopedics,Emergency,2025-08-14,2025-08-27,13,127,88,69.29,47
+P01754,24,Female,General Medicine,Scheduled,2025-06-09,2025-06-15,6,149,146,97.99,834
+P01755,52,Male,Cardiology,Scheduled,2024-03-21,2024-03-28,7,150,100,66.67,483
+P01756,53,Female,Pediatrics,Scheduled,2023-10-28,2023-11-07,10,94,63,67.02,1252
+P01757,17,Female,Neurology,Scheduled,2024-10-31,2024-11-15,15,138,79,57.25,86
+P01758,17,Male,General Medicine,Emergency,2024-10-21,2024-11-05,15,138,131,94.93,145
+P01759,38,Male,Pediatrics,Scheduled,2025-03-17,2025-03-28,11,101,55,54.46,524
+P01760,4,Male,Cardiology,Emergency,2025-07-09,2025-07-23,14,73,20,27.4,151
+P01761,35,Female,Cardiology,Emergency,2025-03-20,2025-03-23,3,73,43,58.9,170
+P01762,47,Female,Neurology,Emergency,2023-09-10,2023-09-21,11,56,45,80.36,10
+P01763,25,Male,General Medicine,Scheduled,2025-07-03,2025-07-06,3,51,24,47.06,1118
+P01764,53,Female,Cardiology,Scheduled,2023-09-06,2023-09-13,7,64,50,78.12,353
+P01765,24,Female,Orthopedics,Emergency,2024-06-27,2024-07-02,5,79,69,87.34,192
+P01766,27,Female,General Medicine,Emergency,2024-07-20,2024-07-31,11,108,68,62.96,139
+P01767,44,Female,General Medicine,Emergency,2024-11-08,2024-11-17,9,87,55,63.22,23
+P01768,85,Male,Orthopedics,Emergency,2025-06-15,2025-06-25,10,112,96,85.71,41
+P01769,19,Male,Orthopedics,Scheduled,2024-02-10,2024-02-21,11,66,57,86.36,174
+P01770,57,Female,Orthopedics,Emergency,2024-12-06,2024-12-20,14,54,23,42.59,171
+P01771,82,Male,Pediatrics,Emergency,2024-07-30,2024-08-12,13,61,31,50.82,181
+P01772,53,Male,Neurology,Scheduled,2024-12-17,2025-01-01,15,135,95,70.37,82
+P01773,58,Male,Cardiology,Scheduled,2025-07-30,2025-08-01,2,129,28,21.71,872
+P01774,68,Female,Orthopedics,Emergency,2025-04-26,2025-04-29,3,62,43,69.35,148
+P01775,64,Female,Cardiology,Emergency,2023-10-11,2023-10-13,2,60,28,46.67,286
+P01776,26,Female,Pediatrics,Emergency,2025-03-14,2025-03-16,2,126,55,43.65,187
+P01777,15,Female,Neurology,Scheduled,2024-09-21,2024-09-22,1,126,65,51.59,871
+P01778,42,Male,Orthopedics,Emergency,2024-02-07,2024-02-13,6,124,75,60.48,63
+P01779,72,Female,Cardiology,Emergency,2025-07-18,2025-07-29,11,52,33,63.46,244
+P01780,15,Female,Cardiology,Scheduled,2023-08-30,2023-08-31,1,62,42,67.74,850
+P01781,55,Male,Pediatrics,Emergency,2024-10-01,2024-10-06,5,61,50,81.97,221
+P01782,45,Male,Cardiology,Scheduled,2024-02-24,2024-03-09,14,80,60,75.0,1163
+P01783,36,Female,Neurology,Emergency,2025-07-31,2025-08-02,2,84,31,36.9,85
+P01784,11,Male,Orthopedics,Emergency,2024-05-07,2024-05-09,2,85,80,94.12,199
+P01785,38,Female,General Medicine,Emergency,2024-08-26,2024-09-02,7,86,39,45.35,122
+P01786,59,Male,Pediatrics,Emergency,2024-05-21,2024-05-26,5,139,135,97.12,143
+P01787,87,Female,General Medicine,Scheduled,2023-09-09,2023-09-20,11,147,37,25.17,1382
+P01788,5,Male,Pediatrics,Scheduled,2024-01-13,2024-01-15,2,90,79,87.78,842
+P01789,76,Male,Neurology,Scheduled,2024-10-06,2024-10-20,14,71,71,100.0,339
+P01790,55,Female,Cardiology,Emergency,2023-09-08,2023-09-11,3,135,104,77.04,203
+P01791,72,Male,Cardiology,Emergency,2024-09-22,2024-09-26,4,119,73,61.34,293
+P01792,54,Female,Cardiology,Emergency,2024-03-03,2024-03-04,1,142,29,20.42,159
+P01793,57,Female,Neurology,Emergency,2025-08-23,2025-09-03,11,83,34,40.96,125
+P01794,21,Female,Neurology,Scheduled,2024-10-24,2024-10-28,4,121,39,32.23,1031
+P01795,8,Female,Orthopedics,Scheduled,2024-12-16,2024-12-27,11,100,89,89.0,775
+P01796,46,Female,Orthopedics,Emergency,2023-08-31,2023-09-10,10,121,58,47.93,296
+P01797,70,Male,General Medicine,Scheduled,2025-03-09,2025-03-22,13,66,63,95.45,686
+P01798,90,Male,General Medicine,Emergency,2024-11-04,2024-11-14,10,89,29,32.58,51
+P01799,5,Female,Orthopedics,Scheduled,2025-04-25,2025-05-01,6,140,27,19.29,1290
+P01800,74,Male,Cardiology,Scheduled,2024-03-23,2024-03-30,7,84,52,61.9,169
+P01801,76,Female,General Medicine,Scheduled,2025-07-25,2025-07-29,4,133,23,17.29,431
+P01802,39,Male,Neurology,Scheduled,2024-10-30,2024-11-09,10,74,47,63.51,1087
+P01803,5,Female,Cardiology,Scheduled,2024-11-01,2024-11-05,4,144,25,17.36,749
+P01804,65,Female,Pediatrics,Emergency,2023-12-19,2023-12-20,1,140,46,32.86,126
+P01805,38,Female,Neurology,Emergency,2025-04-09,2025-04-21,12,52,28,53.85,188
+P01806,29,Female,Orthopedics,Emergency,2024-12-15,2024-12-30,15,122,119,97.54,287
+P01807,45,Female,General Medicine,Scheduled,2024-12-28,2025-01-12,15,76,32,42.11,921
+P01808,55,Female,Cardiology,Scheduled,2024-06-11,2024-06-15,4,72,25,34.72,117
+P01809,48,Female,Cardiology,Emergency,2024-11-20,2024-11-26,6,75,21,28.0,229
+P01810,50,Female,General Medicine,Emergency,2024-11-20,2024-11-23,3,129,46,35.66,74
+P01811,86,Female,Pediatrics,Emergency,2023-10-23,2023-11-04,12,150,132,88.0,276
+P01812,7,Female,Orthopedics,Scheduled,2024-08-25,2024-08-27,2,67,34,50.75,766
+P01813,49,Male,General Medicine,Scheduled,2024-05-20,2024-06-02,13,117,80,68.38,1271
+P01814,3,Male,Pediatrics,Scheduled,2025-08-01,2025-08-05,4,134,58,43.28,170
+P01815,27,Female,Neurology,Emergency,2023-09-11,2023-09-13,2,86,42,48.84,20
+P01816,31,Female,Cardiology,Emergency,2024-07-30,2024-08-04,5,141,139,98.58,30
+P01817,89,Male,Pediatrics,Emergency,2024-12-05,2024-12-13,8,101,76,75.25,118
+P01818,43,Male,Pediatrics,Emergency,2024-06-04,2024-06-14,10,92,38,41.3,18
+P01819,42,Male,General Medicine,Emergency,2024-01-29,2024-02-04,6,68,68,100.0,117
+P01820,85,Female,Pediatrics,Emergency,2024-09-08,2024-09-23,15,61,60,98.36,190
+P01821,52,Male,Pediatrics,Emergency,2025-07-21,2025-08-01,11,66,65,98.48,195
+P01822,61,Male,Neurology,Emergency,2025-05-06,2025-05-14,8,143,27,18.88,201
+P01823,80,Female,Pediatrics,Scheduled,2025-04-09,2025-04-22,13,141,50,35.46,207
+P01824,45,Male,Neurology,Scheduled,2024-07-05,2024-07-17,12,126,24,19.05,230
+P01825,30,Male,Neurology,Scheduled,2024-06-29,2024-07-08,9,95,23,24.21,550
+P01826,34,Male,Cardiology,Scheduled,2023-12-07,2023-12-20,13,124,84,67.74,761
+P01827,87,Female,Cardiology,Scheduled,2023-11-25,2023-12-06,11,114,20,17.54,359
+P01828,22,Female,General Medicine,Emergency,2024-10-21,2024-11-02,12,130,46,35.38,273
+P01829,60,Male,Cardiology,Scheduled,2024-01-24,2024-02-02,9,149,129,86.58,518
+P01830,15,Male,Pediatrics,Emergency,2025-07-13,2025-07-18,5,90,79,87.78,13
+P01831,67,Male,Cardiology,Scheduled,2025-04-16,2025-04-26,10,135,71,52.59,54
+P01832,77,Male,Orthopedics,Emergency,2025-08-11,2025-08-20,9,63,26,41.27,262
+P01833,89,Female,Cardiology,Scheduled,2025-03-19,2025-04-03,15,111,28,25.23,1129
+P01834,71,Male,Neurology,Emergency,2023-09-09,2023-09-11,2,96,41,42.71,125
+P01835,66,Male,Pediatrics,Emergency,2023-12-28,2024-01-06,9,55,46,83.64,273
+P01836,36,Male,Pediatrics,Scheduled,2024-01-19,2024-01-28,9,71,57,80.28,1319
+P01837,89,Male,Cardiology,Scheduled,2024-10-09,2024-10-24,15,147,45,30.61,1378
+P01838,9,Male,Orthopedics,Emergency,2023-09-25,2023-10-05,10,95,20,21.05,290
+P01839,79,Male,Neurology,Scheduled,2023-09-05,2023-09-16,11,88,77,87.5,586
+P01840,76,Male,Neurology,Scheduled,2025-04-04,2025-04-15,11,140,132,94.29,655
+P01841,89,Female,Cardiology,Emergency,2024-02-14,2024-02-23,9,93,43,46.24,263
+P01842,68,Female,General Medicine,Scheduled,2024-05-08,2024-05-13,5,141,94,66.67,1182
+P01843,16,Female,Cardiology,Emergency,2023-10-26,2023-11-01,6,54,29,53.7,147
+P01844,80,Female,Neurology,Emergency,2024-12-11,2024-12-14,3,89,51,57.3,6
+P01845,14,Male,Orthopedics,Scheduled,2024-10-23,2024-11-07,15,116,74,63.79,460
+P01846,86,Male,Orthopedics,Emergency,2025-06-03,2025-06-15,12,61,27,44.26,251
+P01847,58,Male,Neurology,Scheduled,2024-11-29,2024-12-12,13,84,68,80.95,1200
+P01848,65,Male,Cardiology,Scheduled,2024-06-20,2024-06-23,3,76,32,42.11,1206
+P01849,68,Male,General Medicine,Scheduled,2025-03-10,2025-03-21,11,147,109,74.15,776
+P01850,55,Female,Neurology,Scheduled,2025-06-04,2025-06-19,15,107,76,71.03,274
+P01851,6,Female,Cardiology,Scheduled,2023-11-03,2023-11-15,12,64,45,70.31,160
+P01852,19,Male,Orthopedics,Emergency,2024-11-15,2024-11-17,2,137,36,26.28,145
+P01853,58,Male,Cardiology,Scheduled,2023-11-06,2023-11-13,7,91,60,65.93,651
+P01854,35,Male,Orthopedics,Scheduled,2024-12-01,2024-12-11,10,109,26,23.85,790
+P01855,77,Male,General Medicine,Emergency,2025-03-28,2025-04-06,9,129,23,17.83,257
+P01856,62,Male,Pediatrics,Emergency,2024-10-12,2024-10-20,8,107,61,57.01,220
+P01857,72,Male,Neurology,Emergency,2025-03-11,2025-03-12,1,127,31,24.41,98
+P01858,76,Male,Orthopedics,Emergency,2024-08-05,2024-08-13,8,64,32,50.0,14
+P01859,84,Male,General Medicine,Scheduled,2025-02-26,2025-02-28,2,50,20,40.0,244
+P01860,56,Male,Neurology,Scheduled,2025-02-04,2025-02-08,4,137,67,48.91,873
+P01861,25,Female,Orthopedics,Emergency,2024-07-06,2024-07-14,8,136,78,57.35,247
+P01862,39,Female,Cardiology,Scheduled,2025-03-10,2025-03-23,13,83,50,60.24,1317
+P01863,68,Female,Orthopedics,Scheduled,2023-10-16,2023-10-20,4,81,72,88.89,467
+P01864,72,Female,Pediatrics,Scheduled,2025-01-07,2025-01-09,2,66,60,90.91,306
+P01865,61,Female,Pediatrics,Emergency,2024-01-20,2024-02-03,14,144,87,60.42,165
+P01866,32,Female,General Medicine,Emergency,2024-09-19,2024-09-26,7,123,59,47.97,286
+P01867,61,Female,Orthopedics,Emergency,2025-03-18,2025-03-25,7,109,31,28.44,211
+P01868,63,Female,Neurology,Scheduled,2025-03-23,2025-03-28,5,123,98,79.67,1392
+P01869,73,Male,General Medicine,Emergency,2024-12-30,2025-01-03,4,136,109,80.15,64
+P01870,23,Male,Cardiology,Scheduled,2025-01-25,2025-02-07,13,102,35,34.31,631
+P01871,72,Male,General Medicine,Emergency,2024-05-18,2024-05-23,5,128,20,15.62,255
+P01872,84,Female,Cardiology,Scheduled,2025-07-29,2025-08-09,11,102,27,26.47,185
+P01873,1,Female,Cardiology,Emergency,2024-03-25,2024-04-01,7,83,47,56.63,155
+P01874,63,Male,Cardiology,Emergency,2025-05-07,2025-05-11,4,93,37,39.78,189
+P01875,68,Male,Neurology,Scheduled,2024-02-18,2024-02-21,3,106,42,39.62,1381
+P01876,42,Male,General Medicine,Scheduled,2025-05-30,2025-06-09,10,101,31,30.69,981
+P01877,60,Female,Cardiology,Emergency,2024-02-11,2024-02-20,9,64,34,53.12,188
+P01878,14,Male,General Medicine,Emergency,2025-03-12,2025-03-15,3,77,54,70.13,64
+P01879,69,Female,Neurology,Emergency,2024-10-19,2024-10-21,2,73,25,34.25,181
+P01880,31,Female,Cardiology,Scheduled,2025-01-21,2025-01-26,5,92,67,72.83,217
+P01881,12,Male,Cardiology,Scheduled,2025-02-01,2025-02-06,5,107,55,51.4,1190
+P01882,89,Female,Pediatrics,Emergency,2024-12-17,2024-12-24,7,107,87,81.31,8
+P01883,67,Female,Cardiology,Emergency,2024-01-17,2024-01-29,12,81,53,65.43,144
+P01884,63,Female,Neurology,Scheduled,2024-05-31,2024-06-04,4,123,123,100.0,435
+P01885,74,Female,Cardiology,Emergency,2025-05-16,2025-05-30,14,139,61,43.88,180
+P01886,60,Female,Pediatrics,Scheduled,2024-07-02,2024-07-15,13,137,125,91.24,206
+P01887,18,Male,Orthopedics,Scheduled,2024-12-05,2024-12-18,13,110,73,66.36,50
+P01888,9,Female,Orthopedics,Scheduled,2023-11-23,2023-12-03,10,146,134,91.78,734
+P01889,2,Male,Cardiology,Emergency,2023-09-04,2023-09-19,15,67,41,61.19,57
+P01890,89,Female,Neurology,Emergency,2024-09-30,2024-10-02,2,147,131,89.12,291
+P01891,43,Female,Cardiology,Scheduled,2025-02-13,2025-02-21,8,53,39,73.58,846
+P01892,39,Female,Neurology,Scheduled,2024-03-15,2024-03-29,14,144,89,61.81,766
+P01893,32,Male,General Medicine,Scheduled,2025-02-05,2025-02-14,9,86,76,88.37,1140
+P01894,5,Female,General Medicine,Emergency,2024-05-18,2024-05-25,7,89,70,78.65,156
+P01895,29,Female,Orthopedics,Emergency,2025-04-01,2025-04-08,7,150,58,38.67,197
+P01896,83,Female,Orthopedics,Scheduled,2023-08-28,2023-09-12,15,116,48,41.38,1180
+P01897,3,Female,Orthopedics,Emergency,2023-08-28,2023-08-31,3,116,39,33.62,104
+P01898,1,Male,General Medicine,Scheduled,2024-06-07,2024-06-10,3,83,29,34.94,257
+P01899,63,Female,Pediatrics,Emergency,2024-08-08,2024-08-23,15,112,68,60.71,223
+P01900,14,Female,Orthopedics,Emergency,2024-05-27,2024-06-09,13,91,60,65.93,118
+P01901,75,Female,General Medicine,Emergency,2025-07-24,2025-08-05,12,67,58,86.57,108
+P01902,54,Male,Neurology,Scheduled,2025-06-12,2025-06-24,12,79,46,58.23,1147
+P01903,30,Male,Neurology,Scheduled,2025-08-05,2025-08-20,15,147,103,70.07,1398
+P01904,89,Female,Neurology,Scheduled,2024-02-21,2024-02-29,8,118,77,65.25,1359
+P01905,69,Male,Pediatrics,Scheduled,2024-10-05,2024-10-15,10,81,55,67.9,332
+P01906,29,Male,Orthopedics,Emergency,2024-04-06,2024-04-12,6,112,83,74.11,21
+P01907,13,Female,General Medicine,Emergency,2024-06-02,2024-06-10,8,109,51,46.79,110
+P01908,58,Female,General Medicine,Emergency,2024-01-30,2024-02-13,14,70,22,31.43,135
+P01909,3,Male,Pediatrics,Scheduled,2024-06-10,2024-06-24,14,148,92,62.16,1146
+P01910,35,Male,Pediatrics,Scheduled,2023-09-13,2023-09-21,8,72,57,79.17,1150
+P01911,4,Male,Neurology,Emergency,2024-07-01,2024-07-11,10,50,32,64.0,250
+P01912,63,Female,Neurology,Scheduled,2024-03-26,2024-04-06,11,83,70,84.34,766
+P01913,28,Male,Pediatrics,Scheduled,2024-02-18,2024-02-29,11,150,149,99.33,1161
+P01914,66,Female,Neurology,Scheduled,2024-09-17,2024-09-28,11,115,39,33.91,50
+P01915,28,Male,Cardiology,Emergency,2023-09-28,2023-10-04,6,95,86,90.53,299
+P01916,29,Male,General Medicine,Emergency,2024-01-25,2024-02-04,10,145,32,22.07,300
+P01917,80,Female,Cardiology,Emergency,2025-04-16,2025-04-27,11,134,83,61.94,141
+P01918,15,Male,General Medicine,Emergency,2023-12-13,2023-12-27,14,112,112,100.0,163
+P01919,58,Male,Neurology,Emergency,2025-01-26,2025-01-27,1,93,69,74.19,185
+P01920,6,Male,General Medicine,Scheduled,2023-09-08,2023-09-15,7,65,37,56.92,663
+P01921,10,Male,Orthopedics,Emergency,2024-11-05,2024-11-13,8,145,85,58.62,148
+P01922,7,Male,Cardiology,Scheduled,2025-04-29,2025-05-12,13,132,35,26.52,1109
+P01923,9,Male,Pediatrics,Emergency,2024-04-26,2024-05-09,13,105,56,53.33,165
+P01924,30,Male,Pediatrics,Scheduled,2025-07-01,2025-07-07,6,62,61,98.39,1062
+P01925,20,Male,Neurology,Emergency,2025-02-28,2025-03-06,6,121,47,38.84,31
+P01926,11,Male,Pediatrics,Scheduled,2024-03-17,2024-03-21,4,74,37,50.0,302
+P01927,75,Male,Pediatrics,Emergency,2023-09-21,2023-09-29,8,69,65,94.2,207
+P01928,89,Female,Neurology,Scheduled,2025-05-30,2025-05-31,1,110,72,65.45,1085
+P01929,74,Male,Orthopedics,Scheduled,2024-04-18,2024-05-02,14,102,101,99.02,958
+P01930,78,Male,General Medicine,Emergency,2024-12-07,2024-12-15,8,115,105,91.3,52
+P01931,2,Male,Orthopedics,Scheduled,2024-10-16,2024-10-30,14,112,57,50.89,988
+P01932,87,Male,Cardiology,Scheduled,2023-09-30,2023-10-13,13,70,61,87.14,200
+P01933,31,Female,Orthopedics,Scheduled,2024-10-26,2024-11-06,11,149,60,40.27,239
+P01934,31,Male,Neurology,Emergency,2024-05-15,2024-05-23,8,79,47,59.49,73
+P01935,44,Female,Cardiology,Scheduled,2025-05-07,2025-05-10,3,50,25,50.0,1184
+P01936,13,Female,Pediatrics,Scheduled,2025-03-21,2025-03-30,9,149,146,97.99,54
+P01937,23,Male,Pediatrics,Emergency,2024-08-18,2024-08-27,9,70,34,48.57,18
+P01938,5,Female,Neurology,Scheduled,2024-05-22,2024-05-23,1,133,83,62.41,974
+P01939,47,Male,General Medicine,Emergency,2024-11-13,2024-11-28,15,130,86,66.15,99
+P01940,27,Male,Orthopedics,Scheduled,2024-10-08,2024-10-15,7,123,78,63.41,861
+P01941,47,Male,Cardiology,Emergency,2023-11-28,2023-11-30,2,63,27,42.86,132
+P01942,34,Female,Orthopedics,Scheduled,2023-10-02,2023-10-14,12,70,36,51.43,998
+P01943,49,Female,General Medicine,Scheduled,2024-04-03,2024-04-06,3,146,35,23.97,474
+P01944,63,Female,Neurology,Scheduled,2024-09-28,2024-10-05,7,145,20,13.79,1097
+P01945,32,Female,Cardiology,Scheduled,2024-04-12,2024-04-15,3,98,60,61.22,171
+P01946,7,Female,Neurology,Emergency,2024-09-05,2024-09-07,2,85,38,44.71,151
+P01947,60,Female,General Medicine,Scheduled,2023-09-12,2023-09-23,11,82,65,79.27,189
+P01948,80,Female,General Medicine,Scheduled,2023-10-15,2023-10-16,1,144,108,75.0,564
+P01949,11,Female,General Medicine,Scheduled,2025-07-07,2025-07-18,11,129,125,96.9,103
+P01950,26,Female,Cardiology,Scheduled,2024-01-31,2024-02-05,5,67,23,34.33,125
+P01951,36,Female,Cardiology,Emergency,2023-10-01,2023-10-07,6,83,30,36.14,300
+P01952,3,Male,Cardiology,Scheduled,2023-11-28,2023-12-12,14,145,26,17.93,1095
+P01953,85,Male,General Medicine,Emergency,2024-04-22,2024-05-06,14,52,44,84.62,202
+P01954,87,Male,General Medicine,Scheduled,2024-01-18,2024-01-19,1,105,100,95.24,24
+P01955,22,Male,Cardiology,Emergency,2023-11-13,2023-11-17,4,130,77,59.23,93
+P01956,61,Female,Cardiology,Scheduled,2025-03-21,2025-04-02,12,59,30,50.85,30
+P01957,74,Male,Neurology,Scheduled,2025-05-17,2025-05-23,6,54,23,42.59,755
+P01958,7,Male,Cardiology,Emergency,2024-07-14,2024-07-23,9,112,38,33.93,119
+P01959,73,Male,General Medicine,Scheduled,2024-05-07,2024-05-09,2,120,64,53.33,101
+P01960,75,Male,Pediatrics,Scheduled,2025-06-22,2025-06-26,4,110,93,84.55,1436
+P01961,20,Male,Cardiology,Scheduled,2024-12-02,2024-12-04,2,52,32,61.54,1405
+P01962,43,Female,Pediatrics,Emergency,2023-12-17,2023-12-18,1,51,40,78.43,63
+P01963,77,Female,General Medicine,Scheduled,2024-07-25,2024-08-02,8,55,39,70.91,420
+P01964,86,Female,Orthopedics,Scheduled,2024-08-19,2024-08-23,4,124,83,66.94,245
+P01965,42,Male,General Medicine,Scheduled,2025-01-08,2025-01-12,4,107,28,26.17,573
+P01966,57,Male,Pediatrics,Emergency,2025-06-03,2025-06-12,9,120,97,80.83,204
+P01967,9,Female,Cardiology,Emergency,2025-08-12,2025-08-24,12,125,112,89.6,263
+P01968,38,Male,Cardiology,Emergency,2023-09-05,2023-09-07,2,95,68,71.58,286
+P01969,28,Male,Neurology,Emergency,2023-12-17,2023-12-24,7,135,28,20.74,248
+P01970,61,Male,General Medicine,Emergency,2025-06-07,2025-06-13,6,78,45,57.69,10
+P01971,4,Female,Pediatrics,Scheduled,2025-02-07,2025-02-17,10,80,49,61.25,861
+P01972,38,Female,Orthopedics,Emergency,2023-12-31,2024-01-03,3,121,26,21.49,251
+P01973,44,Male,General Medicine,Emergency,2025-01-04,2025-01-13,9,74,24,32.43,160
+P01974,15,Female,Pediatrics,Emergency,2024-11-06,2024-11-07,1,88,66,75.0,158
+P01975,18,Male,Pediatrics,Scheduled,2024-11-24,2024-12-06,12,73,23,31.51,1053
+P01976,26,Male,Pediatrics,Emergency,2023-11-11,2023-11-21,10,121,47,38.84,235
+P01977,75,Female,Orthopedics,Scheduled,2025-04-11,2025-04-17,6,53,27,50.94,1400
+P01978,38,Male,Orthopedics,Scheduled,2023-12-08,2023-12-11,3,118,28,23.73,41
+P01979,59,Male,Orthopedics,Scheduled,2024-01-09,2024-01-23,14,123,101,82.11,1128
+P01980,68,Female,Orthopedics,Emergency,2024-06-26,2024-06-27,1,127,71,55.91,109
+P01981,80,Male,Cardiology,Emergency,2023-09-29,2023-10-03,4,93,88,94.62,173
+P01982,89,Male,Cardiology,Emergency,2024-11-07,2024-11-15,8,84,20,23.81,169
+P01983,23,Female,Pediatrics,Emergency,2023-10-16,2023-10-26,10,148,59,39.86,294
+P01984,21,Female,Orthopedics,Scheduled,2024-08-04,2024-08-16,12,118,69,58.47,1313
+P01985,7,Female,Cardiology,Emergency,2025-02-17,2025-03-02,13,78,64,82.05,235
+P01986,44,Male,Neurology,Scheduled,2025-04-21,2025-04-25,4,77,42,54.55,406
+P01987,26,Female,Orthopedics,Scheduled,2024-03-08,2024-03-18,10,91,72,79.12,263
+P01988,46,Female,Orthopedics,Emergency,2025-03-26,2025-04-07,12,110,44,40.0,157
+P01989,7,Male,Neurology,Scheduled,2025-06-15,2025-06-23,8,87,30,34.48,338
+P01990,32,Male,General Medicine,Emergency,2024-07-09,2024-07-18,9,146,41,28.08,156
+P01991,7,Male,Neurology,Scheduled,2025-02-22,2025-03-04,10,138,133,96.38,1296
+P01992,56,Male,Pediatrics,Scheduled,2024-12-25,2024-12-26,1,133,88,66.17,595
+P01993,23,Female,Orthopedics,Scheduled,2024-06-13,2024-06-27,14,110,22,20.0,186
+P01994,13,Female,Cardiology,Emergency,2024-02-27,2024-03-09,11,102,55,53.92,102
+P01995,54,Female,Pediatrics,Scheduled,2025-06-13,2025-06-27,14,77,35,45.45,425
+P01996,88,Male,General Medicine,Scheduled,2024-12-13,2024-12-28,15,129,128,99.22,740
+P01997,25,Female,Orthopedics,Emergency,2025-05-23,2025-06-05,13,85,60,70.59,148
+P01998,60,Male,Pediatrics,Emergency,2024-09-09,2024-09-14,5,120,59,49.17,24
+P01999,31,Female,Pediatrics,Scheduled,2024-02-06,2024-02-20,14,109,39,35.78,731
+P02000,54,Male,Orthopedics,Scheduled,2023-11-08,2023-11-15,7,79,20,25.32,361

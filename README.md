@@ -1,4 +1,4 @@
-# 🏥 Hospital Admission Trends & Bed Occupancy Analysis
+# 🏥 Hospital Admission Trends & Bed Occupancy Analysis with Forecast
 
 An interactive **Streamlit-based healthcare analytics project** that analyzes hospital admissions, forecasts bed occupancy, and visualizes patient trends.  
 This project combines **data analytics, forecasting, and dashboarding** to help hospitals make better data-driven decisions.
@@ -60,7 +60,8 @@ pip install -r requirements.txt
 
 4.streamlit run app.py
 
-5.Open the local URL displayed in the terminal (usually http://localhost:8501).
+5.Open the local URL displayed in the terminal 
+https://data-science-dashboard3-vxrounfzxzyjcznfpcmfkw.streamlit.app/
 
 🔑 Login Credentials (Demo)
 Username	Password

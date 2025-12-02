@@ -36,7 +36,7 @@ The workflow includes:
 | **Libraries** | Pandas, NumPy, Plotly, Scikit-learn, Prophet |
 | **Visualization** | Power BI (initial), Streamlit (final app) |
 | **Database** | SQLite (for structured data storage) |
-| **Version Control** | Git & GitHub |
+| **Version Control** | GitHub |
 | **Deployment** | Streamlit Cloud |
 | **Notebook Environment** | Jupyter Notebook / VS Code |
 
